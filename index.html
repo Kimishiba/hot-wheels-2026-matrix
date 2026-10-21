@@ -700,37 +700,369 @@
       font-weight: 700;
       box-sizing: border-box;
     }
+
+    /* ========================================================
+       RESPONSIVE MOBILE & TABLET LAYOUT (< 1025px)
+       ======================================================== */
+    @media (max-width: 1024px) {
+      html, body {
+        width: 100%;
+        height: auto !important;
+        min-height: 100dvh;
+        overflow-x: hidden !important;
+        overflow-y: auto !important;
+      }
+
+      .desktop-only {
+        display: none !important;
+      }
+
+      .mobile-only {
+        display: flex !important;
+      }
+
+      .header-bar {
+        position: sticky;
+        top: 0;
+        z-index: 50;
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        border-bottom: var(--border-thick);
+        background: #ffffff;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+      }
+
+      .header-top-row {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 8px 12px;
+        border-bottom: 2px solid #000000;
+        background: #ffffff;
+        width: 100%;
+        box-sizing: border-box;
+      }
+
+      .brand-title {
+        font-size: 1.05rem;
+      }
+
+      .cases-nav-container {
+        width: 100%;
+        background: #f8fafc;
+        border-bottom: 2px solid #000000;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        scrollbar-width: none;
+        box-sizing: border-box;
+      }
+
+      .cases-nav-container::-webkit-scrollbar {
+        display: none;
+      }
+
+      .cases-nav {
+        display: flex;
+        align-items: center;
+        gap: 6px;
+        padding: 7px 12px;
+        width: max-content;
+        background: transparent;
+        border: none;
+        box-shadow: none;
+      }
+
+      .case-pill {
+        flex-shrink: 0;
+        min-width: 38px;
+        height: 36px;
+        padding: 0 10px;
+        font-size: 0.82rem;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        border: 2px solid #000000;
+        box-shadow: 2px 2px 0px #000000;
+        border-radius: 0;
+      }
+
+      .stats-pills-container {
+        width: 100%;
+        background: #ffffff;
+        border-bottom: 2px solid #000000;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        scrollbar-width: none;
+        box-sizing: border-box;
+      }
+
+      .stats-pills-container::-webkit-scrollbar {
+        display: none;
+      }
+
+      .stats-pills {
+        display: flex;
+        align-items: center;
+        gap: 6px;
+        padding: 6px 12px;
+        width: max-content;
+      }
+
+      .pill {
+        font-size: 0.72rem;
+        padding: 4px 8px;
+        flex-shrink: 0;
+        border: 1.5px solid #000000;
+        box-shadow: 1.5px 1.5px 0px #000000;
+      }
+
+      /* RESPONSIVE CAR GRID */
+      .grid-container {
+        width: 100%;
+        height: auto !important;
+        min-height: calc(100dvh - 140px);
+        overflow: visible !important;
+        padding: 12px 10px 48px 10px;
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        grid-template-rows: auto;
+        gap: 10px;
+        box-sizing: border-box;
+      }
+
+      @media (min-width: 640px) {
+        .grid-container {
+          grid-template-columns: repeat(3, minmax(0, 1fr));
+          gap: 12px;
+        }
+      }
+
+      @media (min-width: 820px) {
+        .grid-container {
+          grid-template-columns: repeat(4, minmax(0, 1fr));
+          gap: 12px;
+        }
+      }
+
+      .card-wrap {
+        height: auto;
+        aspect-ratio: 0.74;
+        min-height: 220px;
+        max-height: 280px;
+        position: relative;
+        width: 100%;
+      }
+
+      .car-card {
+        border: 3px solid #000000;
+        box-shadow: 3px 3px 0px #000000;
+      }
+
+      .car-card:active {
+        transform: translate(2px, 2px);
+        box-shadow: 1px 1px 0px #000000;
+      }
+
+      .card-header {
+        height: 24px;
+        min-height: 24px;
+        font-size: 0.68rem;
+        padding: 0 6px;
+      }
+
+      .card-img-box {
+        padding: 6px;
+        min-height: 110px;
+      }
+
+      .card-img-box img {
+        max-width: 92%;
+        max-height: 92%;
+      }
+
+      .micro-badge {
+        top: 6px;
+        right: 6px;
+        font-size: 0.62rem;
+        padding: 2px 5px;
+        border: 1.5px solid #000000;
+        box-shadow: 1.5px 1.5px 0px #000000;
+      }
+
+      .card-info {
+        height: auto;
+        min-height: 48px;
+        padding: 5px 6px;
+        border-top: 2px solid #000000;
+      }
+
+      .car-title {
+        font-size: 0.78rem;
+        font-weight: 800;
+        white-space: normal;
+        line-height: 1.15;
+        display: -webkit-box;
+        -webkit-line-clamp: 1;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+      }
+
+      .car-meta {
+        font-size: 0.65rem;
+        margin-top: 2px;
+      }
+    }
+
+    /* MOBILE MODAL (< 768px) */
+    @media (max-width: 768px) {
+      .morph-face-back {
+        border: 3px solid #000000;
+        box-shadow: 6px 6px 0px #000000;
+      }
+
+      .modal-topbar {
+        height: 44px;
+        min-height: 44px;
+        padding: 0 12px;
+        border-bottom: 3px solid #000000;
+      }
+
+      .modal-title-group {
+        font-size: 0.85rem;
+        gap: 8px;
+      }
+
+      .modal-close-btn {
+        width: 32px;
+        height: 32px;
+        min-width: 32px;
+        font-size: 1.2rem;
+      }
+
+      .modal-body {
+        display: flex;
+        flex-direction: column;
+        grid-template-columns: none;
+        overflow-y: auto;
+        -webkit-overflow-scrolling: touch;
+        border-bottom: 3px solid #000000;
+        flex: 1;
+        min-height: 0;
+      }
+
+      .modal-image-stage {
+        height: 190px;
+        min-height: 180px;
+        border-right: none;
+        border-bottom: 3px solid #000000;
+        padding: 10px;
+        background: #ffffff;
+        flex-shrink: 0;
+      }
+
+      .modal-image-link img {
+        max-width: 90%;
+        max-height: 90%;
+        filter: drop-shadow(0 8px 14px rgba(0,0,0,0.22));
+      }
+
+      .wiki-hint-pill {
+        bottom: 8px;
+        font-size: 0.62rem;
+        padding: 4px 10px;
+      }
+
+      .modal-sidebar {
+        padding: 12px 14px;
+        gap: 10px;
+        height: auto;
+        overflow-y: visible;
+        flex: 1;
+        justify-content: flex-start;
+        background: #f8fafc;
+      }
+
+      .spec-group {
+        gap: 8px;
+      }
+
+      .spec-lbl {
+        font-size: 0.62rem;
+      }
+
+      .spec-val {
+        font-size: 1rem;
+        line-height: 1.2;
+      }
+
+      .btn-fandom {
+        margin-top: 4px;
+        padding: 8px 12px;
+        font-size: 0.78rem;
+        min-height: 40px;
+      }
+
+      .modal-nav {
+        margin-top: 10px;
+        gap: 8px;
+      }
+
+      .btn-nav {
+        padding: 10px;
+        font-size: 0.82rem;
+        min-height: 42px;
+      }
+
+      .modal-footer {
+        height: 30px;
+        min-height: 30px;
+        padding: 0 10px;
+        font-size: 0.58rem;
+      }
+    }
   </style>
 </head>
 <body>
 
-  <!-- TOP HEADER WITH 15 CASE SELECTOR PILLS -->
+  <!-- RESPONSIVE HEADER WITH CASE SELECTOR AND STATS -->
   <header class="header-bar">
-    <div class="brand-group">
-      <div class="brand-title">
-        <span>HOT WHEELS</span>
-        <span style="color: var(--accent);">2026</span>
+    <div class="header-top-row">
+      <div class="brand-group">
+        <div class="brand-title">
+          <span>HOT WHEELS</span>
+          <span style="color: var(--accent);">2026</span>
+        </div>
       </div>
       
-      <!-- 15 CASE SELECTOR (A TO Q) -->
+      <!-- MOBILE-ONLY ACTIONS -->
+      <div class="header-actions mobile-only">
+        <a href="hot_wheels_2026_case_a_poster.html" class="btn-action" id="link-poster-mobile">📄 Poster</a>
+      </div>
+    </div>
+
+    <!-- 15 CASE SELECTOR (A TO Q) -->
+    <div class="cases-nav-container">
       <div class="cases-nav" id="cases-nav">
         <!-- Rendered by JS -->
       </div>
     </div>
 
     <!-- CURRENT CASE STATS -->
-    <div class="stats-pills" id="stats-pills">
-      <div class="pill" id="stat-count">-- Models</div>
-      <div class="pill sth" id="stat-sth">★ $TH</div>
-      <div class="pill th" id="stat-th">♨ TH</div>
-      <div class="pill new" id="stat-new">★ NEW</div>
+    <div class="stats-pills-container">
+      <div class="stats-pills" id="stats-pills">
+        <div class="pill" id="stat-count">-- Models</div>
+        <div class="pill sth" id="stat-sth">★ $TH</div>
+        <div class="pill th" id="stat-th">♨ TH</div>
+        <div class="pill new" id="stat-new">★ NEW</div>
+      </div>
     </div>
 
-    <!-- ACTIONS -->
-    <div class="header-actions">
+    <!-- DESKTOP ACTIONS -->
+    <div class="header-actions desktop-only">
       <button class="btn-action" id="btn-layout" onclick="toggleLayout()">Grid: 9×3</button>
       <a href="hot_wheels_2026_case_a_poster.html" class="btn-action" id="link-poster" style="text-decoration: none;">📄 Printable Poster</a>
-      <button class="btn-action" onclick="toggleFullscreen()">⛶ Fullscreen</button>
+      <button class="btn-action" onclick="toggleFullscreen()" title="Fullscreen">⛶ Fullscreen</button>
     </div>
   </header>
 
@@ -849,10 +1181,18 @@
       const cData = casesData[letter];
       if (!cData) return;
 
-      // Update active nav button
+      // Update active nav button and scroll pill into view
       document.querySelectorAll(".case-pill").forEach(p => p.classList.remove("active"));
       const activePill = document.getElementById(`pill-case-${letter}`);
-      if (activePill) activePill.classList.add("active");
+      if (activePill) {
+        activePill.classList.add("active");
+        activePill.scrollIntoView({ behavior: "smooth", inline: "center", block: "nearest" });
+      }
+
+      // Scroll page to top on mobile/tablet when switching case
+      if (window.innerWidth <= 1024) {
+        window.scrollTo({ top: 0, behavior: "smooth" });
+      }
 
       // Update header stats
       document.getElementById("stat-count").innerHTML = `<strong>${cData.total_count}</strong> Models`;
@@ -973,6 +1313,8 @@
       activeIndex = index;
       activeCardEl = cardEl;
 
+      document.body.classList.add("modal-open");
+
       const car = currentCaseCars[index];
       updateFrontFace(car);
       updateBackFace(car);
@@ -997,13 +1339,14 @@
 
       void morphCard.offsetWidth;
 
-      const targetW = Math.min(window.innerWidth * 0.74, 760);
-      const targetH = Math.min(window.innerHeight * 0.78, 500);
+      const isMobile = window.innerWidth <= 768;
+      const targetW = isMobile ? Math.min(window.innerWidth - 16, 440) : Math.min(window.innerWidth * 0.74, 760);
+      const targetH = isMobile ? Math.min(window.innerHeight - 24, 620) : Math.min(window.innerHeight * 0.78, 500);
       const targetL = (window.innerWidth - targetW) / 2;
       const targetT = (window.innerHeight - targetH) / 2;
 
       backdrop.classList.add("active");
-      morphCard.style.transition = "top 0.5s cubic-bezier(0.16, 1, 0.3, 1), left 0.5s cubic-bezier(0.16, 1, 0.3, 1), width 0.5s cubic-bezier(0.16, 1, 0.3, 1), height 0.5s cubic-bezier(0.16, 1, 0.3, 1), transform 0.5s cubic-bezier(0.16, 1, 0.3, 1)";
+      morphCard.style.transition = "top 0.48s cubic-bezier(0.16, 1, 0.3, 1), left 0.48s cubic-bezier(0.16, 1, 0.3, 1), width 0.48s cubic-bezier(0.16, 1, 0.3, 1), height 0.48s cubic-bezier(0.16, 1, 0.3, 1), transform 0.48s cubic-bezier(0.16, 1, 0.3, 1)";
       morphCard.style.left = targetL + "px";
       morphCard.style.top = targetT + "px";
       morphCard.style.width = targetW + "px";
@@ -1012,14 +1355,24 @@
 
       setTimeout(() => {
         isAnimating = false;
-      }, 510);
+      }, 500);
     }
 
     function closeMorphCard() {
       if (isAnimating || activeIndex === -1) return;
       isAnimating = true;
 
+      document.body.classList.remove("modal-open");
+
       const targetCardEl = document.getElementById(`card-${activeIndex}`);
+      if (targetCardEl) {
+        const r = targetCardEl.getBoundingClientRect();
+        const inView = r.top >= 0 && r.bottom <= window.innerHeight;
+        if (!inView) {
+          targetCardEl.scrollIntoView({ block: "center" });
+        }
+      }
+
       const rect = targetCardEl ? targetCardEl.getBoundingClientRect() : null;
       const morphCard = document.getElementById("morph-card");
       const backdrop = document.getElementById("morph-backdrop");
@@ -1029,7 +1382,7 @@
       if (rect) {
         updateFrontFace(currentCaseCars[activeIndex]);
 
-        morphCard.style.transition = "top 0.44s cubic-bezier(0.2, 0.8, 0.2, 1), left 0.44s cubic-bezier(0.2, 0.8, 0.2, 1), width 0.44s cubic-bezier(0.2, 0.8, 0.2, 1), height 0.44s cubic-bezier(0.2, 0.8, 0.2, 1), transform 0.44s cubic-bezier(0.2, 0.8, 0.2, 1)";
+        morphCard.style.transition = "top 0.42s cubic-bezier(0.2, 0.8, 0.2, 1), left 0.42s cubic-bezier(0.2, 0.8, 0.2, 1), width 0.42s cubic-bezier(0.2, 0.8, 0.2, 1), height 0.42s cubic-bezier(0.2, 0.8, 0.2, 1), transform 0.42s cubic-bezier(0.2, 0.8, 0.2, 1)";
         morphCard.style.left = rect.left + "px";
         morphCard.style.top = rect.top + "px";
         morphCard.style.width = rect.width + "px";
@@ -1049,7 +1402,7 @@
           activeCardEl = null;
           activeIndex = -1;
           isAnimating = false;
-        }, 450);
+        }, 430);
       } else {
         morphCard.style.display = "none";
         if (activeCardEl) activeCardEl.style.opacity = "1";
@@ -1064,7 +1417,9 @@
       const prevCard = document.getElementById(`card-${activeIndex}`);
       if (prevCard) {
         prevCard.style.opacity = "1";
-        if (prevCard.parentElement) prevCard.parentElement.style.outline = "none";
+        if (prevCard.parentElement) {
+          prevCard.parentElement.style.outline = "none";
+        }
       }
 
       activeIndex = (activeIndex + direction + currentCaseCars.length) % currentCaseCars.length;
@@ -1092,6 +1447,39 @@
         }, 230);
       }, 220);
     }
+
+    // Touch swipe gesture navigation on mobile for morph card
+    let touchStartX = 0;
+    let touchStartY = 0;
+
+    const morphCardEl = document.getElementById("morph-card");
+    morphCardEl.addEventListener("touchstart", (e) => {
+      if (e.touches.length === 1) {
+        touchStartX = e.touches[0].clientX;
+        touchStartY = e.touches[0].clientY;
+      }
+    }, { passive: true });
+
+    morphCardEl.addEventListener("touchend", (e) => {
+      if (e.changedTouches.length === 1) {
+        const touchEndX = e.changedTouches[0].clientX;
+        const touchEndY = e.changedTouches[0].clientY;
+        const diffX = touchEndX - touchStartX;
+        const diffY = touchEndY - touchStartY;
+        const absX = Math.abs(diffX);
+        const absY = Math.abs(diffY);
+
+        if (absX > 45 && absX > absY * 1.5) {
+          if (diffX < 0) {
+            navigateMorph(1); // Swipe left -> Next
+          } else {
+            navigateMorph(-1); // Swipe right -> Prev
+          }
+        } else if (diffY > 80 && absY > absX * 1.5) {
+          closeMorphCard(); // Swipe down -> Close
+        }
+      }
+    }, { passive: true });
 
     document.addEventListener("keydown", (e) => {
       const backdrop = document.getElementById("morph-backdrop");

@@ -376,6 +376,60 @@
       font-weight: 800;
     }
 
+    @media (max-width: 768px) {
+      body {
+        padding: 12px 8px;
+      }
+      .toolbar {
+        flex-direction: column;
+        align-items: stretch;
+        padding: 12px;
+        gap: 12px;
+      }
+      .toolbar > div {
+        flex-direction: column;
+        width: 100%;
+        gap: 8px !important;
+      }
+      .btn-export {
+        width: 100%;
+        justify-content: center;
+        font-size: 0.85rem;
+        padding: 10px;
+      }
+      #poster-canvas-wrapper {
+        padding: 12px;
+        border-width: 3px;
+        box-shadow: 4px 4px 0px #000000;
+      }
+      .poster-header {
+        padding: 16px 14px;
+        margin-bottom: 16px;
+        flex-direction: column;
+        align-items: flex-start;
+      }
+      .header-left h1 {
+        font-size: 1.6rem;
+      }
+      .header-stats {
+        width: 100%;
+        justify-content: space-between;
+      }
+      .cars-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 8px;
+      }
+      .car-card {
+        border-width: 3px;
+      }
+      .card-name {
+        font-size: 0.85rem;
+      }
+      .series-tag {
+        max-width: 90px;
+      }
+    }
+
     @media print {
       body {
         padding: 0;
