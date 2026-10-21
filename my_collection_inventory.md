@@ -1,6 +1,6 @@
 # Die-Cast Vehicle Collection Inventory: Hot Wheels & Matchbox
 
-**Total Identified Items:** 119 Vehicles across 6 Photos (74 Carded / In-Package + 45 Loose)
+**Total Identified Items:** 129 Vehicles across 7 Photos (75 Carded / In-Package + 54 Loose)
 
 ---
 
@@ -228,4 +228,23 @@
 | 119 | Hot Wheels | **Datsun 240Z** | Then and Now | Deep British Racing Green aero G-nose coupe with white racing stripes & #23 roundel | #072/250 |
 | 120 | Hot Wheels | **X-cceleron** | Exoticars | Satin dark charcoal futuristic canopy track hypercar concept with red aero trim | #075/250 |
 | 121 | Hot Wheels | **Nissan Maxima Drift Car** | Wagons | Gloss black Formula Drift competition wagon with gold KW suspension livery & twin roof wings | #225/250 |
+
+---
+
+## 7. New Additions & Custom Mod Haul (Photo 7)
+*10 newly added vehicles (1 Carded + 9 Loose, including 1 Custom Modded Crawler):*
+
+| # | Brand | Casting Name | Series | Condition | Details / Livery | Reference |
+|---|---|---|---|---|---|---|
+| 122 | Hot Wheels | **Mailed It! (White Edition)** | Team Wheels | In Packaging | White body with golden Hot Wheels flame roof graphics & red rear rims | #168/250 |
+| 123 | Custom / HW | **Custom Modded Crawler Truck** | Custom Build | Loose | Bright yellow truck body custom-mounted onto heavy-duty rubber caterpillar / snow crawler tracks | Custom Mod |
+| 124 | Hot Wheels | **BMW M4 GT3 (Black / M-Sport)** | HW Starting Grid | Loose | Gloss black GT3 endurance racer with M-Sport tricolor hood/roof stripes & #2 roundel | #073/250 |
+| 125 | Hot Wheels | **'98 Subaru Impreza 22B STi-Version** | HW J-Imports | Loose | Gloss black widebody turbo rally icon with bold white '#22' roof racing tampo & white aerodisc wheels | JDM Classic |
+| 126 | Hot Wheels | **Mitsubishi Lancer Evolution VI** | Car Culture / Rally | Loose | Classic white Tommi Mäkinen WRC livery with red/black Ralliart side graphics & #1 roundels | WRC Legend |
+| 127 | Hot Wheels | **24/Seven (Lime Green)** | HW Nightspeed | Loose | Metallic lime green street tuner inspired by FD RX-7 with extended chin splitter & GT wing | JDM Tuner |
+| 128 | Hot Wheels | **Forward Force (X-Raycers)** | X-Raycers | Loose | Translucent amber-orange futuristic hypercar with contrasting electric blue front canards & rear spoiler | X-Raycers |
+| 129 | Hot Wheels | **Justice League Armored Batmobile** | Batman / Screen Time | Loose | Satin battle-grey armored DCEU Batmobile with hood-mounted twin artillery cannon turret | Movie Vehicle |
+| 130 | Hot Wheels | **Custom Delivery / Box Hauler Truck** | HW Delivery | Loose | Red cab, dual blue vertical exhaust stacks, and silver cargo van body with retro mascot graphics | Vintage Hauler |
+| 131 | Hot Wheels | **Aero GT Rally Coupe** | HW Track Stars | Loose | Matte black tarmac rally coupe with roof ventilation scoop, grey lower cladding & high white rear wing | Track Stars |
+
 

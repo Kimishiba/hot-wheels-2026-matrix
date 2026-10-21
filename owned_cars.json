@@ -2324,5 +2324,209 @@
       "Drift",
       "Nissan"
     ]
+  },
+  {
+    "id": "pkg-074",
+    "name": "Mailed It! (White Edition)",
+    "brand": "Hot Wheels",
+    "condition": "In Packaging",
+    "category": "Concept & Track",
+    "series": "Team Wheels",
+    "col_num": "#168/250",
+    "image": "images/owned/pkg_mailed_it_white_carded.jpg",
+    "official_image": "images/car_168_JJK12.webp",
+    "color": "White / Golden Flame Roof",
+    "description": "Carded Team Wheels edition of the slammed high-velocity delivery van featuring golden Hot Wheels flame roof graphics and red rear wheels.",
+    "tags": [
+      "Hot Wheels",
+      "In Packaging",
+      "Van",
+      "Team Wheels"
+    ]
+  },
+  {
+    "id": "loose-045",
+    "name": "Custom Modded Crawler Truck (Tank Tracks)",
+    "brand": "Hot Wheels",
+    "condition": "Loose",
+    "category": "Trucks & 4x4",
+    "series": "Custom Build",
+    "col_num": "Modded",
+    "image": "images/owned/loose_yellow_modded_crawler_tracks.jpg",
+    "official_image": null,
+    "color": "Bright Yellow / Black Tracks",
+    "description": "Custom-modified off-road vehicle featuring a yellow truck body custom-mounted onto continuous heavy-duty rubber caterpillar / snow crawler tracks.",
+    "tags": [
+      "Hot Wheels",
+      "Loose",
+      "Custom",
+      "Modded",
+      "4x4",
+      "Tracks"
+    ]
+  },
+  {
+    "id": "loose-046",
+    "name": "BMW M4 GT3 (Black / M-Sport)",
+    "brand": "Hot Wheels",
+    "condition": "Loose",
+    "category": "Exotics & Supercars",
+    "series": "HW Starting Grid",
+    "col_num": "#073/250",
+    "image": "images/owned/loose_bmw_m4_gt3_black.jpg",
+    "official_image": "images/car_073_JNG69.webp",
+    "color": "Gloss Black / M-Tricolor #2",
+    "description": "Factory GT3 endurance racing machine in gloss black with iconic BMW M-Power tricolor hood and roof striping, #2 roundel, and swan-neck wing.",
+    "tags": [
+      "Hot Wheels",
+      "Loose",
+      "BMW",
+      "GT3",
+      "M-Power",
+      "Race"
+    ]
+  },
+  {
+    "id": "loose-047",
+    "name": "'98 Subaru Impreza 22B STi-Version",
+    "brand": "Hot Wheels",
+    "condition": "Loose",
+    "category": "JDM & Tuners",
+    "series": "HW J-Imports",
+    "col_num": "Loose",
+    "image": "images/owned/loose_subaru_impreza_22b_black_22.jpg",
+    "official_image": null,
+    "color": "Gloss Black / #22 Roof",
+    "description": "Legendary widebody turbo rally icon in gloss black with bold white '#22' roof racing tampo, hood scoop, tall spoiler, and white aerodisc wheels.",
+    "tags": [
+      "Hot Wheels",
+      "Loose",
+      "Subaru",
+      "22B",
+      "STI",
+      "JDM",
+      "Rally"
+    ]
+  },
+  {
+    "id": "loose-048",
+    "name": "Mitsubishi Lancer Evolution VI",
+    "brand": "Hot Wheels",
+    "condition": "Loose",
+    "category": "JDM & Tuners",
+    "series": "Car Culture / Rally",
+    "col_num": "Loose",
+    "image": "images/owned/loose_mitsubishi_lancer_evo_vi_white.jpg",
+    "official_image": null,
+    "color": "White / Red Ralliart #1",
+    "description": "Tommi M\u00e4kinen WRC world rally championship edition in classic white with red and black geometric Ralliart side graphics and #1 competition number.",
+    "tags": [
+      "Hot Wheels",
+      "Loose",
+      "Mitsubishi",
+      "Lancer",
+      "Evo",
+      "WRC",
+      "Rally"
+    ]
+  },
+  {
+    "id": "loose-049",
+    "name": "24/Seven (Lime Green)",
+    "brand": "Hot Wheels",
+    "condition": "Loose",
+    "category": "JDM & Tuners",
+    "series": "HW Nightspeed",
+    "col_num": "Loose",
+    "image": "images/owned/loose_24_seven_lime_green.jpg",
+    "official_image": null,
+    "color": "Metallic Lime Green",
+    "description": "Dave Weise signature street tuner inspired by the FD Mazda RX-7 with extended chin spoiler and tall GT aerodynamic wing.",
+    "tags": [
+      "Hot Wheels",
+      "Loose",
+      "JDM",
+      "24/Seven",
+      "Tuner"
+    ]
+  },
+  {
+    "id": "loose-050",
+    "name": "Forward Force (X-Raycers)",
+    "brand": "Hot Wheels",
+    "condition": "Loose",
+    "category": "Concept & Track",
+    "series": "X-Raycers",
+    "col_num": "Loose",
+    "image": "images/owned/loose_forward_force_translucent_orange.jpg",
+    "official_image": null,
+    "color": "Translucent Orange / Blue Wing",
+    "description": "Futuristic high-speed hypercar molded in translucent amber orange with contrasting electric blue front canards and rear spoiler.",
+    "tags": [
+      "Hot Wheels",
+      "Loose",
+      "X-Raycers",
+      "Concept",
+      "Speed"
+    ]
+  },
+  {
+    "id": "loose-051",
+    "name": "Justice League Armored Batmobile",
+    "brand": "Hot Wheels",
+    "condition": "Loose",
+    "category": "Concept & Track",
+    "series": "Batman",
+    "col_num": "Loose",
+    "image": "images/owned/loose_justice_league_batmobile_grey.jpg",
+    "official_image": null,
+    "color": "Satin Battle-Grey",
+    "description": "Armored combat-modified Batmobile from Justice League featuring hood-mounted heavy artillery cannon turret and angular armor panels.",
+    "tags": [
+      "Hot Wheels",
+      "Loose",
+      "Batman",
+      "Batmobile",
+      "Movie"
+    ]
+  },
+  {
+    "id": "loose-052",
+    "name": "Custom Delivery / Box Hauler Truck",
+    "brand": "Hot Wheels",
+    "condition": "Loose",
+    "category": "Construction & Industrial",
+    "series": "HW Delivery",
+    "col_num": "Loose",
+    "image": "images/owned/loose_red_silver_box_truck.jpg",
+    "official_image": null,
+    "color": "Red Cab / Silver Cargo Box",
+    "description": "Classic commercial cab-over delivery truck with red cab, dual blue vertical exhaust stacks, and silver cargo van body with mascot graphics.",
+    "tags": [
+      "Hot Wheels",
+      "Loose",
+      "Delivery",
+      "Truck"
+    ]
+  },
+  {
+    "id": "loose-053",
+    "name": "Aero GT Rally Coupe",
+    "brand": "Hot Wheels",
+    "condition": "Loose",
+    "category": "Concept & Track",
+    "series": "HW Track Stars",
+    "col_num": "Loose",
+    "image": "images/owned/loose_black_white_wing_gt_coupe.jpg",
+    "official_image": null,
+    "color": "Matte Black / White Wing",
+    "description": "Tarmac rally sports coupe with roof ventilation scoop, contrasting grey lower side cladding, and high-downforce white competition rear wing.",
+    "tags": [
+      "Hot Wheels",
+      "Loose",
+      "Concept",
+      "Track",
+      "Rally"
+    ]
   }
 ]
