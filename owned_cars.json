@@ -2180,5 +2180,149 @@
       "Truck",
       "Off-Road"
     ]
+  },
+  {
+    "id": "pkg-067",
+    "name": "1963 Ford Galaxie",
+    "brand": "Hot Wheels",
+    "condition": "In Packaging",
+    "category": "Muscle & Hot Rods",
+    "series": "Cool Classics",
+    "col_num": "#241/250",
+    "image": "images/owned/pkg_1963_ford_galaxie_haul2.jpg",
+    "official_image": "images/car_241_JJH73.webp",
+    "color": "Royal Blue #63",
+    "description": "Second packaged copy of the iconic 1963 Ford Galaxie #63 NASCAR stock car racer with white roof.",
+    "tags": [
+      "Hot Wheels",
+      "In Packaging",
+      "NASCAR",
+      "Ford",
+      "Classic"
+    ]
+  },
+  {
+    "id": "pkg-068",
+    "name": "'16 Cadillac ATS-V.R",
+    "brand": "Hot Wheels",
+    "condition": "In Packaging",
+    "category": "Exotics & Supercars",
+    "series": "Nightspeed",
+    "col_num": "#090/250",
+    "image": "images/owned/pkg_16_cadillac_ats_v_r.jpg",
+    "official_image": "images/car_090_JJJ52.webp",
+    "color": "Silver / Cadillac Racing #3",
+    "description": "FIA GT3 homologated twin-turbo race car with aggressive carbon front splitter, swan-neck rear wing, and #3 Cadillac Racing livery.",
+    "tags": [
+      "Hot Wheels",
+      "In Packaging",
+      "Cadillac",
+      "GT3",
+      "Nightspeed"
+    ]
+  },
+  {
+    "id": "pkg-069",
+    "name": "Mazda RX-7 (Gold / IMSA)",
+    "brand": "Hot Wheels",
+    "condition": "In Packaging",
+    "category": "JDM & Tuners",
+    "series": "HW J-Imports",
+    "col_num": "#061/250",
+    "image": "images/owned/pkg_mazda_rx7_gold.jpg",
+    "official_image": "images/car_061_JJL35.webp",
+    "color": "Champagne Gold / Red IMSA",
+    "description": "Second colorway of the first-gen SA22C rotary racer in champagne gold with bold red IMSA competition stripes and MAZDA hood script.",
+    "tags": [
+      "Hot Wheels",
+      "In Packaging",
+      "JDM",
+      "Rotary",
+      "Mazda",
+      "IMSA"
+    ]
+  },
+  {
+    "id": "pkg-070",
+    "name": "Porsche 911 Carrera RS 2.7",
+    "brand": "Hot Wheels",
+    "condition": "In Packaging",
+    "category": "Exotics & Supercars",
+    "series": "Then and Now",
+    "col_num": "#208/250",
+    "image": "images/owned/pkg_porsche_911_carrera_rs_2_7.jpg",
+    "official_image": "images/car_208_JJK43.webp",
+    "color": "Metallic Bronze / Copper",
+    "description": "The legendary 1973 Rennsport homologation classic featuring the iconic ducktail rear spoiler and Fuchs-style wheels.",
+    "tags": [
+      "Hot Wheels",
+      "In Packaging",
+      "Porsche",
+      "Carrera RS",
+      "Classic",
+      "Ducktail"
+    ]
+  },
+  {
+    "id": "pkg-071",
+    "name": "Datsun 240Z",
+    "brand": "Hot Wheels",
+    "condition": "In Packaging",
+    "category": "JDM & Tuners",
+    "series": "Then and Now",
+    "col_num": "#072/250",
+    "image": "images/owned/pkg_datsun_240z_green.jpg",
+    "official_image": "images/car_072_JJJ38.webp",
+    "color": "British Racing Green #23",
+    "description": "Aero-extended G-nose Fairlady Z in deep racing green with white center racing stripe and #23 competition roundel.",
+    "tags": [
+      "Hot Wheels",
+      "In Packaging",
+      "JDM",
+      "Datsun",
+      "240Z",
+      "Classic"
+    ]
+  },
+  {
+    "id": "pkg-072",
+    "name": "X-cceleron",
+    "brand": "Hot Wheels",
+    "condition": "In Packaging",
+    "category": "Concept & Track",
+    "series": "Exoticars",
+    "col_num": "#075/250",
+    "image": "images/owned/pkg_x_cceleron.jpg",
+    "official_image": "images/car_075_JJH43.webp",
+    "color": "Satin Dark Charcoal / Red",
+    "description": "Ultra-low-drag canopy track hypercar concept engineered for high downforce and orange track velocity.",
+    "tags": [
+      "Hot Wheels",
+      "In Packaging",
+      "Concept",
+      "Exoticars",
+      "Hypercar"
+    ]
+  },
+  {
+    "id": "pkg-073",
+    "name": "Nissan Maxima Drift Car",
+    "brand": "Hot Wheels",
+    "condition": "In Packaging",
+    "category": "JDM & Tuners",
+    "series": "Wagons",
+    "col_num": "#225/250",
+    "image": "images/owned/pkg_nissan_maxima_drift_car.jpg",
+    "official_image": "images/car_225_JJK53.webp",
+    "color": "Gloss Black / Gold KW Livery",
+    "description": "Formula Drift competition spec Nissan Maxima station wagon featuring twin rear roof spoiler wings, KW suspension, and K&N sponsorship decals.",
+    "tags": [
+      "Hot Wheels",
+      "In Packaging",
+      "JDM",
+      "Wagon",
+      "Drift",
+      "Nissan"
+    ]
   }
 ]

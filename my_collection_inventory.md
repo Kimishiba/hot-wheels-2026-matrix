@@ -1,6 +1,6 @@
 # Die-Cast Vehicle Collection Inventory: Hot Wheels & Matchbox
 
-**Total Identified Items:** ~109 Vehicles across 5 Photos (64 Carded / In-Package + 45 Loose)
+**Total Identified Items:** 119 Vehicles across 6 Photos (74 Carded / In-Package + 45 Loose)
 
 ---
 
@@ -213,3 +213,19 @@
 | 112 | Matchbox | **Mining Trencher / Road Grader** | Industrial mint-green roadwork & excavation equipment |
 | 113 | Hot Wheels | **Long Hauler Flatbed Semi** | Gloss black cab-over highway tractor with chrome chassis |
 | 114 | Matchbox | **Heavy 6x6 Military Tactical Truck** | Camouflage olive drab 3-axle military troop/cargo carrier |
+
+---
+
+## 6. Carded Mainline Haul — Set D (Photo 6)
+*7 newly added packaged Hot Wheels mainlines:*
+
+| # | Brand | Casting Name | Series | Details / Livery | Collector # |
+|---|---|---|---|---|---|
+| 115 | Hot Wheels | **1963 Ford Galaxie** | Cool Classics | Royal blue vintage stock racer with white contrast roof & #63 race decals | #241/250 |
+| 116 | Hot Wheels | **'16 Cadillac ATS-V.R** | Nightspeed | Silver / light blue GT3 race car with swan-neck rear wing & #3 Cadillac Racing livery | #090/250 |
+| 117 | Hot Wheels | **Mazda RX-7 (Gold / IMSA)** | HW J-Imports | 2nd colorway: Champagne gold with red IMSA racing stripes & MAZDA hood script | #061/250 |
+| 118 | Hot Wheels | **Porsche 911 Carrera RS 2.7** | Then and Now | Metallic bronze / copper 1973 Rennsport classic with iconic ducktail spoiler | #208/250 |
+| 119 | Hot Wheels | **Datsun 240Z** | Then and Now | Deep British Racing Green aero G-nose coupe with white racing stripes & #23 roundel | #072/250 |
+| 120 | Hot Wheels | **X-cceleron** | Exoticars | Satin dark charcoal futuristic canopy track hypercar concept with red aero trim | #075/250 |
+| 121 | Hot Wheels | **Nissan Maxima Drift Car** | Wagons | Gloss black Formula Drift competition wagon with gold KW suspension livery & twin roof wings | #225/250 |
+
