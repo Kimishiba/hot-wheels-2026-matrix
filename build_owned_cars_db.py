@@ -12,7 +12,7 @@ owned_cars = [
         "series": "HW Fan Driven / HW Celebration",
         "col_num": "2024 Mainline",
         "image": "images/owned/loose_el_segundo_coupe.jpg",
-        "official_image": None,
+        "official_image": "images/car_096_JJL17.webp",
         "color": "White / Red / Silver",
         "description": "Features the iconic 'stanichi MOTORS' Easter-egg tampo, honoring Roberto Stanichi (EVP of Hot Wheels). Chrome-lip aero disc wheels.",
         "tags": ["Hot Wheels", "Loose", "Concept", "Stanichi Motors", "Featured"]
@@ -112,7 +112,7 @@ owned_cars = [
         "series": "MBX Construction",
         "col_num": "MBX Mainline",
         "image": "images/owned/pkg_mbx_ground_grinder.jpg",
-        "official_image": None,
+        "official_image": "images/stock/pkg-007.webp",
         "color": "Caterpillar Yellow",
         "description": "Heavy industrial crawler bulldozer equipped with functional front pushing blade and rear ripping teeth.",
         "tags": ["Matchbox", "In Packaging", "Construction", "Bulldozer"]
@@ -182,7 +182,7 @@ owned_cars = [
         "series": "GM Heritage",
         "col_num": "MBX Mainline",
         "image": "images/owned/pkg_mbx_gmc_sierra.jpg",
-        "official_image": None,
+        "official_image": "images/stock/pkg-012.webp",
         "color": "Onyx Black",
         "description": "Full-size heavy-duty American pickup truck featuring chrome grille accents and crew-cab configuration.",
         "tags": ["Matchbox", "In Packaging", "Truck", "GMC"]
@@ -196,7 +196,7 @@ owned_cars = [
         "series": "Jeep Series",
         "col_num": "MBX Mainline",
         "image": "images/owned/pkg_mbx_jeep_superlift.jpg",
-        "official_image": None,
+        "official_image": "images/stock/pkg-013.webp",
         "color": "Matte Black",
         "description": "Engineered rock-crawling Rubicon with high-articulation Superlift suspension and beadlock wheels.",
         "tags": ["Matchbox", "In Packaging", "Jeep", "Off-Road", "4x4"]
@@ -266,7 +266,7 @@ owned_cars = [
         "series": "MBX Highway",
         "col_num": "MBX Mainline",
         "image": "images/owned/pkg_mbx_mazda_miata_silver.jpg",
-        "official_image": None,
+        "official_image": "images/stock/pkg-018.webp",
         "color": "Silver Metallic",
         "description": "NC-generation lightweight Japanese roadster featuring retractable power hardtop.",
         "tags": ["Matchbox", "In Packaging", "JDM", "Roadster", "Mazda"]
@@ -280,7 +280,7 @@ owned_cars = [
         "series": "Ford Series",
         "col_num": "MBX Mainline",
         "image": "images/owned/pkg_mbx_ford_f350_stake.jpg",
-        "official_image": None,
+        "official_image": "images/stock/pkg-019.webp",
         "color": "Forest Green / Wood Stake",
         "description": "Commercial dual-rear-wheel workhorse with realistic wood-stake utility transport bed.",
         "tags": ["Matchbox", "In Packaging", "Truck", "Ford", "Commercial"]
@@ -308,7 +308,7 @@ owned_cars = [
         "series": "MBX Off-Road",
         "col_num": "#58/100",
         "image": "images/owned/pkg_mbx_polaris_ranger_grey.jpg",
-        "official_image": None,
+        "official_image": "images/stock/pkg-021.webp",
         "color": "Battleship Grey",
         "description": "All-terrain utility task vehicle (UTV) with ROPS cage and rear dump cargo bed.",
         "tags": ["Matchbox", "In Packaging", "UTV", "Polaris", "Off-Road"]
@@ -322,7 +322,7 @@ owned_cars = [
         "series": "MBX Service",
         "col_num": "MBX Mainline",
         "image": "images/owned/pkg_mbx_blizzard_buster.jpg",
-        "official_image": None,
+        "official_image": "images/stock/pkg-022.webp",
         "color": "Red / Black Cab",
         "description": "Municipal winter maintenance truck fitted with angled front snow clearing plow blade.",
         "tags": ["Matchbox", "In Packaging", "Service", "Snowplow"]
@@ -380,7 +380,7 @@ owned_cars = [
         "series": "MBX Classics",
         "col_num": "#76/125",
         "image": "images/owned/pkg_mbx_68_mustang_cs.jpg",
-        "official_image": None,
+        "official_image": "images/stock/pkg-026.webp",
         "color": "Slate Grey",
         "description": "Rare California Special package fastback with Shelby taillight elements and side scoops.",
         "tags": ["Matchbox", "In Packaging", "Mustang", "Ford", "Classic"]
@@ -394,7 +394,7 @@ owned_cars = [
         "series": "MBX Heritage",
         "col_num": "#28/125",
         "image": "images/owned/pkg_mbx_porsche_cabrio_teal.jpg",
-        "official_image": None,
+        "official_image": "images/stock/pkg-027.webp",
         "color": "Mint Teal / Seafoam Green",
         "description": "Open-air German sports car with rear-engine balance and distinct seafoam green finish.",
         "tags": ["Matchbox", "In Packaging", "Porsche", "Cabriolet", "Exotic"]
@@ -422,7 +422,7 @@ owned_cars = [
         "series": "Track Fleet",
         "col_num": "Hauler Set",
         "image": "images/owned/pkg_hw_track_fleet_hauler.jpg",
-        "official_image": None,
+        "official_image": "images/stock/pkg-029.webp",
         "color": "Black / Multi-Car Rig",
         "description": "Heavy highway car transporter hauling a rally-spec safari vehicle with trailer.",
         "tags": ["Hot Wheels", "In Packaging", "Hauler", "Track Fleet"]
@@ -464,7 +464,7 @@ owned_cars = [
         "series": "MBX Utility",
         "col_num": "#100/125",
         "image": "images/owned/pkg_mbx_honda_ridgeline.jpg",
-        "official_image": None,
+        "official_image": "images/stock/pkg-032.webp",
         "color": "Bright Red",
         "description": "Modern unibody lifestyle truck featuring dual-action tailgate details.",
         "tags": ["Matchbox", "In Packaging", "Truck", "Honda"]
@@ -478,7 +478,7 @@ owned_cars = [
         "series": "GM / Heritage",
         "col_num": "MBX Mainline",
         "image": "images/owned/pkg_mbx_65_land_rover_green.jpg",
-        "official_image": None,
+        "official_image": "images/stock/pkg-033.webp",
         "color": "Sage Green",
         "description": "Legendary British expedition 4x4 with utilitarian aluminum pickup bed.",
         "tags": ["Matchbox", "In Packaging", "Land Rover", "Overland", "Classic"]
@@ -492,7 +492,7 @@ owned_cars = [
         "series": "Then and Now",
         "col_num": "#071/250",
         "image": "images/owned/pkg_austin_mini_cooper.jpg",
-        "official_image": "images/car_071_JJH99.webp",
+        "official_image": "images/car_071_JJH39.webp",
         "color": "Cherry Red / White Roof",
         "description": "Monte Carlo rally winning transverse micro with wide flares and racing lamps.",
         "tags": ["Hot Wheels", "In Packaging", "Classic", "Mini Cooper", "Rally"]
@@ -534,7 +534,7 @@ owned_cars = [
         "series": "Jeep Series",
         "col_num": "MBX Mainline",
         "image": "images/owned/pkg_mbx_63_jeep_j1000.jpg",
-        "official_image": None,
+        "official_image": "images/stock/pkg-037.webp",
         "color": "Red / White Top",
         "description": "Vintage Brooks Stevens designed full-size Jeep pickup with Rhino front grille.",
         "tags": ["Matchbox", "In Packaging", "Jeep", "Truck", "Classic"]
@@ -590,7 +590,7 @@ owned_cars = [
         "series": "Ford Series",
         "col_num": "MBX Mainline",
         "image": "images/owned/pkg_mbx_ford_f550_yellow.jpg",
-        "official_image": None,
+        "official_image": "images/stock/pkg-041.webp",
         "color": "Highway Yellow",
         "description": "Heavy commercial chassis utility transportation vehicle with dual rear axle.",
         "tags": ["Matchbox", "In Packaging", "Ford", "Commercial"]
@@ -604,7 +604,7 @@ owned_cars = [
         "series": "MBX Off-Road",
         "col_num": "#58/100",
         "image": "images/owned/pkg_mbx_polaris_ranger_black.jpg",
-        "official_image": None,
+        "official_image": "images/stock/pkg-042.webp",
         "color": "Matte Dark Grey",
         "description": "Compact tactical side-by-side off-roader with steel roll protection frame.",
         "tags": ["Matchbox", "In Packaging", "UTV", "Off-Road"]
@@ -632,7 +632,7 @@ owned_cars = [
         "series": "MBX Construction",
         "col_num": "#87/125",
         "image": "images/owned/pkg_mbx_sand_shredder.jpg",
-        "official_image": None,
+        "official_image": "images/stock/pkg-044.webp",
         "color": "Quarry Yellow",
         "description": "Heavy-duty earth-hauling quarry dump vehicle with high payload clearance.",
         "tags": ["Matchbox", "In Packaging", "Construction", "Dump Truck"]
@@ -646,7 +646,7 @@ owned_cars = [
         "series": "MBX Heritage",
         "col_num": "#61/125",
         "image": "images/owned/pkg_mbx_lamborghini_lm002.jpg",
-        "official_image": None,
+        "official_image": "images/stock/pkg-045.webp",
         "color": "Vintage White / Cream",
         "description": "The original Countach V12 powered luxury military super-SUV, the legendary 'Rambo Lambo'.",
         "tags": ["Matchbox", "In Packaging", "Lamborghini", "Super SUV", "Classic"]
@@ -662,7 +662,7 @@ owned_cars = [
         "series": "MBX City",
         "col_num": "#107/125",
         "image": "images/owned/pkg_mbx_express_delivery.jpg",
-        "official_image": None,
+        "official_image": "images/stock/pkg-046.webp",
         "color": "White / Green",
         "description": "Urban step-van parcel hauler with detailed side graphics.",
         "tags": ["Matchbox", "In Packaging", "Delivery", "City"]
@@ -690,7 +690,7 @@ owned_cars = [
         "series": "MBX Construction",
         "col_num": "MBX Mainline",
         "image": "images/owned/pkg_mbx_mini_cargo_roller.jpg",
-        "official_image": None,
+        "official_image": "images/stock/pkg-048.webp",
         "color": "Yellow / Blue",
         "description": "Municipal asphalt rolling and compaction equipment.",
         "tags": ["Matchbox", "In Packaging", "Construction"]
@@ -718,7 +718,7 @@ owned_cars = [
         "series": "MBX Off-Road",
         "col_num": "#23/125",
         "image": "images/owned/pkg_mbx_ridge_raider_11.jpg",
-        "official_image": None,
+        "official_image": "images/stock/pkg-050.webp",
         "color": "Dakar Orange",
         "description": "Long-travel Dakar Rally endurance competition truck with dual rear spare tires.",
         "tags": ["Matchbox", "In Packaging", "Rally Raid", "Off-Road"]
@@ -746,7 +746,7 @@ owned_cars = [
         "series": "HW Rescue",
         "col_num": "2-Car Pack",
         "image": "images/owned/pkg_hw_2pack_police_tow.jpg",
-        "official_image": None,
+        "official_image": "images/stock/pkg-052.webp",
         "color": "Blue Police / Yellow Tow",
         "description": "Collector double-blister pack featuring high-speed Highway Patrol Cruiser and heavy wrecker tow truck.",
         "tags": ["Hot Wheels", "In Packaging", "Police", "Rescue", "2-Pack"]
@@ -760,7 +760,7 @@ owned_cars = [
         "series": "HW Rescue",
         "col_num": "HW Mainline",
         "image": "images/owned/pkg_hw_peak_pursuit.jpg",
-        "official_image": None,
+        "official_image": "images/stock/pkg-053.webp",
         "color": "Dark Navy Police",
         "description": "High-clearance tactical law enforcement pursuit interceptor SUV.",
         "tags": ["Hot Wheels", "In Packaging", "Police", "SUV"]
@@ -774,7 +774,7 @@ owned_cars = [
         "series": "Screen Time",
         "col_num": "#214/250",
         "image": "images/owned/pkg_hw_68_corvette_gas_monkey.jpg",
-        "official_image": "images/car_214_JJH61.webp",
+        "official_image": "images/car_214_JJK47.webp",
         "color": "Gunmetal Silver",
         "description": "Custom Stingray built by Gas Monkey Garage featuring open side pipes and custom race hood.",
         "tags": ["Hot Wheels", "In Packaging", "Corvette", "Gas Monkey", "Movie"]
@@ -900,7 +900,7 @@ owned_cars = [
         "series": "HW Torque",
         "col_num": "#245/250",
         "image": "images/owned/pkg_hw_70_plymouth_aar_cuda.jpg",
-        "official_image": "images/car_245_JJH72.webp",
+        "official_image": "images/car_245_JJM28.webp",
         "color": "Lemon Twist Yellow",
         "description": "Trans-Am championship homologation muscle car with organ-pipe side exhausts and strobe stripes.",
         "tags": ["Hot Wheels", "In Packaging", "Muscle", "Plymouth", "Cuda"]
@@ -914,7 +914,7 @@ owned_cars = [
         "series": "HW Race Day",
         "col_num": "#073/250",
         "image": "images/owned/pkg_hw_bmw_m4_gt3.jpg",
-        "official_image": "images/car_073_JJJ38.webp",
+        "official_image": "images/car_073_JJK96.webp",
         "color": "Alpine White / M-Tricolor",
         "description": "Endurance GT3 circuit race car with giant swan-neck rear wing and aerodynamic diffuser.",
         "tags": ["Hot Wheels", "In Packaging", "BMW", "GT3", "Race Day"]
@@ -942,7 +942,7 @@ owned_cars = [
         "series": "MBX Classics",
         "col_num": "MBX Mainline",
         "image": "images/owned/pkg_mbx_68_mustang_cs_white.jpg",
-        "official_image": None,
+        "official_image": "images/stock/pkg-065.webp",
         "color": "Wimbledon White / Red Stripe",
         "description": "Clean California Special coupe featuring side GT/CS stripes and Lucas fog lights.",
         "tags": ["Matchbox", "In Packaging", "Mustang", "Classic"]
@@ -956,7 +956,7 @@ owned_cars = [
         "series": "MBX Utility",
         "col_num": "MBX Mainline",
         "image": "images/owned/pkg_mbx_mercedes_unimog.jpg",
-        "official_image": None,
+        "official_image": "images/stock/pkg-066.webp",
         "color": "Safety Orange",
         "description": "Portal-axle heavy all-terrain rescue vehicle capable of traversing extreme wilderness terrain.",
         "tags": ["Matchbox", "In Packaging", "Mercedes-Benz", "Unimog", "4x4"]
@@ -972,7 +972,7 @@ owned_cars = [
         "series": "Mainline",
         "col_num": "Loose",
         "image": "images/owned/loose_blue_fiat_500.jpg",
-        "official_image": None,
+        "official_image": "images/stock/loose-001.webp",
         "color": "Sky Blue",
         "description": "Modern Italian retro-styled compact city hatchback with chrome trim and sunroof.",
         "tags": ["Hot Wheels", "Loose", "Euro", "Fiat", "City Car"]
@@ -986,7 +986,7 @@ owned_cars = [
         "series": "Mainline",
         "col_num": "Loose",
         "image": "images/owned/loose_blue_vw_golf_hatch.jpg",
-        "official_image": None,
+        "official_image": "images/stock/loose-002.webp",
         "color": "Bright Royal Blue",
         "description": "Giugiaro-styled hot hatch pioneer with round headlamps and deep front chin air dam.",
         "tags": ["Hot Wheels", "Loose", "Euro", "Volkswagen", "Golf"]
@@ -1000,7 +1000,7 @@ owned_cars = [
         "series": "Heritage",
         "col_num": "Loose",
         "image": "images/owned/loose_orange_datsun_510.jpg",
-        "official_image": None,
+        "official_image": "images/stock/loose-003.webp",
         "color": "Warm Orange / Yellow",
         "description": "The 'poor man\'s BMW' classic Japanese sports sedan with clean notchback coupe roofline.",
         "tags": ["Matchbox", "Loose", "JDM", "Datsun", "Classic"]
@@ -1014,7 +1014,7 @@ owned_cars = [
         "series": "Race Day",
         "col_num": "Loose",
         "image": "images/owned/loose_blue_67_rally_coupe.jpg",
-        "official_image": None,
+        "official_image": "images/stock/loose-004.webp",
         "color": "Powder Blue #67",
         "description": "Air-cooled vintage German racing roadster with low-cut racing windscreen and competition decals.",
         "tags": ["Hot Wheels", "Loose", "Porsche", "Vintage Race"]
@@ -1028,7 +1028,7 @@ owned_cars = [
         "series": "Heritage",
         "col_num": "Loose",
         "image": "images/owned/loose_blue_karmann_ghia.jpg",
-        "official_image": None,
+        "official_image": "images/stock/loose-005.webp",
         "color": "Pastel Baby Blue",
         "description": "Italian styling meets German air-cooled engineering with flowing curvaceous coachwork.",
         "tags": ["Matchbox", "Loose", "Volkswagen", "Classic"]
@@ -1042,7 +1042,7 @@ owned_cars = [
         "series": "Baja Dirt",
         "col_num": "Loose",
         "image": "images/owned/loose_yellow_baja_bug.jpg",
-        "official_image": None,
+        "official_image": "images/stock/loose-006.webp",
         "color": "Sunny Yellow",
         "description": "Cut-fender desert racing Bug with exposed air-cooled engine stinger and roof roll rack.",
         "tags": ["Hot Wheels", "Loose", "Baja", "Beetle", "Off-Road"]
@@ -1056,7 +1056,7 @@ owned_cars = [
         "series": "Mainline",
         "col_num": "Loose",
         "image": "images/owned/loose_red_sports_coupe.jpg",
-        "official_image": None,
+        "official_image": "images/stock/loose-007.webp",
         "color": "Crimson Red",
         "description": "Pure 90s rear-wheel drive Japanese sports coupe tuned for street drift performance.",
         "tags": ["Hot Wheels", "Loose", "JDM", "Silvia", "Drift"]
@@ -1070,7 +1070,7 @@ owned_cars = [
         "series": "HW Gassers 5-Pack",
         "col_num": "5-Pack Exclusive",
         "image": "images/owned/loose_red_mouse_catcher_gasser.jpg",
-        "official_image": None,
+        "official_image": "images/stock/loose-008.webp",
         "color": "Cherry Red / Mouse Catcher",
         "description": "Iconic straight-axle drag gasser with high nose, chrome engine headers, and authentic 'Mouse Catcher' racing script.",
         "tags": ["Hot Wheels", "Loose", "Gasser", "Drag", "Mouse Catcher"]
@@ -1084,7 +1084,7 @@ owned_cars = [
         "series": "Heat Fleet",
         "col_num": "Loose",
         "image": "images/owned/loose_purple_flame_muscle.jpg",
-        "official_image": None,
+        "official_image": "images/stock/loose-009.webp",
         "color": "Metallic Plum / Flame Deco",
         "description": "Heavy American V8 muscle bathed in deep purple lacquer with hot yellow-to-orange flame decals.",
         "tags": ["Hot Wheels", "Loose", "Muscle", "Flames"]
@@ -1098,7 +1098,7 @@ owned_cars = [
         "series": "Original Designs",
         "col_num": "Loose",
         "image": "images/owned/loose_grey_boneshaker.jpg",
-        "official_image": None,
+        "official_image": "images/car_139_JJL38.webp",
         "color": "Matte Dark Charcoal",
         "description": "Larry Wood legendary hot rod creation with chrome human skull front grille and quad zoomie exhausts.",
         "tags": ["Hot Wheels", "Loose", "Bone Shaker", "Hot Rod", "Iconic"]
@@ -1112,7 +1112,7 @@ owned_cars = [
         "series": "Hot Rods",
         "col_num": "Loose",
         "image": "images/owned/loose_red_32_ford_coupe.jpg",
-        "official_image": None,
+        "official_image": "images/stock/loose-011.webp",
         "color": "Bright Red / White Roof",
         "description": "Chopped-top classic 3-window coupe with open-bay blown V8 engine and lake pipes.",
         "tags": ["Hot Wheels", "Loose", "Hot Rod", "Classic"]
@@ -1126,7 +1126,7 @@ owned_cars = [
         "series": "Heritage",
         "col_num": "Loose",
         "image": "images/owned/loose_brown_35_ford_pickup.jpg",
-        "official_image": None,
+        "official_image": "images/stock/loose-012.webp",
         "color": "Metallic Brown",
         "description": "Pre-war classic American commercial pickup truck with teardrop fenders and chrome grille.",
         "tags": ["Matchbox", "Loose", "Truck", "Classic"]
@@ -1140,7 +1140,7 @@ owned_cars = [
         "series": "Surf Patrol",
         "col_num": "Loose",
         "image": "images/owned/loose_pink_nomad_wagon.jpg",
-        "official_image": None,
+        "official_image": "images/stock/loose-013.webp",
         "color": "Magenta Pink / White Top",
         "description": "Tri-Five sport wagon with two-tone surf graphics and fluted roof styling.",
         "tags": ["Hot Wheels", "Loose", "Wagon", "Nomad", "Surf"]
@@ -1154,7 +1154,7 @@ owned_cars = [
         "series": "Wagons",
         "col_num": "Loose",
         "image": "images/owned/loose_brown_station_wagon.jpg",
-        "official_image": None,
+        "official_image": "images/car_110_JJJ70.webp",
         "color": "Metallic Bronze",
         "description": "Muscle wagon packing big-block 454 power inside a practical family body.",
         "tags": ["Hot Wheels", "Loose", "Muscle", "Wagon"]
@@ -1168,7 +1168,7 @@ owned_cars = [
         "series": "Exotic Multi-Pack",
         "col_num": "Special Edition",
         "image": "images/owned/loose_purple_lamborghini_miura.jpg",
-        "official_image": None,
+        "official_image": "images/stock/loose-015.webp",
         "color": "Metallic Violet / Purple",
         "description": "Marcello Gandini masterpiece—the world's first mid-engine transverse supercar in rare metallic purple with black rear slats.",
         "tags": ["Matchbox", "Loose", "Lamborghini", "Miura", "Supercar", "Rare"]
@@ -1182,7 +1182,7 @@ owned_cars = [
         "series": "Heritage",
         "col_num": "Loose",
         "image": "images/owned/loose_green_jaguar_roadster.jpg",
-        "official_image": None,
+        "official_image": "images/stock/loose-016.webp",
         "color": "British Racing Green",
         "description": "Enzo Ferrari famously called it the most beautiful car ever made; open roadster with tan interior.",
         "tags": ["Matchbox", "Loose", "Jaguar", "Classic", "Roadster"]
@@ -1196,7 +1196,7 @@ owned_cars = [
         "series": "Exotics",
         "col_num": "Loose",
         "image": "images/owned/loose_silver_hypercar.jpg",
-        "official_image": None,
+        "official_image": "images/stock/loose-017.webp",
         "color": "Satin Silver",
         "description": "820-horsepower track-only carbon fiber hypercar featuring aggressive aerodynamic diffuser.",
         "tags": ["Hot Wheels", "Loose", "Aston Martin", "Hypercar"]
@@ -1210,7 +1210,7 @@ owned_cars = [
         "series": "Track Day",
         "col_num": "Loose",
         "image": "images/owned/loose_red_black_race_car.jpg",
-        "official_image": None,
+        "official_image": "images/stock/loose-018.webp",
         "color": "Red / Black #30",
         "description": "Low-slung silhouette race car engineered for maximum cornering grip and top velocity.",
         "tags": ["Hot Wheels", "Loose", "Race", "Track"]
@@ -1224,7 +1224,7 @@ owned_cars = [
         "series": "Heritage",
         "col_num": "Loose",
         "image": "images/owned/loose_cream_47_chevy_pickup.jpg",
-        "official_image": None,
+        "official_image": "images/stock/loose-019.webp",
         "color": "Cream / Off-White",
         "description": "Post-war Advance Design pickup truck with distinctive horizontal chrome grille bars.",
         "tags": ["Matchbox", "Loose", "Chevy", "Truck", "Classic"]
@@ -1238,7 +1238,7 @@ owned_cars = [
         "series": "MBX Off-Road",
         "col_num": "Loose",
         "image": "images/owned/loose_blue_f150_raptor.jpg",
-        "official_image": None,
+        "official_image": "images/stock/loose-020.webp",
         "color": "Metallic Blue",
         "description": "High-speed desert pre-runner pickup with Fox Racing internal bypass shocks.",
         "tags": ["Matchbox", "Loose", "Ford", "Raptor", "Truck"]
@@ -1252,7 +1252,7 @@ owned_cars = [
         "series": "MBX Mainline",
         "col_num": "Loose",
         "image": "images/owned/loose_grey_ram_pickup.jpg",
-        "official_image": None,
+        "official_image": "images/stock/loose-021.webp",
         "color": "Gunmetal Grey",
         "description": "Modern crew-cab pickup with aggressive front fascia and dual exhaust ports.",
         "tags": ["Matchbox", "Loose", "Truck", "RAM"]
@@ -1266,7 +1266,7 @@ owned_cars = [
         "series": "MBX Mainline",
         "col_num": "Loose",
         "image": "images/owned/loose_red_silverado_pickup.jpg",
-        "official_image": None,
+        "official_image": "images/stock/loose-022.webp",
         "color": "Victory Red",
         "description": "V8 American work truck with clean monochromatic finish and bed liner.",
         "tags": ["Matchbox", "Loose", "Chevy", "Truck"]
@@ -1280,7 +1280,7 @@ owned_cars = [
         "series": "MBX Mainline",
         "col_num": "Loose",
         "image": "images/owned/loose_yellow_colorado_pickup.jpg",
-        "official_image": None,
+        "official_image": "images/stock/loose-023.webp",
         "color": "Highway Yellow",
         "description": "Mid-size utility truck with cab guard and bed tiedowns.",
         "tags": ["Matchbox", "Loose", "Truck"]
@@ -1294,7 +1294,7 @@ owned_cars = [
         "series": "4x4 Superlift",
         "col_num": "Loose",
         "image": "images/owned/loose_lifted_ford_superlift.jpg",
-        "official_image": None,
+        "official_image": "images/stock/loose-024.webp",
         "color": "Gloss Black / White Ford Script",
         "description": "Monster-stance heavy duty Ford pickup with 6-inch lift kit and high-profile mudder tires.",
         "tags": ["Matchbox", "Loose", "Ford", "Superlift", "Truck"]
@@ -1308,7 +1308,7 @@ owned_cars = [
         "series": "MBX Off-Road",
         "col_num": "Loose",
         "image": "images/owned/loose_red_180_toyota_fj40.jpg",
-        "official_image": None,
+        "official_image": "images/stock/loose-025.webp",
         "color": "Red #180",
         "description": "Indestructible short-wheelbase 4WD crawler with white roof and rally competition number.",
         "tags": ["Matchbox", "Loose", "4x4", "Land Cruiser", "Toyota"]
@@ -1322,7 +1322,7 @@ owned_cars = [
         "series": "Baja Dirt",
         "col_num": "Loose",
         "image": "images/owned/loose_white_08_desert_buggy.jpg",
-        "official_image": None,
+        "official_image": "images/stock/loose-026.webp",
         "color": "White / Black Cage #08",
         "description": "Single-seat Baja 1000 desert buggy with high ground clearance and spare tire holder.",
         "tags": ["Matchbox", "Loose", "Baja", "Buggy", "Off-Road"]
@@ -1336,7 +1336,7 @@ owned_cars = [
         "series": "Sand Blasters",
         "col_num": "Loose",
         "image": "images/owned/loose_purple_dune_buggy.jpg",
-        "official_image": None,
+        "official_image": "images/stock/loose-027.webp",
         "color": "Purple / Pink Tubular",
         "description": "Open tubular steel exoskeleton dune buggy designed for high dunes and big jumps.",
         "tags": ["Hot Wheels", "Loose", "Dune Buggy", "Off-Road"]
@@ -1350,7 +1350,7 @@ owned_cars = [
         "series": "MBX All-Wheel",
         "col_num": "Loose",
         "image": "images/owned/loose_dark_blue_compact_suv.jpg",
-        "official_image": None,
+        "official_image": "images/stock/loose-028.webp",
         "color": "Deep Navy Blue",
         "description": "Rugged all-weather crossover featuring Symmetrical All-Wheel Drive and protective cladding.",
         "tags": ["Matchbox", "Loose", "Subaru", "AWD", "SUV"]
@@ -1364,7 +1364,7 @@ owned_cars = [
         "series": "Battle Force",
         "col_num": "Loose",
         "image": "images/owned/loose_grey_combat_rover.jpg",
-        "official_image": None,
+        "official_image": "images/stock/loose-029.webp",
         "color": "Battleship Grey",
         "description": "Futuristic tactical armored vehicle equipped with dual roof-mounted defense cannons.",
         "tags": ["Hot Wheels", "Loose", "Sci-Fi", "Combat"]
@@ -1378,7 +1378,7 @@ owned_cars = [
         "series": "MBX Heroic Rescue",
         "col_num": "Loose",
         "image": "images/owned/loose_black_police_suv.jpg",
-        "official_image": None,
+        "official_image": "images/stock/loose-030.webp",
         "color": "Black / White POLICE",
         "description": "Standard modern police patrol SUV equipped with roof light bar and push bumper.",
         "tags": ["Matchbox", "Loose", "Police", "Emergency", "SUV"]
@@ -1392,7 +1392,7 @@ owned_cars = [
         "series": "MBX Heroic Rescue",
         "col_num": "Loose",
         "image": "images/owned/loose_silver_police_suv.jpg",
-        "official_image": None,
+        "official_image": "images/stock/loose-031.webp",
         "color": "Silver / Blue Striping",
         "description": "State trooper municipal police interceptor with blue emergency livery.",
         "tags": ["Matchbox", "Loose", "Police", "Emergency"]
@@ -1406,7 +1406,7 @@ owned_cars = [
         "series": "MBX Heroic Rescue",
         "col_num": "Loose",
         "image": "images/owned/loose_black_police_sedan.jpg",
-        "official_image": None,
+        "official_image": "images/stock/loose-032.webp",
         "color": "Solid Black",
         "description": "The definitive American rear-wheel drive V8 police sedan workhorse of the 2000s.",
         "tags": ["Matchbox", "Loose", "Police", "Crown Vic"]
@@ -1420,7 +1420,7 @@ owned_cars = [
         "series": "MBX Tactical",
         "col_num": "Loose",
         "image": "images/owned/loose_black_swat_truck.jpg",
-        "official_image": None,
+        "official_image": "images/stock/loose-033.webp",
         "color": "Matte Black / SWAT",
         "description": "Heavy armored ballistic response personnel carrier for special operations.",
         "tags": ["Matchbox", "Loose", "SWAT", "Emergency", "Armored"]
@@ -1434,7 +1434,7 @@ owned_cars = [
         "series": "MBX Fire Department",
         "col_num": "Loose",
         "image": "images/owned/loose_red_pierce_fire_engine.jpg",
-        "official_image": None,
+        "official_image": "images/stock/loose-034.webp",
         "color": "Red / Yellow Chevrons",
         "description": "Heavy municipal pumper fire engine with deck gun and high-visibility safety chevrons.",
         "tags": ["Matchbox", "Loose", "Fire Truck", "Emergency"]
@@ -1448,7 +1448,7 @@ owned_cars = [
         "series": "MBX City",
         "col_num": "Loose",
         "image": "images/owned/loose_white_sprinter_van.jpg",
-        "official_image": None,
+        "official_image": "images/stock/loose-035.webp",
         "color": "Commercial White",
         "description": "High-roof European utility transport van suitable for ambulance conversion.",
         "tags": ["Matchbox", "Loose", "Mercedes-Benz", "Van"]
@@ -1462,7 +1462,7 @@ owned_cars = [
         "series": "MBX Farm",
         "col_num": "Loose",
         "image": "images/owned/loose_yellow_farm_tractor.jpg",
-        "official_image": None,
+        "official_image": "images/stock/loose-036.webp",
         "color": "Yellow / Blue Cab",
         "description": "Heavy farm tractor with giant ribbed rear drive tires and high-mount exhaust stack.",
         "tags": ["Matchbox", "Loose", "Tractor", "Farm"]
@@ -1476,7 +1476,7 @@ owned_cars = [
         "series": "MBX Construction",
         "col_num": "Loose",
         "image": "images/owned/loose_white_orange_excavator.jpg",
-        "official_image": None,
+        "official_image": "images/stock/loose-037.webp",
         "color": "White / Safety Orange",
         "description": "360-degree rotating tracked excavator with articulated boom, dipper stick, and bucket.",
         "tags": ["Matchbox", "Loose", "Excavator", "Construction"]
@@ -1490,7 +1490,7 @@ owned_cars = [
         "series": "MBX Construction",
         "col_num": "Loose",
         "image": "images/owned/loose_yellow_skidsteer_loader.jpg",
-        "official_image": None,
+        "official_image": "images/stock/loose-038.webp",
         "color": "Industrial Yellow",
         "description": "Zero-turn agile compact earthmover equipped with hydraulic front loading shovel.",
         "tags": ["Matchbox", "Loose", "Construction", "Bobcat"]
@@ -1504,7 +1504,7 @@ owned_cars = [
         "series": "MBX Service",
         "col_num": "Loose",
         "image": "images/owned/loose_teal_inc_recycling_truck.jpg",
-        "official_image": None,
+        "official_image": "images/stock/loose-039.webp",
         "color": "Teal Green / White INC",
         "description": "Municipal waste collection truck with automated side-loading mechanical arm.",
         "tags": ["Matchbox", "Loose", "Recycling", "Service"]
@@ -1518,7 +1518,7 @@ owned_cars = [
         "series": "MBX Construction",
         "col_num": "Loose",
         "image": "images/owned/loose_yellow_wheel_loader.jpg",
-        "official_image": None,
+        "official_image": "images/stock/loose-040.webp",
         "color": "Bright Yellow",
         "description": "Massive front loader for scooping dirt, aggregate, and loose gravel on job sites.",
         "tags": ["Matchbox", "Loose", "Loader", "Construction"]
@@ -1532,7 +1532,7 @@ owned_cars = [
         "series": "MBX Construction",
         "col_num": "Loose",
         "image": "images/owned/loose_green_mining_grader.jpg",
-        "official_image": None,
+        "official_image": "images/stock/loose-041.webp",
         "color": "Industrial Mint Green",
         "description": "Precision road leveling and grading grader with wide center scraper blade.",
         "tags": ["Matchbox", "Loose", "Construction", "Grader"]
@@ -1546,7 +1546,7 @@ owned_cars = [
         "series": "Super Rigs",
         "col_num": "Loose",
         "image": "images/owned/loose_black_semi_flatbed.jpg",
-        "official_image": None,
+        "official_image": "images/stock/loose-042.webp",
         "color": "Gloss Black / Chrome Bed",
         "description": "Cab-over-engine (COE) heavy highway tractor with diamond-plate flatbed.",
         "tags": ["Hot Wheels", "Loose", "Truck", "Semi", "Hauler"]
@@ -1560,7 +1560,7 @@ owned_cars = [
         "series": "MBX Military",
         "col_num": "Loose",
         "image": "images/owned/loose_military_6x6_truck.jpg",
-        "official_image": None,
+        "official_image": "images/stock/loose-043.webp",
         "color": "Camouflage Olive Drab",
         "description": "Three-axle all-wheel-drive tactical troop transport with canvas canopy cargo bed.",
         "tags": ["Matchbox", "Loose", "Military", "6x6", "Truck"]
@@ -1574,7 +1574,7 @@ owned_cars = [
         "series": "MBX Off-Road",
         "col_num": "Loose",
         "image": "images/owned/loose_white_pickup_rack.jpg",
-        "official_image": None,
+        "official_image": "images/stock/loose-044.webp",
         "color": "White / Blue Roll Bar",
         "description": "Off-road support truck equipped with bed-mounted chase rack and high-intensity lights.",
         "tags": ["Matchbox", "Loose", "Ford", "Truck", "Off-Road"]
@@ -1704,7 +1704,7 @@ owned_cars = [
         "series": "Custom Build",
         "col_num": "Modded",
         "image": "images/owned/loose_yellow_modded_crawler_tracks.jpg",
-        "official_image": None,
+        "official_image": "images/stock/loose-045.webp",
         "color": "Bright Yellow / Black Tracks",
         "description": "Custom-modified off-road vehicle featuring a yellow truck body custom-mounted onto continuous heavy-duty rubber caterpillar / snow crawler tracks.",
         "tags": ["Hot Wheels", "Loose", "Custom", "Modded", "4x4", "Tracks"]
@@ -1718,7 +1718,7 @@ owned_cars = [
         "series": "HW Race Day",
         "col_num": "Loose",
         "image": "images/owned/loose_bmw_m4_gt3_black.jpg",
-        "official_image": None,
+        "official_image": "images/stock/loose-046.webp",
         "color": "Gloss Black / M-Tricolor #2",
         "description": "BMW Motorsport GT3 racing machine in gloss black with iconic BMW M tricolor hood and roof striping, #2 roundel, and large GT rear wing.",
         "tags": ["Hot Wheels", "Loose", "BMW", "Z4 GT3", "M-Power", "Race"]
@@ -1732,7 +1732,7 @@ owned_cars = [
         "series": "HW J-Imports",
         "col_num": "Loose",
         "image": "images/owned/loose_subaru_impreza_22b_black_22.jpg",
-        "official_image": None,
+        "official_image": "images/stock/loose-047.webp",
         "color": "Gloss Black / #22 Roof",
         "description": "Legendary widebody turbo rally icon in gloss black with bold white '#22' roof racing tampo, hood scoop, tall spoiler, and white aerodisc wheels.",
         "tags": ["Hot Wheels", "Loose", "Subaru", "22B", "STI", "JDM", "Rally"]
@@ -1746,7 +1746,7 @@ owned_cars = [
         "series": "Car Culture / Rally",
         "col_num": "Loose",
         "image": "images/owned/loose_mitsubishi_lancer_evo_vi_white.jpg",
-        "official_image": None,
+        "official_image": "images/stock/loose-048.webp",
         "color": "White / Red Ralliart #1",
         "description": "Tommi Mäkinen WRC world rally championship edition in classic white with red and black geometric Ralliart side graphics and #1 competition number.",
         "tags": ["Hot Wheels", "Loose", "Mitsubishi", "Lancer", "Evo", "WRC", "Rally"]
@@ -1760,7 +1760,7 @@ owned_cars = [
         "series": "HW Nightspeed",
         "col_num": "Loose",
         "image": "images/owned/loose_24_seven_lime_green.jpg",
-        "official_image": None,
+        "official_image": "images/car_038_JJL51.webp",
         "color": "Metallic Lime Green",
         "description": "Dave Weise signature street tuner inspired by the FD Mazda RX-7 with extended chin spoiler and tall GT aerodynamic wing.",
         "tags": ["Hot Wheels", "Loose", "JDM", "24/Seven", "Tuner"]
@@ -1774,7 +1774,7 @@ owned_cars = [
         "series": "X-Raycers",
         "col_num": "Loose",
         "image": "images/owned/loose_forward_force_translucent_orange.jpg",
-        "official_image": None,
+        "official_image": "images/stock/loose-050.webp",
         "color": "Translucent Orange / Blue Wing",
         "description": "Dwayne Vance designed futuristic aerodynamic hypercar molded in translucent amber orange with contrasting electric blue front canards and rear spoiler.",
         "tags": ["Hot Wheels", "Loose", "X-Raycers", "DAVancenator", "Concept", "Speed"]
@@ -1788,7 +1788,7 @@ owned_cars = [
         "series": "Custom Build",
         "col_num": "Loose",
         "image": "images/owned/loose_justice_league_batmobile_grey.jpg",
-        "official_image": None,
+        "official_image": "images/stock/loose-051.webp",
         "color": "Satin Battle-Grey",
         "description": "User-custom painted DAVancenator casting finished in custom matte battle-grey tactical combat livery.",
         "tags": ["Hot Wheels", "Loose", "DAVancenator", "Custom", "Modded", "Paint"]
@@ -1802,7 +1802,7 @@ owned_cars = [
         "series": "HW Delivery",
         "col_num": "Loose",
         "image": "images/owned/loose_red_silver_box_truck.jpg",
-        "official_image": None,
+        "official_image": "images/stock/loose-052.webp",
         "color": "Red Cab / Silver Cargo Box",
         "description": "Classic commercial cab-over delivery truck with red cab, dual blue vertical exhaust stacks, and silver cargo van body with mascot graphics.",
         "tags": ["Hot Wheels", "Loose", "Delivery", "Truck"]
@@ -1816,7 +1816,7 @@ owned_cars = [
         "series": "HW Track Stars / Rally",
         "col_num": "Loose",
         "image": "images/owned/loose_black_white_wing_gt_coupe.jpg",
-        "official_image": None,
+        "official_image": "images/stock/loose-053.webp",
         "color": "Matte Black / White Wing",
         "description": "Miguel López designed high-performance rally hatchback (featured in Rocket League) in matte black with roof scoop and high-downforce white rear wing.",
         "tags": ["Hot Wheels", "Loose", "Fast 4WD", "Rocket League", "Rally", "4WD"]
