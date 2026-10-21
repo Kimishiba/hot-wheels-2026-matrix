@@ -22,7 +22,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/2/26/CyberpunkMazda.jpg/revision/latest?cb=20251015121255",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Mazda_MX-5_Miata_(2025)"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Mazda_MX-5_Miata_(2025)",
+        "local_img": "images/car_001_JJJ02.webp"
       },
       {
         "col": "002",
@@ -36,7 +37,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/f/fd/LamborghiniCentenario.jpg/revision/latest?cb=20250921133410",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2716_Lamborghini_Centenario_Roadster"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2716_Lamborghini_Centenario_Roadster",
+        "local_img": "images/car_002_JJH80.webp"
       },
       {
         "col": "003",
@@ -50,7 +52,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/3/37/2025GMAT.33.jpg/revision/latest?cb=20251015121316",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Gordon_Murray_Automotive_T.33"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Gordon_Murray_Automotive_T.33",
+        "local_img": "images/car_003_JJJ62.webp"
       },
       {
         "col": "004",
@@ -64,7 +67,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/0/0f/GunmetalBatmobile.jpg/revision/latest?cb=20251015121354",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Batmobile_(2021)"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Batmobile_(2021)",
+        "local_img": "images/car_004_JJH83.webp"
       },
       {
         "col": "005",
@@ -78,7 +82,8 @@
         "is_new": true,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/1/19/Pass%27nGo.jpg/revision/latest?cb=20250921133437",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Pass_%27n_Go"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Pass_%27n_Go",
+        "local_img": "images/car_005_JJH30.webp"
       },
       {
         "col": "006",
@@ -92,7 +97,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/d/d4/XRD-06.jpg/revision/latest?cb=20251015121411",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/RD-06"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/RD-06",
+        "local_img": "images/car_006_JJH84.webp"
       },
       {
         "col": "007",
@@ -106,7 +112,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/8/86/SolarReflexEV.jpg/revision/latest?cb=20251015121434",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Solar_Reflex"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Solar_Reflex",
+        "local_img": "images/car_007_JJH85.webp"
       },
       {
         "col": "008",
@@ -120,7 +127,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/3/32/MustangMach-E1400.jpg/revision/latest?cb=20251015121504",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Ford_Mustang_Mach-E_1400"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Ford_Mustang_Mach-E_1400",
+        "local_img": "images/car_008_JJH86.webp"
       },
       {
         "col": "009",
@@ -134,7 +142,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/7/7e/BuickRegal.jpg/revision/latest?cb=20251101092453",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2787_Buick_Regal_GNX"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2787_Buick_Regal_GNX",
+        "local_img": "images/car_009_JJM00.webp"
       },
       {
         "col": "010",
@@ -148,7 +157,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/0/00/2020FordShelbyGT500.jpg/revision/latest?cb=20251015121837",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/2020_Ford_Mustang_Shelby_GT500"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/2020_Ford_Mustang_Shelby_GT500",
+        "local_img": "images/car_010_JJH87.webp"
       },
       {
         "col": "011",
@@ -162,7 +172,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/6/6a/2018FK8.jpg/revision/latest?cb=20250921133500",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/2018_Honda_Civic_Type_R"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/2018_Honda_Civic_Type_R",
+        "local_img": "images/car_011_JJH88.webp"
       },
       {
         "col": "012",
@@ -176,7 +187,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/d/d6/HNY26Carbonator.jpg/revision/latest?cb=20251015121652",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Carbonator"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Carbonator",
+        "local_img": "images/car_012_JJH89.webp"
       },
       {
         "col": "013",
@@ -190,7 +202,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/3/3d/DriftDefender.jpg/revision/latest?cb=20251015121900",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Drift-Ender"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Drift-Ender",
+        "local_img": "images/car_013_JJH90.webp"
       },
       {
         "col": "013",
@@ -204,7 +217,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/e/e2/STH_Drift-Ender.jpg/revision/latest?cb=20250831114526",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Drift-Ender"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Drift-Ender",
+        "local_img": "images/car_013_JJM15.webp"
       },
       {
         "col": "014",
@@ -218,7 +232,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/1/1b/2020Gladiator.jpg/revision/latest?cb=20251015121919",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2720_Jeep_Gladiator"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2720_Jeep_Gladiator",
+        "local_img": "images/car_014_JJH91.webp"
       },
       {
         "col": "015",
@@ -232,7 +247,8 @@
         "is_new": true,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/9/94/Porsche911CarreraT.jpg/revision/latest?cb=20250921133515",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Porsche_911_Carrera_T"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Porsche_911_Carrera_T",
+        "local_img": "images/car_015_JJH33.webp"
       },
       {
         "col": "015",
@@ -246,7 +262,8 @@
         "is_new": true,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/0/03/JJM31_ZAMAK_o4.jpg/revision/latest?cb=20260116033224",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Porsche_911_Carrera_T"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Porsche_911_Carrera_T",
+        "local_img": "images/car_015_JJM31.webp"
       },
       {
         "col": "016",
@@ -260,7 +277,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/f/fa/1992MaseratiShamal.jpg/revision/latest?cb=20250921133529",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Maserati_Shamal"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Maserati_Shamal",
+        "local_img": "images/car_016_JJH92.webp"
       },
       {
         "col": "017",
@@ -274,7 +292,8 @@
         "is_new": true,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/3/34/Bounce%27nBass.jpg/revision/latest?cb=20250920121109",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Bounce%27n_Bass"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Bounce%27n_Bass",
+        "local_img": "images/car_017_JJH32.webp"
       },
       {
         "col": "018",
@@ -288,7 +307,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/0/0e/Surfin%27Deora.jpg/revision/latest?cb=20251018122510",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Deora_II"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Deora_II",
+        "local_img": "images/car_018_JJH93.webp"
       },
       {
         "col": "019",
@@ -302,7 +322,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/e/e9/FanDrivenDodger.jpg/revision/latest?cb=20251018122536",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Rodger_Dodger"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Rodger_Dodger",
+        "local_img": "images/car_019_JJH94.webp"
       },
       {
         "col": "020",
@@ -316,7 +337,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/d/dc/McLarenMastercardMCL39.jpg/revision/latest?cb=20251015122047",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Formula_1_(2025)"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Formula_1_(2025)",
+        "local_img": "images/car_020_JJH95.webp"
       },
       {
         "col": "021",
@@ -330,7 +352,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/e/ef/Dreamcamper.jpg/revision/latest?cb=20251018122550",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Barbie_Dream_Camper"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Barbie_Dream_Camper",
+        "local_img": "images/car_021_JJH96.webp"
       },
       {
         "col": "022",
@@ -344,7 +367,8 @@
         "is_new": true,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/b/b3/InstantBoost.jpg/revision/latest?cb=20250920121126",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Instant_Boost"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Instant_Boost",
+        "local_img": "images/car_022_JJH31.webp"
       },
       {
         "col": "023",
@@ -358,7 +382,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/8/8c/1969DodgeDaytona.jpg/revision/latest?cb=20251018122643",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2769_Dodge_Charger_Daytona"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2769_Dodge_Charger_Daytona",
+        "local_img": "images/car_023_JJH97.webp"
       },
       {
         "col": "024",
@@ -372,7 +397,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/0/0d/TrackRipper.jpg/revision/latest?cb=20251015122131",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Track_Ripper"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Track_Ripper",
+        "local_img": "images/car_024_JJH82.webp"
       },
       {
         "col": "024",
@@ -386,7 +412,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/a/a4/JJM33_o4.jpg/revision/latest?cb=20260116051620",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Track_Ripper"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Track_Ripper",
+        "local_img": "images/car_024_JJM33.webp"
       },
       {
         "col": "025",
@@ -400,7 +427,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/f/f7/McMurtrySp%C3%A9irlingPure.jpg/revision/latest?cb=20251015122153",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/McMurtry_Sp%C3%A9irling"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/McMurtry_Sp%C3%A9irling",
+        "local_img": "images/car_025_JJH81.webp"
       },
       {
         "col": "026",
@@ -414,7 +442,8 @@
         "is_new": true,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/9/99/%27ToonedZonda.jpg/revision/latest?cb=20251015122209",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Pagani_Zonda_Cinque_(Tooned)"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Pagani_Zonda_Cinque_(Tooned)",
+        "local_img": "images/car_026_JJH34.webp"
       },
       {
         "col": "026",
@@ -428,7 +457,8 @@
         "is_new": true,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/2/27/JJM32_o1.jpg/revision/latest?cb=20260807103227",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Pagani_Zonda_Cinque_(Tooned)"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Pagani_Zonda_Cinque_(Tooned)",
+        "local_img": "images/car_026_JJM32.webp"
       }
     ]
   },
@@ -455,7 +485,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/8/80/Optimus.jpg/revision/latest?cb=20250120090211",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Optimus_Prime"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Optimus_Prime",
+        "local_img": "images/car_027_JJJ00.webp"
       },
       {
         "col": "028",
@@ -469,7 +500,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/d/db/HWKITTConcept.jpg/revision/latest?cb=20251015122239",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/HW_K.I.T.T._Concept"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/HW_K.I.T.T._Concept",
+        "local_img": "images/car_028_JJH98.webp"
       },
       {
         "col": "029",
@@ -483,7 +515,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/a/a5/1992Viper.jpg/revision/latest?cb=20251015122319",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2792_Dodge_Viper_RT/10"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2792_Dodge_Viper_RT/10",
+        "local_img": "images/car_029_JJM01.webp"
       },
       {
         "col": "030",
@@ -497,7 +530,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/d/d4/X-SteamRacer.jpg/revision/latest?cb=20251015122335",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/X-Steam"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/X-Steam",
+        "local_img": "images/car_030_JJJ01.webp"
       },
       {
         "col": "031",
@@ -511,7 +545,8 @@
         "is_new": true,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/2/21/LaLiebre.jpg/revision/latest?cb=20251210014159",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/La_Liebre"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/La_Liebre",
+        "local_img": "images/car_031_JJH36.webp"
       },
       {
         "col": "032",
@@ -525,7 +560,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/7/7f/HW5Alarm.jpg/revision/latest?cb=20251015122502",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/5_Alarm"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/5_Alarm",
+        "local_img": "images/car_032_JJJ03.webp"
       },
       {
         "col": "033",
@@ -539,7 +575,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/5/52/CyberpunkTowtruck.jpg/revision/latest?cb=20251015122527",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Haulerback"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Haulerback",
+        "local_img": "images/car_033_JJJ04.webp"
       },
       {
         "col": "034",
@@ -553,7 +590,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/5/5d/2026PorscheTaycan.jpg/revision/latest?cb=20251015122910",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Porsche_Taycan_Turbo_S"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Porsche_Taycan_Turbo_S",
+        "local_img": "images/car_034_JJJ05.webp"
       },
       {
         "col": "035",
@@ -567,7 +605,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/5/55/TazerRacer.jpg/revision/latest?cb=20251018122607",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Wattzup"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Wattzup",
+        "local_img": "images/car_035_JJJ06.webp"
       },
       {
         "col": "036",
@@ -581,7 +620,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/5/5a/1970DodgeChallengerHemi.jpg/revision/latest?cb=20251015122939",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2770_Dodge_Hemi_Challenger"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2770_Dodge_Hemi_Challenger",
+        "local_img": "images/car_036_JJJ07.webp"
       },
       {
         "col": "036",
@@ -595,7 +635,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/a/a5/JJM38_4.jpg/revision/latest?cb=20260224172848",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2770_Dodge_Hemi_Challenger"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2770_Dodge_Hemi_Challenger",
+        "local_img": "images/car_036_JJM38.webp"
       },
       {
         "col": "037",
@@ -609,7 +650,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/d/d9/NightspeedCupra.jpg/revision/latest?cb=20251018122708",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Cupra_e-Racer"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Cupra_e-Racer",
+        "local_img": "images/car_037_JJJ08.webp"
       },
       {
         "col": "038",
@@ -623,7 +665,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/d/de/24-Seven.jpg/revision/latest?cb=20251015123041",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/24/Seven"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/24/Seven",
+        "local_img": "images/car_038_JJJ09.webp"
       },
       {
         "col": "039",
@@ -637,7 +680,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/3/39/RollerToaster.jpg/revision/latest?cb=20251018122748",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Roller_Toaster"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Roller_Toaster",
+        "local_img": "images/car_039_JJJ10.webp"
       },
       {
         "col": "040",
@@ -651,7 +695,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/4/42/BrailleRacer.jpg/revision/latest?cb=20251015123126",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/HW_Braille_Racer_-_Twin_Mill"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/HW_Braille_Racer_-_Twin_Mill",
+        "local_img": "images/car_040_JJJ11.webp"
       },
       {
         "col": "041",
@@ -665,7 +710,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/c/c5/2024FerrariSF90.jpg/revision/latest?cb=20251015123146",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Ferrari_SF90_Stradale"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Ferrari_SF90_Stradale",
+        "local_img": "images/car_041_JJJ12.webp"
       },
       {
         "col": "042",
@@ -679,7 +725,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/d/d7/BlackWidowSilverado.jpg/revision/latest?cb=20251015123210",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2783_Chevy_Silverado"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2783_Chevy_Silverado",
+        "local_img": "images/car_042_JJJ13.webp"
       },
       {
         "col": "043",
@@ -693,7 +740,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/5/50/2026FordMustangGTD.jpg/revision/latest?cb=20251018122815",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Ford_Mustang_GTD"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Ford_Mustang_GTD",
+        "local_img": "images/car_043_JJJ14.webp"
       },
       {
         "col": "043",
@@ -707,7 +755,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/4/44/MustangGTDTH.jpg/revision/latest?cb=20250930223722",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Ford_Mustang_GTD"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Ford_Mustang_GTD",
+        "local_img": "images/car_043_JJM16.webp"
       },
       {
         "col": "044",
@@ -721,7 +770,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/0/05/1959Impala.jpg/revision/latest?cb=20251015123228",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2759_Chevy_Bel_Air"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2759_Chevy_Bel_Air",
+        "local_img": "images/car_044_JJJ15.webp"
       },
       {
         "col": "044",
@@ -735,7 +785,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/0/05/JJM35_ZAMAK_o1.jpg/revision/latest?cb=20260214235308",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2759_Chevy_Bel_Air"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2759_Chevy_Bel_Air",
+        "local_img": "images/car_044_JJM35.webp"
       },
       {
         "col": "045",
@@ -749,7 +800,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/8/86/1947Fleetline.jpg/revision/latest?cb=20251015123252",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2747_Chevy_Fleetline"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2747_Chevy_Fleetline",
+        "local_img": "images/car_045_JJJ16.webp"
       },
       {
         "col": "001",
@@ -763,7 +815,8 @@
         "is_new": false,
         "is_recolor": true,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/4/41/1990MazdaChimera.jpg/revision/latest?cb=20260430100617",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Mazda_MX-5_Miata_(2025)"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Mazda_MX-5_Miata_(2025)",
+        "local_img": "images/car_001_JJL03.webp"
       },
       {
         "col": "002",
@@ -776,8 +829,9 @@
         "is_th": false,
         "is_new": false,
         "is_recolor": true,
-        "img": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2716_Lamborghini_Centenario_Roadster"
+        "img": "https://static.wikia.nocookie.net/hotwheels/images/f/fd/LamborghiniCentenario.jpg/revision/latest?cb=20250921133410",
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2716_Lamborghini_Centenario_Roadster",
+        "local_img": "images/car_002_JJM49.webp"
       }
     ]
   },
@@ -804,7 +858,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/9/96/PinkPassion.jpg/revision/latest?cb=20251015123307",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Purple_Passion"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Purple_Passion",
+        "local_img": "images/car_046_JJJ17.webp"
       },
       {
         "col": "047",
@@ -818,7 +873,8 @@
         "is_new": true,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/e/e0/High-TailChaser.jpg/revision/latest?cb=20251015123328",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/High-Tail_Chaser"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/High-Tail_Chaser",
+        "local_img": "images/car_047_JJH35.webp"
       },
       {
         "col": "048",
@@ -832,7 +888,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/8/88/MonsterHighCar.jpg/revision/latest?cb=20251018122831",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Monster_High_Ghoul_Mobile"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Monster_High_Ghoul_Mobile",
+        "local_img": "images/car_048_JJJ19.webp"
       },
       {
         "col": "049",
@@ -846,7 +903,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/1/1f/PhoneCall.jpg/revision/latest?cb=20251121094806",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Quick_Chat"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Quick_Chat",
+        "local_img": "images/car_049_JJJ18.webp"
       },
       {
         "col": "050",
@@ -860,7 +918,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/9/92/RacingBolide.jpg/revision/latest?cb=20251018122844",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Bugatti_Bolide"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Bugatti_Bolide",
+        "local_img": "images/car_050_JJJ20.webp"
       },
       {
         "col": "051",
@@ -874,7 +933,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/f/fe/TheTumbler.jpg/revision/latest?cb=20251121094824",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/The_Dark_Knight_Batmobile"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/The_Dark_Knight_Batmobile",
+        "local_img": "images/car_051_JJJ21.webp"
       },
       {
         "col": "052",
@@ -888,7 +948,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/b/b9/964Turbo.jpg/revision/latest?cb=20251121094844",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Porsche_911_Turbo_Cabriolet"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Porsche_911_Turbo_Cabriolet",
+        "local_img": "images/car_052_JJJ22.webp"
       },
       {
         "col": "053",
@@ -902,7 +963,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/a/a0/1969Chevelle.jpg/revision/latest?cb=20251121094921",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2769_Chevelle_(X-Raycers)"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2769_Chevelle_(X-Raycers)",
+        "local_img": "images/car_053_JJJ23.webp"
       },
       {
         "col": "054",
@@ -916,7 +978,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/7/77/DonutCar.jpg/revision/latest?cb=20251121094944",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Donut_Drifter"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Donut_Drifter",
+        "local_img": "images/car_054_JJJ24.webp"
       },
       {
         "col": "055",
@@ -930,7 +993,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/9/9b/JelloCar.jpg/revision/latest?cb=20251121095007",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Dessert_Drifter"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Dessert_Drifter",
+        "local_img": "images/car_055_JJJ25.webp"
       },
       {
         "col": "056",
@@ -944,7 +1008,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/c/c0/DreamCamaro.jpg/revision/latest?cb=20251121095024",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2767_Camaro_(2022)"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2767_Camaro_(2022)",
+        "local_img": "images/car_056_JJJ26.webp"
       },
       {
         "col": "057",
@@ -958,7 +1023,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/3/33/NekoRaijin.jpg/revision/latest?cb=20251015123346",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Raijin_Express"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Raijin_Express",
+        "local_img": "images/car_057_JJJ27.webp"
       },
       {
         "col": "058",
@@ -972,7 +1038,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/7/7f/ElectroSilhouetteTH.jpeg/revision/latest?cb=20251221174800",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Electro_Silhouette"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Electro_Silhouette",
+        "local_img": "images/car_058_JJM02.webp"
       },
       {
         "col": "059",
@@ -986,7 +1053,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/6/6b/2022LucidAir.jpg/revision/latest?cb=20251121095044",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Lucid_Air"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Lucid_Air",
+        "local_img": "images/car_059_JJJ28.webp"
       },
       {
         "col": "060",
@@ -1000,7 +1068,8 @@
         "is_new": true,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/c/c0/ToyotaPriusCustom.jpg/revision/latest?cb=20251216105344",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Toyota_Prius_Custom"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Toyota_Prius_Custom",
+        "local_img": "images/car_060_JJH37.webp"
       },
       {
         "col": "061",
@@ -1014,7 +1083,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/e/ea/1978MazdaRX-7.jpg/revision/latest?cb=20251121095109",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Mazda_RX-7"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Mazda_RX-7",
+        "local_img": "images/car_061_JJJ29.webp"
       },
       {
         "col": "062",
@@ -1028,7 +1098,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/f/f1/365Comp.jpg/revision/latest?cb=20251121095125",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Ferrari_365_GTB4_Competizione"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Ferrari_365_GTB4_Competizione",
+        "local_img": "images/car_062_JJJ30.webp"
       },
       {
         "col": "063",
@@ -1042,7 +1113,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/a/a2/FerrariF40Comp.jpg/revision/latest?cb=20251111083225",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Ferrari_F40_Competizione"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Ferrari_F40_Competizione",
+        "local_img": "images/car_063_JJJ31.webp"
       },
       {
         "col": "063",
@@ -1056,7 +1128,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/b/b7/NardoF40Comp.jpg/revision/latest?cb=20251111083240",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Ferrari_F40_Competizione"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Ferrari_F40_Competizione",
+        "local_img": "images/car_063_JJM17.webp"
       },
       {
         "col": "064",
@@ -1070,7 +1143,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/6/64/Unimog1300.jpg/revision/latest?cb=20251209220115",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Mercedes-Benz_Unimog_1300L"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Mercedes-Benz_Unimog_1300L",
+        "local_img": "images/car_064_JJJ32.webp"
       },
       {
         "col": "065",
@@ -1084,7 +1158,8 @@
         "is_new": true,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/3/3f/DriftBox.jpg/revision/latest?cb=20251015123444",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Drift_Box"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Drift_Box",
+        "local_img": "images/car_065_JJH40.webp"
       },
       {
         "col": "010",
@@ -1098,7 +1173,8 @@
         "is_new": false,
         "is_recolor": true,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/d/da/%2720ShelbyGT500.jpg/revision/latest?cb=20260121131234",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/2020_Ford_Mustang_Shelby_GT500"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/2020_Ford_Mustang_Shelby_GT500",
+        "local_img": "images/car_010_JJK68.webp"
       },
       {
         "col": "011",
@@ -1112,7 +1188,8 @@
         "is_new": false,
         "is_recolor": true,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/1/15/HondaFK8.jpg/revision/latest?cb=20260121131309",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/2018_Honda_Civic_Type_R"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/2018_Honda_Civic_Type_R",
+        "local_img": "images/car_011_JJK87.webp"
       },
       {
         "col": "014",
@@ -1126,7 +1203,8 @@
         "is_new": false,
         "is_recolor": true,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/7/7e/JJM62_RED_o1.jpg/revision/latest?cb=20260226210125",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2720_Jeep_Gladiator"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2720_Jeep_Gladiator",
+        "local_img": "images/car_014_JJM62.webp"
       }
     ]
   },
@@ -1153,7 +1231,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/1/1a/2017Avant.jpg/revision/latest?cb=20251121095157",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2717_Audi_RS_6_Avant"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2717_Audi_RS_6_Avant",
+        "local_img": "images/car_066_JJJ33.webp"
       },
       {
         "col": "067",
@@ -1167,7 +1246,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/9/99/1963Cortina.jpg/revision/latest?cb=20251121095216",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Lotus_Cortina"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Lotus_Cortina",
+        "local_img": "images/car_067_JJJ34.webp"
       },
       {
         "col": "068",
@@ -1181,7 +1261,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/e/e8/VCARB02.jpg/revision/latest?cb=20251216105514",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Formula_1_(2025)"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Formula_1_(2025)",
+        "local_img": "images/car_068_JJJ35.webp"
       },
       {
         "col": "069",
@@ -1195,7 +1276,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/a/a4/VolvoDriftWagon.jpg/revision/latest?cb=20251121095318",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Volvo_240_Drift_Wagon"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Volvo_240_Drift_Wagon",
+        "local_img": "images/car_069_JJJ36.webp"
       },
       {
         "col": "070",
@@ -1209,7 +1291,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/d/dd/8Ballin%27.jpg/revision/latest?cb=20251121095334",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Decidedly_Go"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Decidedly_Go",
+        "local_img": "images/car_070_JJJ37.webp"
       },
       {
         "col": "071",
@@ -1223,7 +1306,8 @@
         "is_new": true,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/c/c8/AustinMini.jpg/revision/latest?cb=20251213090022",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Austin_Mini_Cooper_S"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Austin_Mini_Cooper_S",
+        "local_img": "images/car_071_JJH39.webp"
       },
       {
         "col": "072",
@@ -1237,7 +1321,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/1/17/1972240Z.jpg/revision/latest?cb=20251121095527",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Datsun_240Z"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Datsun_240Z",
+        "local_img": "images/car_072_JJJ38.webp"
       },
       {
         "col": "073",
@@ -1251,7 +1336,8 @@
         "is_new": true,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/8/8d/BMWM4GT3.jpg/revision/latest?cb=20260430101031",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/BMW_M4_GT3"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/BMW_M4_GT3",
+        "local_img": "images/car_073_JNG69.webp"
       },
       {
         "col": "074",
@@ -1265,7 +1351,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/c/c8/2025W1.jpg/revision/latest?cb=20251121095544",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/McLaren_W1"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/McLaren_W1",
+        "local_img": "images/car_074_JJJ39.webp"
       },
       {
         "col": "075",
@@ -1279,7 +1366,8 @@
         "is_new": true,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/1/17/X-cceleron.jpg/revision/latest?cb=20251216105543",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/X-cceleron"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/X-cceleron",
+        "local_img": "images/car_075_JJH43.webp"
       },
       {
         "col": "076",
@@ -1293,7 +1381,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/8/8b/DragChevette.jpg/revision/latest?cb=20251121095559",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2776_Chevy_Chevette"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2776_Chevy_Chevette",
+        "local_img": "images/car_076_JJJ40.webp"
       },
       {
         "col": "077",
@@ -1307,7 +1396,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/6/63/NHRASupercharged.jpg/revision/latest?cb=20251216110020",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Supercharged"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Supercharged",
+        "local_img": "images/car_077_JJJ41.webp"
       },
       {
         "col": "078",
@@ -1321,7 +1411,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/b/b7/CompactSupotsuka.jpg/revision/latest?cb=20251216110051",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Hako_Type_D"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Hako_Type_D",
+        "local_img": "images/car_078_JJJ43.webp"
       },
       {
         "col": "079",
@@ -1335,7 +1426,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/5/57/BlackRoto.jpg/revision/latest?cb=20251216110108",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Hoto_Roto"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Hoto_Roto",
+        "local_img": "images/car_079_JJJ44.webp"
       },
       {
         "col": "080",
@@ -1349,7 +1441,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/7/71/GabeSwap.jpg/revision/latest?cb=20260103095921",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Kei_Swap"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Kei_Swap",
+        "local_img": "images/car_080_JJJ65.webp"
       },
       {
         "col": "081",
@@ -1363,7 +1456,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/5/59/HotSauce.jpg/revision/latest?cb=20251216110138",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Hot_Wheengs"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Hot_Wheengs",
+        "local_img": "images/car_081_JJM03.webp"
       },
       {
         "col": "082",
@@ -1377,7 +1471,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/c/c7/CakeBake.jpg/revision/latest?cb=20251216110235",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Birthday_Burner"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Birthday_Burner",
+        "local_img": "images/car_082_JJJ45.webp"
       },
       {
         "col": "022",
@@ -1391,7 +1486,8 @@
         "is_new": true,
         "is_recolor": true,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/f/f6/BrewceAmericano.jpg/revision/latest?cb=20260121131441",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Instant_Boost"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Instant_Boost",
+        "local_img": "images/car_022_JJK73.webp"
       },
       {
         "col": "023",
@@ -1405,7 +1501,8 @@
         "is_new": false,
         "is_recolor": true,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/8/8f/69_Dodge_Charger_Dayt.jpg/revision/latest?cb=20260504012104",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2769_Dodge_Charger_Daytona"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2769_Dodge_Charger_Daytona",
+        "local_img": "images/car_023_JJM52.webp"
       },
       {
         "col": "024",
@@ -1419,7 +1516,8 @@
         "is_new": false,
         "is_recolor": true,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/d/d8/Ripper.jpg/revision/latest?cb=20260311125658",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Track_Ripper"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Track_Ripper",
+        "local_img": "images/car_024_JJK95.webp"
       },
       {
         "col": "025",
@@ -1433,7 +1531,8 @@
         "is_new": false,
         "is_recolor": true,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/8/89/Sp%C3%A9irling.jpg/revision/latest?cb=20260802141025",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/McMurtry_Sp%C3%A9irling"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/McMurtry_Sp%C3%A9irling",
+        "local_img": "images/car_025_JJK65.webp"
       },
       {
         "col": "026",
@@ -1447,7 +1546,8 @@
         "is_new": true,
         "is_recolor": true,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/2/21/%27ToonedCinque.jpg/revision/latest?cb=20260303120535",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Pagani_Zonda_Cinque_(Tooned)"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Pagani_Zonda_Cinque_(Tooned)",
+        "local_img": "images/car_026_JJK75.webp"
       },
       {
         "col": "030",
@@ -1461,7 +1561,8 @@
         "is_new": false,
         "is_recolor": true,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/6/60/DreamerSteamer.jpg/revision/latest?cb=20260303120557",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/X-Steam"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/X-Steam",
+        "local_img": "images/car_030_JJK76.webp"
       },
       {
         "col": "031",
@@ -1475,7 +1576,8 @@
         "is_new": true,
         "is_recolor": true,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/5/55/BiancoLibre.jpg/revision/latest?cb=20260316113630",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/La_Liebre"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/La_Liebre",
+        "local_img": "images/car_031_JJK77.webp"
       }
     ]
   },
@@ -1502,7 +1604,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/e/e7/TrackPulse.jpg/revision/latest?cb=20251216122741",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Rapid_Pulse"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Rapid_Pulse",
+        "local_img": "images/car_083_JJJ46.webp"
       },
       {
         "col": "084",
@@ -1516,7 +1619,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/6/6f/RacingTRX.jpg/revision/latest?cb=20251216110507",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Polestar_TRX"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Polestar_TRX",
+        "local_img": "images/car_084_JJJ47.webp"
       },
       {
         "col": "085",
@@ -1530,7 +1634,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/b/b7/Spiker.jpg/revision/latest?cb=20251216110526",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Voltage_Spike"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Voltage_Spike",
+        "local_img": "images/car_085_JJJ48.webp"
       },
       {
         "col": "086",
@@ -1544,7 +1649,8 @@
         "is_new": true,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/e/e5/VolkswagenID.BuzzBomb.jpg/revision/latest?cb=20251216110548",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/VW_ID._Buzz_Bomb"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/VW_ID._Buzz_Bomb",
+        "local_img": "images/car_086_JJH46.webp"
       },
       {
         "col": "087",
@@ -1558,7 +1664,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/4/49/TanBruiser.jpg/revision/latest?cb=20251216110622",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Cruise_Bruiser"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Cruise_Bruiser",
+        "local_img": "images/car_087_JJJ49.webp"
       },
       {
         "col": "088",
@@ -1572,7 +1679,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/c/c6/1973NissanKenmeri.jpg/revision/latest?cb=20251216110702",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Nissan_Skyline_2000GT-R"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Nissan_Skyline_2000GT-R",
+        "local_img": "images/car_088_JJJ50.webp"
       },
       {
         "col": "089",
@@ -1586,7 +1694,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/f/fc/1985HondaCR-XMugen.jpg/revision/latest?cb=20251216110719",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/1985_Honda_CR-X"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/1985_Honda_CR-X",
+        "local_img": "images/car_089_JJJ51.webp"
       },
       {
         "col": "089",
@@ -1599,8 +1708,9 @@
         "is_th": false,
         "is_new": false,
         "is_recolor": false,
-        "img": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/1985_Honda_CR-X"
+        "img": "https://static.wikia.nocookie.net/hotwheels/images/0/05/1985_Honda_CR-X_-_2020_Muscle_Mania.jpg/revision/latest",
+        "wiki_url": "https://hotwheels.fandom.com/wiki/1985_Honda_CR-X",
+        "local_img": "images/car_089_JJM40.webp"
       },
       {
         "col": "090",
@@ -1614,7 +1724,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/b/b4/CadillacGT3.jpg/revision/latest?cb=20260103095942",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2716_Cadillac_ATS-V_R"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2716_Cadillac_ATS-V_R",
+        "local_img": "images/car_090_JJJ52.webp"
       },
       {
         "col": "091",
@@ -1628,7 +1739,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/5/5d/LBHurac%C3%A1n.jpg/revision/latest?cb=20251216110804",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/LB-WORKS_Lamborghini_Hurac%C3%A1n_Coup%C3%A9"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/LB-WORKS_Lamborghini_Hurac%C3%A1n_Coup%C3%A9",
+        "local_img": "images/car_091_JJJ53.webp"
       },
       {
         "col": "092",
@@ -1642,7 +1754,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/9/91/I%27mFelineLucky.jpg/revision/latest?cb=20251216110828",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Feline_Lucky"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Feline_Lucky",
+        "local_img": "images/car_092_JJJ54.webp"
       },
       {
         "col": "093",
@@ -1656,7 +1769,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/7/7d/Coup%C3%A9Clip.jpg/revision/latest?cb=20251216110913",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Coupe_Clip"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Coupe_Clip",
+        "local_img": "images/car_093_JJJ55.webp"
       },
       {
         "col": "094",
@@ -1670,7 +1784,8 @@
         "is_new": true,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/6/6f/Ferrari12Cilindri.jpg/revision/latest?cb=20251128012749",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Ferrari_12Cilindri"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Ferrari_12Cilindri",
+        "local_img": "images/car_094_JJH41.webp"
       },
       {
         "col": "095",
@@ -1684,7 +1799,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/c/c8/1964ChevroletImpala.jpg/revision/latest?cb=20251216111004",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2764_Impala"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2764_Impala",
+        "local_img": "images/car_095_JJJ56.webp"
       },
       {
         "col": "095",
@@ -1698,7 +1814,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/9/9f/ImpalaSTH.jpg/revision/latest?cb=20251126104959",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2764_Impala"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2764_Impala",
+        "local_img": "images/car_095_JJM18.webp"
       },
       {
         "col": "096",
@@ -1712,7 +1829,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/e/ec/RacingCoupe.jpg/revision/latest?cb=20251216111033",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/El_Segundo_Coupe"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/El_Segundo_Coupe",
+        "local_img": "images/car_096_JJJ57.webp"
       },
       {
         "col": "097",
@@ -1726,7 +1844,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/5/54/C2GrandSport.jpg/revision/latest?cb=20251121095618",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Corvette_Grand_Sport"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Corvette_Grand_Sport",
+        "local_img": "images/car_097_JJJ58.webp"
       },
       {
         "col": "098",
@@ -1740,7 +1859,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/0/01/1996Porsche996.jpg/revision/latest?cb=20251216111051",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2796_Porsche_Carrera"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2796_Porsche_Carrera",
+        "local_img": "images/car_098_JJJ59.webp"
       },
       {
         "col": "099",
@@ -1754,7 +1874,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/4/4d/RacingEspace.jpg/revision/latest?cb=20251216111129",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Renault_Espace_F1"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Renault_Espace_F1",
+        "local_img": "images/car_099_JJJ60.webp"
       },
       {
         "col": "100",
@@ -1768,7 +1889,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/4/44/RacingDorado.jpg/revision/latest?cb=20251216111219",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Twin_Dorado"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Twin_Dorado",
+        "local_img": "images/car_100_JJJ61.webp"
       },
       {
         "col": "036",
@@ -1782,7 +1904,8 @@
         "is_new": false,
         "is_recolor": true,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/f/f4/DarkChallenger.jpg/revision/latest?cb=20260303120617",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2770_Dodge_Hemi_Challenger"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2770_Dodge_Hemi_Challenger",
+        "local_img": "images/car_036_JJK79.webp"
       },
       {
         "col": "037",
@@ -1796,7 +1919,8 @@
         "is_new": false,
         "is_recolor": true,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/a/a3/BlueCupra.jpg/revision/latest?cb=20260802141116",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Cupra_e-Racer"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Cupra_e-Racer",
+        "local_img": "images/car_037_JJL50.webp"
       },
       {
         "col": "038",
@@ -1810,7 +1934,8 @@
         "is_new": false,
         "is_recolor": true,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/6/68/Teku24.jpg/revision/latest?cb=20260802141141",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/24/Seven"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/24/Seven",
+        "local_img": "images/car_038_JJL51.webp"
       },
       {
         "col": "039",
@@ -1824,7 +1949,8 @@
         "is_new": false,
         "is_recolor": true,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/3/33/PopTartToaster.jpg/revision/latest?cb=20260311125759",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Roller_Toaster"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Roller_Toaster",
+        "local_img": "images/car_039_JJK88.webp"
       }
     ]
   },
@@ -1851,7 +1977,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/a/ac/2017Huayra.jpg/revision/latest?cb=20260121131545",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2717_Pagani_Huayra_Roadster"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2717_Pagani_Huayra_Roadster",
+        "local_img": "images/car_101_JJH99.webp"
       },
       {
         "col": "102",
@@ -1865,7 +1992,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/7/7e/Passin%27Gas.jpg/revision/latest?cb=20251216111241",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Pass%27n_Gasser"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Pass%27n_Gasser",
+        "local_img": "images/car_102_JJK30.webp"
       },
       {
         "col": "103",
@@ -1879,7 +2007,8 @@
         "is_new": true,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/0/0e/Eggshelleracer.jpg/revision/latest?cb=20260103100024",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Eggshelleracer"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Eggshelleracer",
+        "local_img": "images/car_103_JJH47.webp"
       },
       {
         "col": "104",
@@ -1893,7 +2022,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/8/89/1968Dart.jpg/revision/latest?cb=20260103100040",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2768_Dodge_Dart"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2768_Dodge_Dart",
+        "local_img": "images/car_104_JJJ63.webp"
       },
       {
         "col": "105",
@@ -1907,7 +2037,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/4/4f/HondaCityTurbo.jpg/revision/latest?cb=20260103100055",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2785_Honda_City_Turbo_II"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2785_Honda_City_Turbo_II",
+        "local_img": "images/car_105_JJJ66.webp"
       },
       {
         "col": "106",
@@ -1921,7 +2052,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/4/43/MazdaRX-3Custom.jpg/revision/latest?cb=20260103100117",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Mazda_RX-3"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Mazda_RX-3",
+        "local_img": "images/car_106_JJJ82.webp"
       },
       {
         "col": "107",
@@ -1935,7 +2067,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/7/7b/1966Batboat.jpg/revision/latest?cb=20260103100152",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/1966_Bat_Boat"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/1966_Bat_Boat",
+        "local_img": "images/car_107_JJJ67.webp"
       },
       {
         "col": "108",
@@ -1949,7 +2082,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/6/6f/SimpsonsCar.jpg/revision/latest?cb=20260103100211",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/The_Simpsons_Family_Car"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/The_Simpsons_Family_Car",
+        "local_img": "images/car_108_JJJ68.webp"
       },
       {
         "col": "109",
@@ -1963,7 +2097,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/0/0a/Shiftin%27Time.jpg/revision/latest?cb=20260103100226",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Time_Shifter"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Time_Shifter",
+        "local_img": "images/car_109_JJJ69.webp"
       },
       {
         "col": "110",
@@ -1977,7 +2112,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/c/c4/ATNChevelle.jpg/revision/latest?cb=20260103100306",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2770_Chevelle_SS_Wagon"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2770_Chevelle_SS_Wagon",
+        "local_img": "images/car_110_JJJ70.webp"
       },
       {
         "col": "111",
@@ -1991,7 +2127,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/d/d0/MoonBloc.jpg/revision/latest?cb=20260103100340",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Long_Bloc"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Long_Bloc",
+        "local_img": "images/car_111_JJJ71.webp"
       },
       {
         "col": "112",
@@ -2005,7 +2142,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/7/7b/1989MazdaRX-7.jpg/revision/latest?cb=20260103100355",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2789_Mazda_Savanna_RX-7_FC3S"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2789_Mazda_Savanna_RX-7_FC3S",
+        "local_img": "images/car_112_JJJ72.webp"
       },
       {
         "col": "113",
@@ -2019,7 +2157,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/1/14/2015CorvetteZ06.jpg/revision/latest?cb=20260103100415",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Corvette_C7_Z06"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Corvette_C7_Z06",
+        "local_img": "images/car_113_JJJ73.webp"
       },
       {
         "col": "114",
@@ -2033,7 +2172,8 @@
         "is_new": true,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/9/91/OldsToronado.jpg/revision/latest?cb=20260103100431",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Custom_%2766_Toronado"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Custom_%2766_Toronado",
+        "local_img": "images/car_114_JJH45.webp"
       },
       {
         "col": "115",
@@ -2047,7 +2187,8 @@
         "is_new": true,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/a/a0/HondaeCustom.jpg/revision/latest?cb=20260103100446",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Custom_2020_Honda_e"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Custom_2020_Honda_e",
+        "local_img": "images/car_115_JMB11.webp"
       },
       {
         "col": "116",
@@ -2061,7 +2202,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/c/c4/1987Sierra.jpg/revision/latest?cb=20260103100500",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2787_Ford_Sierra_Cosworth"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2787_Ford_Sierra_Cosworth",
+        "local_img": "images/car_116_JJJ74.webp"
       },
       {
         "col": "116",
@@ -2075,7 +2217,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/5/51/2026ML-116B_%28Large%29.JPG/revision/latest?cb=20260208034953",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2787_Ford_Sierra_Cosworth"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2787_Ford_Sierra_Cosworth",
+        "local_img": "images/car_116_JJM19.webp"
       },
       {
         "col": "049",
@@ -2089,7 +2232,8 @@
         "is_new": false,
         "is_recolor": true,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/6/62/PhoneShaker.jpg/revision/latest?cb=20260303120902",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Quick_Chat"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Quick_Chat",
+        "local_img": "images/car_049_JJK82.webp"
       },
       {
         "col": "050",
@@ -2103,7 +2247,8 @@
         "is_new": false,
         "is_recolor": true,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/L%C3%A9Bolide.jpg/revision/latest?cb=20260530095041",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Bugatti_Bolide"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Bugatti_Bolide",
+        "local_img": "images/car_050_JJL22.webp"
       },
       {
         "col": "051",
@@ -2117,7 +2262,8 @@
         "is_new": false,
         "is_recolor": true,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/7/7a/TumblerBatmobile.jpg/revision/latest?cb=20260530095112",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/The_Dark_Knight_Batmobile"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/The_Dark_Knight_Batmobile",
+        "local_img": "images/car_051_JJL13.webp"
       },
       {
         "col": "052",
@@ -2131,7 +2277,8 @@
         "is_new": false,
         "is_recolor": true,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/4/49/JJM67_RED_o4.jpg/revision/latest?cb=20260319061551",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Porsche_911_Turbo_Cabriolet"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Porsche_911_Turbo_Cabriolet",
+        "local_img": "images/car_052_JJM67.webp"
       },
       {
         "col": "052",
@@ -2144,8 +2291,9 @@
         "is_th": false,
         "is_new": false,
         "is_recolor": true,
-        "img": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Porsche_911_Turbo_Cabriolet"
+        "img": "https://static.wikia.nocookie.net/hotwheels/images/b/b9/964Turbo.jpg/revision/latest?cb=20251121094844",
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Porsche_911_Turbo_Cabriolet",
+        "local_img": "images/car_052_JJL82.webp"
       },
       {
         "col": "053",
@@ -2159,7 +2307,8 @@
         "is_new": false,
         "is_recolor": true,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/2/29/Chevellelicious.jpg/revision/latest?cb=20260311130430",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2769_Chevelle_(X-Raycers)"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2769_Chevelle_(X-Raycers)",
+        "local_img": "images/car_053_JJK83.webp"
       },
       {
         "col": "054",
@@ -2173,7 +2322,8 @@
         "is_new": false,
         "is_recolor": true,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/a/a3/DriftingDonut.jpg/revision/latest?cb=20260802141211",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Donut_Drifter"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Donut_Drifter",
+        "local_img": "images/car_054_JJL31.webp"
       }
     ]
   },
@@ -2200,7 +2350,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/6/61/GreenRod.jpg/revision/latest?cb=20260103100517",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Erikenstein_Rod"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Erikenstein_Rod",
+        "local_img": "images/car_117_JJJ75.webp"
       },
       {
         "col": "118",
@@ -2214,7 +2365,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/2/26/PedalDriver.jpg/revision/latest?cb=20260103100531",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Pedal_Driver"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Pedal_Driver",
+        "local_img": "images/car_118_JJJ77.webp"
       },
       {
         "col": "119",
@@ -2228,7 +2380,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/a/ae/FordLoBoy.jpg/revision/latest?cb=20260303121013",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2733_Ford_Lo_Boy"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2733_Ford_Lo_Boy",
+        "local_img": "images/car_119_JJJ76.webp"
       },
       {
         "col": "120",
@@ -2242,7 +2395,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/9/9a/ScuderiaFerrariSF-25.jpg/revision/latest?cb=20260110124837",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Formula_1_(2025)"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Formula_1_(2025)",
+        "local_img": "images/car_120_JJJ78.webp"
       },
       {
         "col": "121",
@@ -2256,7 +2410,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/9/9d/2023NissanZSport.jpg/revision/latest?cb=20251216111257",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/2023_Nissan_Z"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/2023_Nissan_Z",
+        "local_img": "images/car_121_JJJ79.webp"
       },
       {
         "col": "121",
@@ -2270,7 +2425,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/8/8d/2026-121_JJM34_ZAMAK_2023_Nissan_Z_o1.jpg/revision/latest?cb=20260904132557",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/2023_Nissan_Z"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/2023_Nissan_Z",
+        "local_img": "images/car_121_JJM34.webp"
       },
       {
         "col": "122",
@@ -2284,7 +2440,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/d/d7/HotConez.jpg/revision/latest?cb=20260103111850",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Cone_Shaker"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Cone_Shaker",
+        "local_img": "images/car_122_JJM04.webp"
       },
       {
         "col": "123",
@@ -2298,7 +2455,8 @@
         "is_new": true,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/7/76/MaseratiBirdcage.jpg/revision/latest?cb=20260103100549",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Maserati_Tipo_61"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Maserati_Tipo_61",
+        "local_img": "images/car_123_JJH44.webp"
       },
       {
         "col": "124",
@@ -2312,7 +2470,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/6/6a/2016FordGTLMGTE.jpg/revision/latest?cb=20260121131507",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/2016_Ford_GT_Race"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/2016_Ford_GT_Race",
+        "local_img": "images/car_124_JJM05.webp"
       },
       {
         "col": "125",
@@ -2326,7 +2485,8 @@
         "is_new": true,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/1/1f/AstonMartinVantageAMRGT3Evo.jpg/revision/latest?cb=20260121131524",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/2024_Aston_Martin_Vantage_GT3"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/2024_Aston_Martin_Vantage_GT3",
+        "local_img": "images/car_125_JJH55.webp"
       },
       {
         "col": "126",
@@ -2340,7 +2500,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/e/e0/1964Dodge330.jpg/revision/latest?cb=20260103100603",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2764_Dodge_330"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2764_Dodge_330",
+        "local_img": "images/car_126_JJJ64.webp"
       },
       {
         "col": "127",
@@ -2354,7 +2515,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/b/b7/1972LUV.jpg/revision/latest?cb=20260128102812",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Custom_%2772_Chevy_LUV"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Custom_%2772_Chevy_LUV",
+        "local_img": "images/car_127_JJJ80.webp"
       },
       {
         "col": "128",
@@ -2368,7 +2530,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/d/d4/DatsunnyDay.jpg/revision/latest?cb=20260311130042",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Datsun_620"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Datsun_620",
+        "local_img": "images/car_128_JPJ80.webp"
       },
       {
         "col": "129",
@@ -2382,7 +2545,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/2/22/StandardKart.jpg/revision/latest?cb=20210926022809",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Standard_Kart"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Standard_Kart",
+        "local_img": "images/car_129_JJJ83.webp"
       },
       {
         "col": "130",
@@ -2396,7 +2560,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/f/fa/2019AudiR8.jpg/revision/latest?cb=20260105100259",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/2019_Audi_R8_Spyder"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/2019_Audi_R8_Spyder",
+        "local_img": "images/car_130_JJJ84.webp"
       },
       {
         "col": "131",
@@ -2410,7 +2575,8 @@
         "is_new": true,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/6/64/FiatS76Record.jpg/revision/latest?cb=20260303121043",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Fiat_Beast_of_Turin"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Fiat_Beast_of_Turin",
+        "local_img": "images/car_131_JJH48.webp"
       },
       {
         "col": "131",
@@ -2424,7 +2590,8 @@
         "is_new": true,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/3/3f/JJM66_o4.jpg/revision/latest?cb=20260808033638",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Fiat_Beast_of_Turin"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Fiat_Beast_of_Turin",
+        "local_img": "images/car_131_JJM66.webp"
       },
       {
         "col": "132",
@@ -2438,7 +2605,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/9/9d/BulletProof.jpg/revision/latest?cb=20260128103036",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Bullet_Proof"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Bullet_Proof",
+        "local_img": "images/car_132_JJJ85.webp"
       },
       {
         "col": "133",
@@ -2452,7 +2620,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/4/47/8CrateRanchWagon.jpg/revision/latest?cb=20260121131615",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/8_Crate"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/8_Crate",
+        "local_img": "images/car_133_JJJ86.webp"
       },
       {
         "col": "060",
@@ -2466,7 +2635,8 @@
         "is_new": true,
         "is_recolor": true,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/1/1f/2026_Prius_Custom_DT_plain.jpg/revision/latest?cb=20260707091050",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Toyota_Prius_Custom"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Toyota_Prius_Custom",
+        "local_img": "images/car_060_JJM48.webp"
       },
       {
         "col": "060",
@@ -2480,7 +2650,8 @@
         "is_new": true,
         "is_recolor": true,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/b/b9/ArmyPrius.jpg/revision/latest?cb=20260802141238",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Toyota_Prius_Custom"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Toyota_Prius_Custom",
+        "local_img": "images/car_060_JJL34.webp"
       },
       {
         "col": "061",
@@ -2494,7 +2665,8 @@
         "is_new": false,
         "is_recolor": true,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/6/6a/MazdaRX-7Custom.jpg/revision/latest?cb=20260802141313",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Mazda_RX-7"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Mazda_RX-7",
+        "local_img": "images/car_061_JJL35.webp"
       },
       {
         "col": "062",
@@ -2508,7 +2680,8 @@
         "is_new": false,
         "is_recolor": true,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/e/e7/Ferrari365GTB4C.jpg/revision/latest?cb=20260430100854",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Ferrari_365_GTB4_Competizione"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Ferrari_365_GTB4_Competizione",
+        "local_img": "images/car_062_JJL06.webp"
       },
       {
         "col": "065",
@@ -2522,7 +2695,8 @@
         "is_new": true,
         "is_recolor": true,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/c/c0/NukeHatch.jpg/revision/latest?cb=20260430100921",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Drift_Box"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Drift_Box",
+        "local_img": "images/car_065_JJL09.webp"
       }
     ]
   },
@@ -2549,7 +2723,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/e/e4/2020Hellcat.jpg/revision/latest?cb=20260121131633",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2720_Dodge_Charger_Hellcat"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2720_Dodge_Charger_Hellcat",
+        "local_img": "images/car_134_JJJ87.webp"
       },
       {
         "col": "135",
@@ -2563,7 +2738,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/6/6e/ADWFast.jpg/revision/latest?cb=20260121131653",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Flippin_Fast"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Flippin_Fast",
+        "local_img": "images/car_135_JJJ88.webp"
       },
       {
         "col": "136",
@@ -2577,7 +2753,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/0/05/1998HondaPrelude.jpg/revision/latest?cb=20260303121145",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2798_Honda_Prelude"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2798_Honda_Prelude",
+        "local_img": "images/car_136_JJJ89.webp"
       },
       {
         "col": "137",
@@ -2591,7 +2768,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/4/45/1950ChevyTruck.jpg/revision/latest?cb=20260128103137",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/La_Troca"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/La_Troca",
+        "local_img": "images/car_137_JJJ90.webp"
       },
       {
         "col": "138",
@@ -2605,7 +2783,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/8/81/Morgan3Wheeler.jpg/revision/latest?cb=20260128103231",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Morgan_Super_3"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Morgan_Super_3",
+        "local_img": "images/car_138_JJJ91.webp"
       },
       {
         "col": "139",
@@ -2619,7 +2798,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/2/23/FanShaker.jpg/revision/latest?cb=20260121131749",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Bone_Shaker"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Bone_Shaker",
+        "local_img": "images/car_139_JJJ92.webp"
       },
       {
         "col": "140",
@@ -2633,7 +2813,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/7/70/MoodyMill.jpg/revision/latest?cb=20260121131805",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Mid_Mill"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Mid_Mill",
+        "local_img": "images/car_140_JJJ93.webp"
       },
       {
         "col": "141",
@@ -2647,7 +2828,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/7/76/Rodliner.jpg/revision/latest?cb=20260121131936",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Screamliner"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Screamliner",
+        "local_img": "images/car_141_JJJ94.webp"
       },
       {
         "col": "142",
@@ -2661,7 +2843,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/8/83/%27ToonedRX-3GT.jpg/revision/latest?cb=20260121131826",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Mazda_RX-3_(Tooned)"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Mazda_RX-3_(Tooned)",
+        "local_img": "images/car_142_JJJ95.webp"
       },
       {
         "col": "143",
@@ -2675,7 +2858,8 @@
         "is_new": true,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/b/b1/%27ToonedDeoraII.jpg/revision/latest?cb=20260121132000",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Deora_Too%27nd"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Deora_Too%27nd",
+        "local_img": "images/car_143_JJH50.webp"
       },
       {
         "col": "144",
@@ -2689,7 +2873,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/f/fa/%27ToonedClassicBatmobile.jpg/revision/latest?cb=20260303121204",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Classic_TV_Series_Batmobile_(Tooned)"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Classic_TV_Series_Batmobile_(Tooned)",
+        "local_img": "images/car_144_JJJ96.webp"
       },
       {
         "col": "145",
@@ -2703,7 +2888,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/5/55/ESRallyeDirt.jpg/revision/latest?cb=20260303121220",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/El_Segundo_Rallye"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/El_Segundo_Rallye",
+        "local_img": "images/car_145_JJJ97.webp"
       },
       {
         "col": "146",
@@ -2717,7 +2903,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/d/dd/Purplezam.jpg/revision/latest?cb=20260303121240",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Mazda_Autozam"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Mazda_Autozam",
+        "local_img": "images/car_146_JJJ98.webp"
       },
       {
         "col": "147",
@@ -2731,7 +2918,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/f/f0/THJetZ.jpg/revision/latest?cb=20260303121401",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/2_Jet_Z"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/2_Jet_Z",
+        "local_img": "images/car_147_JJM06.webp"
       },
       {
         "col": "148",
@@ -2745,7 +2933,8 @@
         "is_new": true,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/7/7e/%27ToonedPurplePassion.jpg/revision/latest?cb=20260303121417",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Tooned_Purple_Passion"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Tooned_Purple_Passion",
+        "local_img": "images/car_148_JJH54.webp"
       },
       {
         "col": "149",
@@ -2759,7 +2948,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/5/53/2014HondaOdyssey.jpg/revision/latest?cb=20260303121432",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Honda_Odyssey"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Honda_Odyssey",
+        "local_img": "images/car_149_JJJ99.webp"
       },
       {
         "col": "150",
@@ -2773,7 +2963,8 @@
         "is_new": true,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/3/32/Dino206GT.jpg/revision/latest?cb=20260303121449",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Dino_206_GT"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Dino_206_GT",
+        "local_img": "images/car_150_JJH56.webp"
       },
       {
         "col": "072",
@@ -2787,7 +2978,8 @@
         "is_new": false,
         "is_recolor": true,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/5/54/1972Datsun240Z.jpg/revision/latest?cb=20260802141347",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Datsun_240Z"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Datsun_240Z",
+        "local_img": "images/car_072_JJL53.webp"
       },
       {
         "col": "072",
@@ -2800,8 +2992,9 @@
         "is_th": false,
         "is_new": false,
         "is_recolor": true,
-        "img": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Datsun_240Z"
+        "img": "https://static.wikia.nocookie.net/hotwheels/images/1/17/1972240Z.jpg/revision/latest?cb=20251121095527",
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Datsun_240Z",
+        "local_img": "images/car_072_JJM69.webp"
       },
       {
         "col": "073",
@@ -2814,8 +3007,9 @@
         "is_th": false,
         "is_new": true,
         "is_recolor": true,
-        "img": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/BMW_M4_GT3"
+        "img": "https://static.wikia.nocookie.net/hotwheels/images/8/8d/BMWM4GT3.jpg/revision/latest?cb=20260430101031",
+        "wiki_url": "https://hotwheels.fandom.com/wiki/BMW_M4_GT3",
+        "local_img": "images/car_073_JJK96.webp"
       },
       {
         "col": "074",
@@ -2829,7 +3023,8 @@
         "is_new": false,
         "is_recolor": true,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/a/a9/Mclaren_2026.jpg/revision/latest?cb=20260407113043",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/McLaren_W1"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/McLaren_W1",
+        "local_img": "images/car_074_JJM60.webp"
       },
       {
         "col": "074",
@@ -2843,7 +3038,8 @@
         "is_new": false,
         "is_recolor": true,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/8/87/2026McLarenW1.jpg/revision/latest?cb=20260802141418",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/McLaren_W1"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/McLaren_W1",
+        "local_img": "images/car_074_JJL43.webp"
       },
       {
         "col": "075",
@@ -2857,7 +3053,8 @@
         "is_new": true,
         "is_recolor": true,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/8/89/Blackcceleron.jpg/revision/latest?cb=20260802141447",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/X-cceleron"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/X-cceleron",
+        "local_img": "images/car_075_JJL23.webp"
       },
       {
         "col": "076",
@@ -2871,7 +3068,8 @@
         "is_new": false,
         "is_recolor": true,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/4/4e/ChevetteDragster.jpg/revision/latest?cb=20260802141521",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2776_Chevy_Chevette"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2776_Chevy_Chevette",
+        "local_img": "images/car_076_JJL45.webp"
       }
     ]
   },
@@ -2898,7 +3096,8 @@
         "is_new": true,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/9/9d/FordSupertruck.jpg/revision/latest?cb=20260303121511",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Ford_F-150_Lightning_SuperTruck"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Ford_F-150_Lightning_SuperTruck",
+        "local_img": "images/car_151_JJH52.webp"
       },
       {
         "col": "152",
@@ -2912,7 +3111,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/4/43/1980BMW635.jpg/revision/latest?cb=20260303121526",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/BMW_635_CSi"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/BMW_635_CSi",
+        "local_img": "images/car_152_JJK00.webp"
       },
       {
         "col": "153",
@@ -2926,7 +3126,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/a/a6/WillysCoupe.jpg/revision/latest?cb=20260311130104",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Custom_%2741_Willys_Coupe"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Custom_%2741_Willys_Coupe",
+        "local_img": "images/car_153_JJK01.webp"
       },
       {
         "col": "154",
@@ -2940,7 +3141,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/4/4b/KickSauberC45.jpg/revision/latest?cb=20260311130123",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Formula_1_(2025)"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Formula_1_(2025)",
+        "local_img": "images/car_154_JJK02.webp"
       },
       {
         "col": "155",
@@ -2954,7 +3156,8 @@
         "is_new": true,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/a/a8/Vairstrike.jpg/revision/latest?cb=20260121132023",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Vairstrike"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Vairstrike",
+        "local_img": "images/car_155_JJH53.webp"
       },
       {
         "col": "155",
@@ -2967,8 +3170,9 @@
         "is_th": false,
         "is_new": true,
         "is_recolor": false,
-        "img": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Vairstrike"
+        "img": "https://static.wikia.nocookie.net/hotwheels/images/a/a2/Vairstrike_White.jpg/revision/latest",
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Vairstrike",
+        "local_img": "images/car_155_JJM36.webp"
       },
       {
         "col": "156",
@@ -2982,7 +3186,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/2/2b/CustomOtto.jpg/revision/latest?cb=20260303121544",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Custom_Otto"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Custom_Otto",
+        "local_img": "images/car_156_JJK03.webp"
       },
       {
         "col": "156",
@@ -2996,7 +3201,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/3/3a/STH_OTTO_o5.jpg/revision/latest?cb=20260207135512",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Custom_Otto"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Custom_Otto",
+        "local_img": "images/car_156_JJM21.webp"
       },
       {
         "col": "157",
@@ -3010,7 +3216,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/e/e1/2020ToyotaSupra.jpg/revision/latest?cb=20260303121610",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2720_Toyota_GR_Supra"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2720_Toyota_GR_Supra",
+        "local_img": "images/car_157_JJK04.webp"
       },
       {
         "col": "158",
@@ -3024,7 +3231,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/6/65/ExotiSpeeder.jpg/revision/latest?cb=20260316113652",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Mach_Speeder"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Mach_Speeder",
+        "local_img": "images/car_158_JJK05.webp"
       },
       {
         "col": "159",
@@ -3038,7 +3246,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/8/88/HondaCivicDragster.jpg/revision/latest?cb=20260128103247",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Honda_Civic_Custom"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Honda_Civic_Custom",
+        "local_img": "images/car_159_JJJ81.webp"
       },
       {
         "col": "159",
@@ -3052,7 +3261,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/0/09/2026H_tiaozi.jpg/revision/latest?cb=20251129132835",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Honda_Civic_Custom"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Honda_Civic_Custom",
+        "local_img": "images/car_159_JJM20.webp"
       },
       {
         "col": "160",
@@ -3066,7 +3276,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/0/00/LotusElise.jpg/revision/latest?cb=20260311130144",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Lotus_Sport_Elise"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Lotus_Sport_Elise",
+        "local_img": "images/car_160_JJK07.webp"
       },
       {
         "col": "160",
@@ -3080,7 +3291,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/e/eb/LotusEliseSTH.jpg/revision/latest?cb=20260303121631",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Lotus_Sport_Elise"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Lotus_Sport_Elise",
+        "local_img": "images/car_160_JJM22.webp"
       },
       {
         "col": "161",
@@ -3094,7 +3306,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/c/c4/1970Escort.jpg/revision/latest?cb=20260311130204",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2770_Ford_Escort_RS1600"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2770_Ford_Escort_RS1600",
+        "local_img": "images/car_161_JJK08.webp"
       },
       {
         "col": "162",
@@ -3108,7 +3321,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/b/bc/%27ToonedTrashTruck.jpg/revision/latest?cb=20260311130221",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Total_Disposal"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Total_Disposal",
+        "local_img": "images/car_162_JJM07.webp"
       },
       {
         "col": "163",
@@ -3122,7 +3336,8 @@
         "is_new": true,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/5/5f/CadillacCelestiq.jpg/revision/latest?cb=20260311130240",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Cadillac_Celestiq"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Cadillac_Celestiq",
+        "local_img": "images/car_163_JJH49.webp"
       },
       {
         "col": "164",
@@ -3136,7 +3351,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/5/55/1955Nomad.jpg/revision/latest?cb=20260303121651",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Classic_Nomad"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Classic_Nomad",
+        "local_img": "images/car_164_JJK10.webp"
       },
       {
         "col": "165",
@@ -3150,7 +3366,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/3/3f/WagoneMad.jpg/revision/latest?cb=20260311130314",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Gone_Mad"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Gone_Mad",
+        "local_img": "images/car_165_JJK09.webp"
       },
       {
         "col": "166",
@@ -3164,7 +3381,8 @@
         "is_new": true,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/c/c6/TwinTags.jpg/revision/latest?cb=20260311130511",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Twin_Tags"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Twin_Tags",
+        "local_img": "images/car_166_JJH64.webp"
       },
       {
         "col": "082",
@@ -3177,8 +3395,9 @@
         "is_th": false,
         "is_new": false,
         "is_recolor": true,
-        "img": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Birthday_Burner"
+        "img": "https://static.wikia.nocookie.net/hotwheels/images/c/c7/CakeBake.jpg/revision/latest?cb=20251216110235",
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Birthday_Burner",
+        "local_img": "images/car_082_JJL62.webp"
       },
       {
         "col": "083",
@@ -3192,7 +3411,8 @@
         "is_new": false,
         "is_recolor": true,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/1/15/HeavyPulse.jpg/revision/latest?cb=20260430101320",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Rapid_Pulse"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Rapid_Pulse",
+        "local_img": "images/car_083_JJL04.webp"
       },
       {
         "col": "084",
@@ -3206,7 +3426,8 @@
         "is_new": false,
         "is_recolor": true,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/3/3c/PolestarSupercar.jpg/revision/latest?cb=20260802141659",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Polestar_TRX"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Polestar_TRX",
+        "local_img": "images/car_084_JJL49.webp"
       },
       {
         "col": "085",
@@ -3220,7 +3441,8 @@
         "is_new": false,
         "is_recolor": true,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/2/27/OrangeSpiker.jpg/revision/latest?cb=20260802141739",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Voltage_Spike"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Voltage_Spike",
+        "local_img": "images/car_085_JJL32.webp"
       }
     ]
   },
@@ -3247,7 +3469,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/e/e4/IDPGasket.jpg/revision/latest?cb=20260316113708",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Head_Gasket"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Head_Gasket",
+        "local_img": "images/car_167_JJK11.webp"
       },
       {
         "col": "168",
@@ -3261,7 +3484,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/6/63/MailDragster.jpg/revision/latest?cb=20260311130534",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Mailed_It!"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Mailed_It!",
+        "local_img": "images/car_168_JJK12.webp"
       },
       {
         "col": "169",
@@ -3275,7 +3499,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/8/8a/SuperTwinMillII.jpg/revision/latest?cb=20260314103058",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Super_Twin_Mill"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Super_Twin_Mill",
+        "local_img": "images/car_169_JJK13.webp"
       },
       {
         "col": "170",
@@ -3289,7 +3514,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/1/16/LincolnContinental.jpg/revision/latest?cb=20260311130554",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2764_Lincoln_Continental_(2007)"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2764_Lincoln_Continental_(2007)",
+        "local_img": "images/car_170_JJK14.webp"
       },
       {
         "col": "171",
@@ -3303,7 +3529,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/2/2c/1983Porsche928.jpg/revision/latest?cb=20260311130616",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/1983_Porsche_928S"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/1983_Porsche_928S",
+        "local_img": "images/car_171_JJK15.webp"
       },
       {
         "col": "172",
@@ -3317,7 +3544,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/f/f5/VroomyGolf.jpg/revision/latest?cb=20260316113722",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Tooned_Volkswagen_Golf_Mk1"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Tooned_Volkswagen_Golf_Mk1",
+        "local_img": "images/car_172_JJK16.webp"
       },
       {
         "col": "173",
@@ -3331,7 +3559,8 @@
         "is_new": true,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/1/12/FerrariF2004.jpg/revision/latest?cb=20260620015911",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Ferrari_F2004"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Ferrari_F2004",
+        "local_img": "images/car_173_JJH51.webp"
       },
       {
         "col": "174",
@@ -3345,7 +3574,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/0/0e/JeepN%27Roll.jpg/revision/latest?cb=20260410125245",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Duck_N%27_Roll"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Duck_N%27_Roll",
+        "local_img": "images/car_174_JJK17.webp"
       },
       {
         "col": "175",
@@ -3359,7 +3589,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/d/d5/1994AudiRS2Avant.jpg/revision/latest?cb=20260410125305",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2794_Audi_Avant_RS2"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2794_Audi_Avant_RS2",
+        "local_img": "images/car_175_JJK18.webp"
       },
       {
         "col": "176",
@@ -3373,7 +3604,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/3/3e/2005SubaruImpreza.jpg/revision/latest?cb=20260410125327",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Subaru_Impreza"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Subaru_Impreza",
+        "local_img": "images/car_176_JJK19.webp"
       },
       {
         "col": "176",
@@ -3387,7 +3619,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/2/22/STHImpreza.jpg/revision/latest?cb=20260410125346",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Subaru_Impreza"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Subaru_Impreza",
+        "local_img": "images/car_176_JJM23.webp"
       },
       {
         "col": "177",
@@ -3401,7 +3634,8 @@
         "is_new": true,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/d/d3/MitsubishiStarion.jpg/revision/latest?cb=20260410125415",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2788_Mitsubishi_Starion"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2788_Mitsubishi_Starion",
+        "local_img": "images/car_177_JJH58.webp"
       },
       {
         "col": "178",
@@ -3415,7 +3649,8 @@
         "is_new": true,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/1/10/ClickShift.jpg/revision/latest?cb=20260430101557",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Click_Shift"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Click_Shift",
+        "local_img": "images/car_178_JJH61.webp"
       },
       {
         "col": "179",
@@ -3429,7 +3664,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/a/a3/LRMauler.jpg/revision/latest?cb=20260410125433",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Mountain_Mauler"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Mountain_Mauler",
+        "local_img": "images/car_179_JJK20.webp"
       },
       {
         "col": "180",
@@ -3443,7 +3679,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/4/49/1955ChevyFever.jpg/revision/latest?cb=20260410125452",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2755_Chevy_(2006)"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2755_Chevy_(2006)",
+        "local_img": "images/car_180_JJK21.webp"
       },
       {
         "col": "181",
@@ -3457,7 +3694,8 @@
         "is_new": true,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/7/75/Mercedes-BenzCLAHW.jpg/revision/latest?cb=20260316113738",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Mercedes-Benz_CLA_HW"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Mercedes-Benz_CLA_HW",
+        "local_img": "images/car_181_JJH63.webp"
       },
       {
         "col": "182",
@@ -3471,7 +3709,8 @@
         "is_new": true,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/9/9c/Chop%27nBloc.jpg/revision/latest?cb=20260410125509",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Chop_%27n_Bloc"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Chop_%27n_Bloc",
+        "local_img": "images/car_182_JJH60.webp"
       },
       {
         "col": "183",
@@ -3485,7 +3724,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/2/23/1970BuickGSX.jpg/revision/latest?cb=20260410125525",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2770_Buick_GSX"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2770_Buick_GSX",
+        "local_img": "images/car_183_JJK23.webp"
       },
       {
         "col": "183",
@@ -3499,7 +3739,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/b/bb/2026-183_JJM37_ZAMAK_%2770_Buick_GSX_rGSX.jpg/revision/latest?cb=20260904092516",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2770_Buick_GSX"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2770_Buick_GSX",
+        "local_img": "images/car_183_JJM37.webp"
       },
       {
         "col": "094",
@@ -3513,7 +3754,8 @@
         "is_new": true,
         "is_recolor": true,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/a/af/2024Ferrari12Cilindri.jpg/revision/latest?cb=20260802141949",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Ferrari_12Cilindri"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Ferrari_12Cilindri",
+        "local_img": "images/car_094_JJL37.webp"
       },
       {
         "col": "096",
@@ -3527,7 +3769,8 @@
         "is_new": false,
         "is_recolor": true,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/6/6c/ESCoupe.jpg/revision/latest?cb=20260530095333",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/El_Segundo_Coupe"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/El_Segundo_Coupe",
+        "local_img": "images/car_096_JJL17.webp"
       },
       {
         "col": "098",
@@ -3541,7 +3784,8 @@
         "is_new": false,
         "is_recolor": true,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/8/86/1996Carrera.jpg/revision/latest?cb=20260802142103",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2796_Porsche_Carrera"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2796_Porsche_Carrera",
+        "local_img": "images/car_098_JJL39.webp"
       },
       {
         "col": "099",
@@ -3555,7 +3799,8 @@
         "is_new": false,
         "is_recolor": true,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/5/5f/TunedEspace.jpg/revision/latest?cb=20260430101422",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Renault_Espace_F1"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Renault_Espace_F1",
+        "local_img": "images/car_099_JJL40.webp"
       },
       {
         "col": "100",
@@ -3569,7 +3814,8 @@
         "is_new": false,
         "is_recolor": true,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/2/2a/ChromeDorado.jpg/revision/latest?cb=20260802142544",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Twin_Dorado"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Twin_Dorado",
+        "local_img": "images/car_100_JJL54.webp"
       }
     ]
   },
@@ -3596,7 +3842,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/5/51/1968ShelbyGT500.jpg/revision/latest?cb=20260410125601",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2768_Shelby_GT500"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2768_Shelby_GT500",
+        "local_img": "images/car_184_JJK24.webp"
       },
       {
         "col": "185",
@@ -3610,7 +3857,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/f/f6/AstonMartinAramcoAMR25.jpg/revision/latest?cb=20260430101625",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Formula_1_(2025)"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Formula_1_(2025)",
+        "local_img": "images/car_185_JJK25.webp"
       },
       {
         "col": "186",
@@ -3624,7 +3872,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/0/08/ModsAmaru.jpg/revision/latest?cb=20260425093332",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Amaru_GTC"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Amaru_GTC",
+        "local_img": "images/car_186_JJM08.webp"
       },
       {
         "col": "187",
@@ -3638,7 +3887,8 @@
         "is_new": true,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/3/39/PTFast.jpg/revision/latest?cb=20260410125625",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/PT_Fast"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/PT_Fast",
+        "local_img": "images/car_187_JJH59.webp"
       },
       {
         "col": "188",
@@ -3652,7 +3902,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/4/48/%27ToonedRT.jpg/revision/latest?cb=20260410125641",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2770_Dodge_Charger_(Tooned)"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2770_Dodge_Charger_(Tooned)",
+        "local_img": "images/car_188_JJK26.webp"
       },
       {
         "col": "189",
@@ -3666,7 +3917,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/1/17/2011Corvette.jpg/revision/latest?cb=20260410125656",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2711_Corvette_Grand_Sport"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2711_Corvette_Grand_Sport",
+        "local_img": "images/car_189_JJK27.webp"
       },
       {
         "col": "190",
@@ -3680,7 +3932,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/f/f2/1982CelicaSupra.jpg/revision/latest?cb=20260410125714",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2782_Toyota_Supra"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2782_Toyota_Supra",
+        "local_img": "images/car_190_JJK28.webp"
       },
       {
         "col": "191",
@@ -3694,7 +3947,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/b/b2/1965Cyclone.jpg/revision/latest?cb=20260311130635",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2765_Mercury_Comet_Cyclone"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2765_Mercury_Comet_Cyclone",
+        "local_img": "images/car_191_JJK06.webp"
       },
       {
         "col": "192",
@@ -3708,7 +3962,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/f/f9/Fiat500Drag.jpg/revision/latest?cb=20260430101701",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Fiat_500C"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Fiat_500C",
+        "local_img": "images/car_192_JJK29.webp"
       },
       {
         "col": "193",
@@ -3722,7 +3977,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/b/b9/1963ChevyII.jpg/revision/latest?cb=20260410125730",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2763_Chevy_II"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2763_Chevy_II",
+        "local_img": "images/car_193_JJK31.webp"
       },
       {
         "col": "194",
@@ -3736,7 +3992,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/4/4b/2003MiniCooper.jpg/revision/latest?cb=20260430101728",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Lil%27_Roar"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Lil%27_Roar",
+        "local_img": "images/car_194_JJK32.webp"
       },
       {
         "col": "195",
@@ -3750,7 +4007,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/0/0d/SpiderBuggy.jpg/revision/latest?cb=20260430101754",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Spider-Mobile"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Spider-Mobile",
+        "local_img": "images/car_195_JJK33.webp"
       },
       {
         "col": "196",
@@ -3764,7 +4022,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/5/5f/CupcakeRacer.jpg/revision/latest?cb=20260513083806",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Sweet_Driver"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Sweet_Driver",
+        "local_img": "images/car_196_JJM09.webp"
       },
       {
         "col": "197",
@@ -3778,7 +4037,8 @@
         "is_new": true,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/7/7c/MadDrip.jpg/revision/latest?cb=20260410125748",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Mad_Drip"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Mad_Drip",
+        "local_img": "images/car_197_JJH57.webp"
       },
       {
         "col": "198",
@@ -3792,7 +4052,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/d/d0/1987ToyotaTrueno.jpg/revision/latest?cb=20260430101827",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Toyota_AE86_Sprinter_Trueno"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Toyota_AE86_Sprinter_Trueno",
+        "local_img": "images/car_198_JJK34.webp"
       },
       {
         "col": "199",
@@ -3806,7 +4067,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/0/0f/1999NissanSkylineR34.jpg/revision/latest?cb=20260430101851",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Nissan_Skyline_GT-R_(BNR34)"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Nissan_Skyline_GT-R_(BNR34)",
+        "local_img": "images/car_199_JJK35.webp"
       },
       {
         "col": "200",
@@ -3820,7 +4082,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/7/7a/HWRTRod.jpg/revision/latest?cb=20260430101922",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Punk_Rod"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Punk_Rod",
+        "local_img": "images/car_200_JJK36.webp"
       },
       {
         "col": "107",
@@ -3833,8 +4096,9 @@
         "is_th": false,
         "is_new": false,
         "is_recolor": true,
-        "img": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/1966_Bat_Boat"
+        "img": "https://static.wikia.nocookie.net/hotwheels/images/7/7b/1966Batboat.jpg/revision/latest?cb=20260103100152",
+        "wiki_url": "https://hotwheels.fandom.com/wiki/1966_Bat_Boat",
+        "local_img": "images/car_107_JJL81.webp"
       },
       {
         "col": "109",
@@ -3847,8 +4111,9 @@
         "is_th": false,
         "is_new": false,
         "is_recolor": true,
-        "img": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Time_Shifter"
+        "img": "https://static.wikia.nocookie.net/hotwheels/images/0/0a/Shiftin%27Time.jpg/revision/latest?cb=20260103100226",
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Time_Shifter",
+        "local_img": "images/car_109_JJL65.webp"
       },
       {
         "col": "111",
@@ -3861,8 +4126,9 @@
         "is_th": false,
         "is_new": false,
         "is_recolor": true,
-        "img": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Long_Bloc"
+        "img": "https://static.wikia.nocookie.net/hotwheels/images/d/d0/MoonBloc.jpg/revision/latest?cb=20260103100340",
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Long_Bloc",
+        "local_img": "images/car_111_JJL66.webp"
       },
       {
         "col": "112",
@@ -3875,8 +4141,9 @@
         "is_th": false,
         "is_new": false,
         "is_recolor": true,
-        "img": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2789_Mazda_Savanna_RX-7_FC3S"
+        "img": "https://static.wikia.nocookie.net/hotwheels/images/7/7b/1989MazdaRX-7.jpg/revision/latest?cb=20260103100355",
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2789_Mazda_Savanna_RX-7_FC3S",
+        "local_img": "images/car_112_JJL69.webp"
       },
       {
         "col": "113",
@@ -3889,8 +4156,9 @@
         "is_th": false,
         "is_new": false,
         "is_recolor": true,
-        "img": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Corvette_C7_Z06"
+        "img": "https://static.wikia.nocookie.net/hotwheels/images/1/14/2015CorvetteZ06.jpg/revision/latest?cb=20260103100415",
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Corvette_C7_Z06",
+        "local_img": "images/car_113_JJL89.webp"
       },
       {
         "col": "113",
@@ -3903,8 +4171,9 @@
         "is_th": false,
         "is_new": false,
         "is_recolor": true,
-        "img": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Corvette_C7_Z06"
+        "img": "https://static.wikia.nocookie.net/hotwheels/images/1/14/2015CorvetteZ06.jpg/revision/latest?cb=20260103100415",
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Corvette_C7_Z06",
+        "local_img": "images/car_113_JPD53.webp"
       },
       {
         "col": "114",
@@ -3917,8 +4186,9 @@
         "is_th": false,
         "is_new": true,
         "is_recolor": true,
-        "img": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Custom_%2766_Toronado"
+        "img": "https://static.wikia.nocookie.net/hotwheels/images/9/91/OldsToronado.jpg/revision/latest?cb=20260103100431",
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Custom_%2766_Toronado",
+        "local_img": "images/car_114_JJL93.webp"
       }
     ]
   },
@@ -3945,7 +4215,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/6/6e/HWRTFirebird.jpg/revision/latest?cb=20260430101947",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/1970_Pontiac_Firebird"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/1970_Pontiac_Firebird",
+        "local_img": "images/car_201_JJK37.webp"
       },
       {
         "col": "202",
@@ -3959,7 +4230,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/1/16/2026Hammerhead.jpg/revision/latest?cb=20260430102014",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Street_Shaker"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Street_Shaker",
+        "local_img": "images/car_202_JJK38.webp"
       },
       {
         "col": "203",
@@ -3973,7 +4245,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/2/2f/StreetShrieker.jpg/revision/latest?cb=20241125121149",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Street_Shrieker"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Street_Shrieker",
+        "local_img": "images/car_203_JJK39.webp"
       },
       {
         "col": "204",
@@ -3987,7 +4260,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/f/fb/CoolMill.jpg/revision/latest?cb=20260430102252",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Mod_Mill"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Mod_Mill",
+        "local_img": "images/car_204_JJK40.webp"
       },
       {
         "col": "205",
@@ -4001,7 +4275,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/1/17/1976JaguarXJC.jpg/revision/latest?cb=20260410125803",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Jaguar_XJC_V12_Coupe"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Jaguar_XJC_V12_Coupe",
+        "local_img": "images/car_205_JJK22.webp"
       },
       {
         "col": "206",
@@ -4015,7 +4290,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/c/cc/BullyGTO.jpg/revision/latest?cb=20260430102335",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Bully_Goat"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Bully_Goat",
+        "local_img": "images/car_206_JJK41.webp"
       },
       {
         "col": "207",
@@ -4029,7 +4305,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/d/df/2018Camaro.jpg/revision/latest?cb=20260430102358",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2718_Camaro_SS"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2718_Camaro_SS",
+        "local_img": "images/car_207_JJK42.webp"
       },
       {
         "col": "208",
@@ -4043,7 +4320,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/1/1b/1973PorscheRS2.7.jpg/revision/latest?cb=20260802143444",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Porsche_911_Carrera_RS_2.7"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Porsche_911_Carrera_RS_2.7",
+        "local_img": "images/car_208_JJK43.webp"
       },
       {
         "col": "208",
@@ -4057,7 +4335,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/4/48/1973PorscheRSTH.jpg/revision/latest?cb=20260616083549",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Porsche_911_Carrera_RS_2.7"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Porsche_911_Carrera_RS_2.7",
+        "local_img": "images/car_208_JJM24.webp"
       },
       {
         "col": "209",
@@ -4071,7 +4350,8 @@
         "is_new": true,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/0/0d/MiniJCWElectric.jpg/revision/latest?cb=20260802143506",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Mini_JCW_Electric"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Mini_JCW_Electric",
+        "local_img": "images/car_209_JJH62.webp"
       },
       {
         "col": "210",
@@ -4085,7 +4365,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/9/91/IWCMercedesAClass.jpg/revision/latest?cb=20260802143530",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2719_Mercedes-Benz_A-Class"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2719_Mercedes-Benz_A-Class",
+        "local_img": "images/car_210_JJK44.webp"
       },
       {
         "col": "211",
@@ -4099,7 +4380,8 @@
         "is_new": true,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/5/5b/DatsunSunnyCoupe.jpg/revision/latest?cb=20260530095659",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/1972_Datsun_Sunny_Coupe"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/1972_Datsun_Sunny_Coupe",
+        "local_img": "images/car_211_JJH66.webp"
       },
       {
         "col": "211",
@@ -4112,8 +4394,9 @@
         "is_th": false,
         "is_new": true,
         "is_recolor": false,
-        "img": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/1972_Datsun_Sunny_Coupe"
+        "img": "https://static.wikia.nocookie.net/hotwheels/images/c/c5/1972_Datsun_Sunny_Coupe_-_2022_Compact_Kings.jpg/revision/latest",
+        "wiki_url": "https://hotwheels.fandom.com/wiki/1972_Datsun_Sunny_Coupe",
+        "local_img": "images/car_211_JJM41.webp"
       },
       {
         "col": "212",
@@ -4127,7 +4410,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/9/9b/HyperRocker.jpg/revision/latest?cb=20260530095731",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Hyper_Rocker"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Hyper_Rocker",
+        "local_img": "images/car_212_JJK45.webp"
       },
       {
         "col": "213",
@@ -4141,7 +4425,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/9/96/2021FordBroncoBigBend.jpg/revision/latest?cb=20260530095943",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2721_Ford_Bronco"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2721_Ford_Bronco",
+        "local_img": "images/car_213_JJK46.webp"
       },
       {
         "col": "214",
@@ -4155,7 +4440,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/5/53/GMGCorvetteC3.jpg/revision/latest?cb=20260530100010",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2768_Corvette_-_Gas_Monkey_Garage"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2768_Corvette_-_Gas_Monkey_Garage",
+        "local_img": "images/car_214_JJK47.webp"
       },
       {
         "col": "215",
@@ -4169,7 +4455,8 @@
         "is_new": true,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/7/7c/Lil%27Mad.jpg/revision/latest?cb=20260430102422",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Lil%27_Mad"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Lil%27_Mad",
+        "local_img": "images/car_215_JJH65.webp"
       },
       {
         "col": "216",
@@ -4183,7 +4470,8 @@
         "is_new": true,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/e/e0/HWTestRide.jpg/revision/latest?cb=20260530100038",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/HW_Test_Ride"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/HW_Test_Ride",
+        "local_img": "images/car_216_JJH68.webp"
       },
       {
         "col": "119",
@@ -4197,7 +4485,8 @@
         "is_new": false,
         "is_recolor": true,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/3/35/LoBoyFord.jpg/revision/latest?cb=20260530095450",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2733_Ford_Lo_Boy"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2733_Ford_Lo_Boy",
+        "local_img": "images/car_119_JJL18.webp"
       },
       {
         "col": "123",
@@ -4211,7 +4500,8 @@
         "is_new": false,
         "is_recolor": true,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/1/11/RED_Tipo.jpg/revision/latest?cb=20260730164741",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Maserati_Tipo_61"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Maserati_Tipo_61",
+        "local_img": "images/car_123_JJM39.webp"
       },
       {
         "col": "123",
@@ -4225,7 +4515,8 @@
         "is_new": true,
         "is_recolor": true,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/a/a0/Tipo61.jpg/revision/latest?cb=20260802142804",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Maserati_Tipo_61"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Maserati_Tipo_61",
+        "local_img": "images/car_123_JJL41.webp"
       },
       {
         "col": "125",
@@ -4239,7 +4530,8 @@
         "is_new": true,
         "is_recolor": true,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/3/3c/VantageGT3Evo.jpg/revision/latest?cb=20260530095529",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/2024_Aston_Martin_Vantage_GT3"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/2024_Aston_Martin_Vantage_GT3",
+        "local_img": "images/car_125_JJL24.webp"
       },
       {
         "col": "126",
@@ -4252,8 +4544,9 @@
         "is_th": false,
         "is_new": false,
         "is_recolor": true,
-        "img": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2764_Dodge_330"
+        "img": "https://static.wikia.nocookie.net/hotwheels/images/e/e0/1964Dodge330.jpg/revision/latest?cb=20260103100603",
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2764_Dodge_330",
+        "local_img": "images/car_126_JJL56.webp"
       },
       {
         "col": "127",
@@ -4266,8 +4559,9 @@
         "is_th": false,
         "is_new": false,
         "is_recolor": true,
-        "img": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Custom_%2772_Chevy_LUV"
+        "img": "https://static.wikia.nocookie.net/hotwheels/images/b/b7/1972LUV.jpg/revision/latest?cb=20260128102812",
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Custom_%2772_Chevy_LUV",
+        "local_img": "images/car_127_JJL63.webp"
       }
     ]
   },
@@ -4294,7 +4588,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/1/1d/MadManganese.jpg/revision/latest?cb=20260530100101",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Mad_Manga"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Mad_Manga",
+        "local_img": "images/car_217_JJM10.webp"
       },
       {
         "col": "218",
@@ -4308,7 +4603,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/2/2b/1963AlfaGiulia.jpg/revision/latest?cb=20260802143604",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Alfa_Romeo_Giulia_TI_Super"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Alfa_Romeo_Giulia_TI_Super",
+        "local_img": "images/car_218_JJK48.webp"
       },
       {
         "col": "218",
@@ -4321,8 +4617,9 @@
         "is_th": false,
         "is_new": false,
         "is_recolor": false,
-        "img": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Alfa_Romeo_Giulia_TI_Super"
+        "img": "https://static.wikia.nocookie.net/hotwheels/images/8/82/Alfa_Romeo_Giulia_Sprint_GTA.jpg/revision/latest",
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Alfa_Romeo_Giulia_TI_Super",
+        "local_img": "images/car_218_JJM30.webp"
       },
       {
         "col": "219",
@@ -4336,7 +4633,8 @@
         "is_new": true,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/c/cf/ProjectTwinMill.jpg/revision/latest?cb=20260530100130",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Project_Twin_Mill"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Project_Twin_Mill",
+        "local_img": "images/car_219_JJH67.webp"
       },
       {
         "col": "220",
@@ -4350,7 +4648,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/d/df/FiTechPickup.jpg/revision/latest?cb=20260530100200",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Custom_%2762_Chevy"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Custom_%2762_Chevy",
+        "local_img": "images/car_220_JJK49.webp"
       },
       {
         "col": "221",
@@ -4364,7 +4663,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/a/a5/MuscleViper.jpg/revision/latest?cb=20260530100228",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2796_Dodge_Viper_GTS"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2796_Dodge_Viper_GTS",
+        "local_img": "images/car_221_JJK50.webp"
       },
       {
         "col": "222",
@@ -4378,7 +4678,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/1/13/%27Tooned1994Supra.jpg/revision/latest?cb=20260430102446",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2794_Toyota_Supra_(Tooned)"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2794_Toyota_Supra_(Tooned)",
+        "local_img": "images/car_222_JJK51.webp"
       },
       {
         "col": "222",
@@ -4391,8 +4692,9 @@
         "is_th": false,
         "is_new": false,
         "is_recolor": false,
-        "img": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2794_Toyota_Supra_(Tooned)"
+        "img": "https://static.wikia.nocookie.net/hotwheels/images/0/0d/Tooned_Supra_Red.jpg/revision/latest",
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2794_Toyota_Supra_(Tooned)",
+        "local_img": "images/car_222_JJM25.webp"
       },
       {
         "col": "223",
@@ -4406,7 +4708,8 @@
         "is_new": true,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/8/83/AudiTTSafari.jpg/revision/latest?cb=20260802143631",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/2019_Audi_TT_Safari"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/2019_Audi_TT_Safari",
+        "local_img": "images/car_223_JJH69.webp"
       },
       {
         "col": "224",
@@ -4420,7 +4723,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/c/c3/CustomRoadrunner.jpg/revision/latest?cb=20260802143731",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/1970_Custom_Plymouth_Roadrunner"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/1970_Custom_Plymouth_Roadrunner",
+        "local_img": "images/car_224_JJK52.webp"
       },
       {
         "col": "225",
@@ -4434,7 +4738,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/c/c0/K%26NMaxima.jpg/revision/latest?cb=20260530100253",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Nissan_Maxima_Drift_Car"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Nissan_Maxima_Drift_Car",
+        "local_img": "images/car_225_JJK53.webp"
       },
       {
         "col": "225",
@@ -4447,8 +4752,9 @@
         "is_th": false,
         "is_new": false,
         "is_recolor": false,
-        "img": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Nissan_Maxima_Drift_Car"
+        "img": "https://static.wikia.nocookie.net/hotwheels/images/a/a2/Nissan_Maxima_Drift_Car_-_2022_HW_Drift.jpg/revision/latest",
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Nissan_Maxima_Drift_Car",
+        "local_img": "images/car_225_JJM26.webp"
       },
       {
         "col": "226",
@@ -4462,7 +4768,8 @@
         "is_new": true,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/0/06/SaltStreaker.jpg/revision/latest?cb=20260802143753",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Salt_Streaker"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Salt_Streaker",
+        "local_img": "images/car_226_JJH71.webp"
       },
       {
         "col": "227",
@@ -4476,7 +4783,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/8/84/1971LamborghiniMiura.jpg/revision/latest?cb=20260802143819",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2771_Lamborghini_Miura_SV"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2771_Lamborghini_Miura_SV",
+        "local_img": "images/car_227_JJK54.webp"
       },
       {
         "col": "228",
@@ -4490,7 +4798,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/9/9b/1966BuickRiviera.jpg/revision/latest?cb=20260802143845",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2766_Buick_Riviera"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2766_Buick_Riviera",
+        "local_img": "images/car_228_JJK55.webp"
       },
       {
         "col": "229",
@@ -4504,7 +4813,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/2/27/OldBlue.jpg/revision/latest?cb=20260913004433",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Ford_Model_A_Custom_%2731"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Ford_Model_A_Custom_%2731",
+        "local_img": "images/car_229_JJM11.webp"
       },
       {
         "col": "230",
@@ -4518,7 +4828,8 @@
         "is_new": true,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/0/0a/UncertainT.jpg/revision/latest?cb=20260530100323",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Uncertain-T"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Uncertain-T",
+        "local_img": "images/car_230_JJH70.webp"
       },
       {
         "col": "231",
@@ -4532,7 +4843,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/0/05/1968CougarCustom.jpg/revision/latest?cb=20260802143908",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2768_Mercury_Cougar_(2014)"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2768_Mercury_Cougar_(2014)",
+        "local_img": "images/car_231_JJK56.webp"
       },
       {
         "col": "232",
@@ -4546,7 +4858,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/a/aa/MuscleBurn.jpg/revision/latest?cb=20260802143934",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Slide-Burn"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Slide-Burn",
+        "local_img": "images/car_232_JJK57.webp"
       },
       {
         "col": "233",
@@ -4560,7 +4873,8 @@
         "is_new": true,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/a/a4/ArmoredBatmobile.jpg/revision/latest?cb=20260802143957",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Armored_Batmobile"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Armored_Batmobile",
+        "local_img": "images/car_233_JJH72.webp"
       },
       {
         "col": "136",
@@ -4574,7 +4888,8 @@
         "is_new": false,
         "is_recolor": true,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/4/44/HondaPreludeCoupe.jpg/revision/latest?cb=20260802142935",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2798_Honda_Prelude"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2798_Honda_Prelude",
+        "local_img": "images/car_136_JJL15.webp"
       },
       {
         "col": "138",
@@ -4588,7 +4903,8 @@
         "is_new": false,
         "is_recolor": true,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/4/48/EuroWheeler.jpg/revision/latest?cb=20260802143002",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Morgan_Super_3"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Morgan_Super_3",
+        "local_img": "images/car_138_JJL42.webp"
       },
       {
         "col": "139",
@@ -4602,7 +4918,8 @@
         "is_new": false,
         "is_recolor": true,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/7/70/GoldShaker.jpg/revision/latest?cb=20260802143031",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Bone_Shaker"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Bone_Shaker",
+        "local_img": "images/car_139_JJL38.webp"
       },
       {
         "col": "140",
@@ -4616,7 +4933,8 @@
         "is_new": false,
         "is_recolor": true,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/2/2f/2026_Mid_Mill.jpg/revision/latest?cb=20261012172655",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Mid_Mill"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Mid_Mill",
+        "local_img": "images/car_140_JJL76.webp"
       }
     ]
   },
@@ -4643,7 +4961,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/e/eb/Ram1500TRX.jpg/revision/latest?cb=20260802144049",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2723_Ram_1500"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2723_Ram_1500",
+        "local_img": "images/car_234_JJK58.webp"
       },
       {
         "col": "234",
@@ -4657,7 +4976,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/5/5d/RamTRXSTH.jpg/revision/latest?cb=20260626090436",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2723_Ram_1500"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2723_Ram_1500",
+        "local_img": "images/car_234_JJM27.webp"
       },
       {
         "col": "235",
@@ -4671,7 +4991,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/d/d5/TMNTPartyWagon.jpg/revision/latest?cb=20260802144113",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Party_Wagon"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Party_Wagon",
+        "local_img": "images/car_235_JJK59.webp"
       },
       {
         "col": "236",
@@ -4685,7 +5006,8 @@
         "is_new": true,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/d/da/Mickey%27sCar.jpg/revision/latest?cb=20260802144146",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Mickey_Mouse_Car"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Mickey_Mouse_Car",
+        "local_img": "images/car_236_JJH74.webp"
       },
       {
         "col": "237",
@@ -4699,7 +5021,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/c/c8/WMHDTracker.jpg/revision/latest?cb=20260802144211",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Circle_Tracker"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Circle_Tracker",
+        "local_img": "images/car_237_JJK60.webp"
       },
       {
         "col": "238",
@@ -4713,7 +5036,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/4/47/HWRTFish.jpg/revision/latest?cb=20260802144238",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Fast_Fish"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Fast_Fish",
+        "local_img": "images/car_238_JJM12.webp"
       },
       {
         "col": "239",
@@ -4727,7 +5051,8 @@
         "is_new": true,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/d/d1/Go-Realla-Fast.jpg/revision/latest?cb=20260802144430",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Go-Realla-Fast"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Go-Realla-Fast",
+        "local_img": "images/car_239_JJH75.webp"
       },
       {
         "col": "240",
@@ -4741,7 +5066,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/3/3e/RaceSurf.jpg/revision/latest?cb=20260802144516",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Surf_%27N_Turf"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Surf_%27N_Turf",
+        "local_img": "images/car_240_JJK61.webp"
       },
       {
         "col": "241",
@@ -4755,7 +5081,8 @@
         "is_new": true,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/3/39/1963FordGalaxie.jpg/revision/latest?cb=20260802144539",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/1963_Ford_Galaxie"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/1963_Ford_Galaxie",
+        "local_img": "images/car_241_JJH73.webp"
       },
       {
         "col": "242",
@@ -4769,7 +5096,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/2/28/1996ImpalaSS.jpg/revision/latest?cb=20260802144626",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2796_Chevrolet_Impala_SS"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2796_Chevrolet_Impala_SS",
+        "local_img": "images/car_242_JJK62.webp"
       },
       {
         "col": "243",
@@ -4783,7 +5111,8 @@
         "is_new": true,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/4/4d/AstonMartinDB5Safari.jpg/revision/latest?cb=20260908113356",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Aston_Martin_DB5_Safari_Edition"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Aston_Martin_DB5_Safari_Edition",
+        "local_img": "images/car_243_JJH76.webp"
       },
       {
         "col": "244",
@@ -4796,8 +5125,9 @@
         "is_th": true,
         "is_new": false,
         "is_recolor": false,
-        "img": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Nissan_Skyline_H/T_2000GT-X"
+        "img": "https://static.wikia.nocookie.net/hotwheels/images/3/30/Skyline2000GTX.jpg/revision/latest",
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Nissan_Skyline_H/T_2000GT-X",
+        "local_img": "images/car_244_JJM13.webp"
       },
       {
         "col": "245",
@@ -4810,8 +5140,9 @@
         "is_th": false,
         "is_new": false,
         "is_recolor": false,
-        "img": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2770_Plymouth_AAR_Cuda"
+        "img": "https://static.wikia.nocookie.net/hotwheels/images/c/c7/70_Plymouth_AAR_Cuda_-_2017_HW_Flames.jpg/revision/latest",
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2770_Plymouth_AAR_Cuda",
+        "local_img": "images/car_245_JJK63.webp"
       },
       {
         "col": "245",
@@ -4825,7 +5156,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/7/71/Cuda_TH_2026.jpg/revision/latest?cb=20260901154739",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2770_Plymouth_AAR_Cuda"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2770_Plymouth_AAR_Cuda",
+        "local_img": "images/car_245_JJM28.webp"
       },
       {
         "col": "155",
@@ -4838,8 +5170,9 @@
         "is_th": false,
         "is_new": true,
         "is_recolor": true,
-        "img": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Vairstrike"
+        "img": "https://static.wikia.nocookie.net/hotwheels/images/a/a2/Vairstrike_White.jpg/revision/latest",
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Vairstrike",
+        "local_img": "images/car_155_JJL78.webp"
       },
       {
         "col": "157",
@@ -4852,8 +5185,9 @@
         "is_th": false,
         "is_new": false,
         "is_recolor": true,
-        "img": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2720_Toyota_GR_Supra"
+        "img": "https://static.wikia.nocookie.net/hotwheels/images/e/e1/2020ToyotaSupra.jpg/revision/latest?cb=20260303121610",
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2720_Toyota_GR_Supra",
+        "local_img": "images/car_157_JJM68.webp"
       },
       {
         "col": "158",
@@ -4866,8 +5200,9 @@
         "is_th": false,
         "is_new": false,
         "is_recolor": true,
-        "img": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Mach_Speeder"
+        "img": "https://static.wikia.nocookie.net/hotwheels/images/6/65/ExotiSpeeder.jpg/revision/latest?cb=20260316113652",
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Mach_Speeder",
+        "local_img": "images/car_158_JJL55.webp"
       },
       {
         "col": "161",
@@ -4880,8 +5215,9 @@
         "is_th": false,
         "is_new": false,
         "is_recolor": true,
-        "img": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2770_Ford_Escort_RS1600"
+        "img": "https://static.wikia.nocookie.net/hotwheels/images/c/c4/1970Escort.jpg/revision/latest?cb=20260311130204",
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2770_Ford_Escort_RS1600",
+        "local_img": "images/car_161_JJL58.webp"
       },
       {
         "col": "163",
@@ -4894,8 +5230,9 @@
         "is_th": false,
         "is_new": true,
         "is_recolor": true,
-        "img": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Cadillac_Celestiq"
+        "img": "https://static.wikia.nocookie.net/hotwheels/images/5/5f/CadillacCelestiq.jpg/revision/latest?cb=20260311130240",
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Cadillac_Celestiq",
+        "local_img": "images/car_163_JJL84.webp"
       },
       {
         "col": "164",
@@ -4908,8 +5245,9 @@
         "is_th": false,
         "is_new": false,
         "is_recolor": true,
-        "img": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Classic_Nomad"
+        "img": "https://static.wikia.nocookie.net/hotwheels/images/5/55/1955Nomad.jpg/revision/latest?cb=20260303121651",
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Classic_Nomad",
+        "local_img": "images/car_164_JJM55.webp"
       },
       {
         "col": "165",
@@ -4922,8 +5260,9 @@
         "is_th": false,
         "is_new": false,
         "is_recolor": true,
-        "img": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Gone_Mad"
+        "img": "https://static.wikia.nocookie.net/hotwheels/images/3/3f/WagoneMad.jpg/revision/latest?cb=20260311130314",
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Gone_Mad",
+        "local_img": "images/car_165_JJL67.webp"
       },
       {
         "col": "166",
@@ -4936,8 +5275,9 @@
         "is_th": false,
         "is_new": true,
         "is_recolor": true,
-        "img": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Twin_Tags"
+        "img": "https://static.wikia.nocookie.net/hotwheels/images/c/c6/TwinTags.jpg/revision/latest?cb=20260311130511",
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Twin_Tags",
+        "local_img": "images/car_166_JJL73.webp"
       },
       {
         "col": "168",
@@ -4950,8 +5290,9 @@
         "is_th": false,
         "is_new": false,
         "is_recolor": true,
-        "img": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Mailed_It!"
+        "img": "https://static.wikia.nocookie.net/hotwheels/images/6/63/MailDragster.jpg/revision/latest?cb=20260311130534",
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Mailed_It!",
+        "local_img": "images/car_168_JJL75.webp"
       },
       {
         "col": "172",
@@ -4965,7 +5306,8 @@
         "is_new": false,
         "is_recolor": true,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/f/fd/2026-172_JJM56_KrogerExcl_Golf_Mk1_o4.jpg/revision/latest?cb=20261021014545",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Tooned_Volkswagen_Golf_Mk1"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Tooned_Volkswagen_Golf_Mk1",
+        "local_img": "images/car_172_JJM56.webp"
       }
     ]
   },
@@ -4992,7 +5334,8 @@
         "is_new": true,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/1/1d/RidgeCrestGT.jpg/revision/latest?cb=20260908113420",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Ridge_Crest_GT"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Ridge_Crest_GT",
+        "local_img": "images/car_246_JJH77.webp"
       },
       {
         "col": "247",
@@ -5005,8 +5348,9 @@
         "is_th": true,
         "is_new": false,
         "is_recolor": false,
-        "img": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Gazella_GT"
+        "img": "https://static.wikia.nocookie.net/hotwheels/images/0/06/HW_Gazella-GT_Red_2016_01_sm_DSCF8063.jpg/revision/latest",
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Gazella_GT",
+        "local_img": "images/car_247_JJM14.webp"
       },
       {
         "col": "248",
@@ -5020,7 +5364,8 @@
         "is_new": true,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/e/e3/CustomVanster4WD.jpg/revision/latest?cb=20260908113445",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Custom_Vanster"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Custom_Vanster",
+        "local_img": "images/car_248_JJH79.webp"
       },
       {
         "col": "249",
@@ -5033,8 +5378,9 @@
         "is_th": false,
         "is_new": false,
         "is_recolor": false,
-        "img": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2767_Pontiac_Firebird_400"
+        "img": "https://static.wikia.nocookie.net/hotwheels/images/e/ea/67_Pontiac_Firebird_400_Black.jpg/revision/latest",
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2767_Pontiac_Firebird_400",
+        "local_img": "images/car_249_JJK64.webp"
       },
       {
         "col": "249",
@@ -5048,7 +5394,8 @@
         "is_new": false,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/f/fe/Firebird_th_2026.jpg/revision/latest?cb=20260901154740",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2767_Pontiac_Firebird_400"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2767_Pontiac_Firebird_400",
+        "local_img": "images/car_249_JJM29.webp"
       },
       {
         "col": "250",
@@ -5062,7 +5409,8 @@
         "is_new": true,
         "is_recolor": false,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/b/bd/Porsche908-03.jpg/revision/latest?cb=20260908113509",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Porsche_908-3"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Porsche_908-3",
+        "local_img": "images/car_250_JJH78.webp"
       },
       {
         "col": "174",
@@ -5076,7 +5424,8 @@
         "is_new": false,
         "is_recolor": true,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/2/24/JJL59_PinK_rDuck_N%27_Roll.jpg/revision/latest?cb=20260916145439",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Duck_N%27_Roll"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Duck_N%27_Roll",
+        "local_img": "images/car_174_JJL59.webp"
       },
       {
         "col": "175",
@@ -5089,8 +5438,9 @@
         "is_th": false,
         "is_new": false,
         "is_recolor": true,
-        "img": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2794_Audi_Avant_RS2"
+        "img": "https://static.wikia.nocookie.net/hotwheels/images/d/d5/1994AudiRS2Avant.jpg/revision/latest?cb=20260410125305",
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2794_Audi_Avant_RS2",
+        "local_img": "images/car_175_JJL85.webp"
       },
       {
         "col": "175",
@@ -5103,8 +5453,9 @@
         "is_th": false,
         "is_new": false,
         "is_recolor": true,
-        "img": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2794_Audi_Avant_RS2"
+        "img": "https://static.wikia.nocookie.net/hotwheels/images/d/d5/1994AudiRS2Avant.jpg/revision/latest?cb=20260410125305",
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2794_Audi_Avant_RS2",
+        "local_img": "images/car_175_JPD54.webp"
       },
       {
         "col": "177",
@@ -5117,8 +5468,9 @@
         "is_th": false,
         "is_new": true,
         "is_recolor": true,
-        "img": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2788_Mitsubishi_Starion"
+        "img": "https://static.wikia.nocookie.net/hotwheels/images/d/d3/MitsubishiStarion.jpg/revision/latest?cb=20260410125415",
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2788_Mitsubishi_Starion",
+        "local_img": "images/car_177_JJM54.webp"
       },
       {
         "col": "177",
@@ -5131,8 +5483,9 @@
         "is_th": false,
         "is_new": true,
         "is_recolor": true,
-        "img": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2788_Mitsubishi_Starion"
+        "img": "https://static.wikia.nocookie.net/hotwheels/images/d/d3/MitsubishiStarion.jpg/revision/latest?cb=20260410125415",
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2788_Mitsubishi_Starion",
+        "local_img": "images/car_177_JJL70.webp"
       },
       {
         "col": "178",
@@ -5145,8 +5498,9 @@
         "is_th": false,
         "is_new": true,
         "is_recolor": true,
-        "img": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Click_Shift"
+        "img": "https://static.wikia.nocookie.net/hotwheels/images/1/10/ClickShift.jpg/revision/latest?cb=20260430101557",
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Click_Shift",
+        "local_img": "images/car_178_JJL90.webp"
       },
       {
         "col": "181",
@@ -5160,7 +5514,8 @@
         "is_new": true,
         "is_recolor": true,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/d/d5/HWCLA.jpg/revision/latest?cb=20260908113146",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Mercedes-Benz_CLA_HW"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Mercedes-Benz_CLA_HW",
+        "local_img": "images/car_181_JJL97.webp"
       },
       {
         "col": "182",
@@ -5173,8 +5528,9 @@
         "is_th": false,
         "is_new": true,
         "is_recolor": true,
-        "img": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Chop_%27n_Bloc"
+        "img": "https://static.wikia.nocookie.net/hotwheels/images/9/9c/Chop%27nBloc.jpg/revision/latest?cb=20260410125509",
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Chop_%27n_Bloc",
+        "local_img": "images/car_182_JJL77.webp"
       },
       {
         "col": "191",
@@ -5187,8 +5543,9 @@
         "is_th": false,
         "is_new": false,
         "is_recolor": true,
-        "img": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2765_Mercury_Comet_Cyclone"
+        "img": "https://static.wikia.nocookie.net/hotwheels/images/b/b2/1965Cyclone.jpg/revision/latest?cb=20260311130635",
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2765_Mercury_Comet_Cyclone",
+        "local_img": "images/car_191_JJM53.webp"
       },
       {
         "col": "191",
@@ -5202,7 +5559,8 @@
         "is_new": false,
         "is_recolor": true,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/f/fd/MercuryCyclone.jpg/revision/latest?cb=20260802143311",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/%2765_Mercury_Comet_Cyclone"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/%2765_Mercury_Comet_Cyclone",
+        "local_img": "images/car_191_JJL46.webp"
       },
       {
         "col": "197",
@@ -5215,8 +5573,9 @@
         "is_th": false,
         "is_new": true,
         "is_recolor": true,
-        "img": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Mad_Drip"
+        "img": "https://static.wikia.nocookie.net/hotwheels/images/7/7c/MadDrip.jpg/revision/latest?cb=20260410125748",
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Mad_Drip",
+        "local_img": "images/car_197_JJL83.webp"
       },
       {
         "col": "198",
@@ -5229,8 +5588,9 @@
         "is_th": false,
         "is_new": false,
         "is_recolor": true,
-        "img": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Toyota_AE86_Sprinter_Trueno"
+        "img": "https://static.wikia.nocookie.net/hotwheels/images/d/d0/1987ToyotaTrueno.jpg/revision/latest?cb=20260430101827",
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Toyota_AE86_Sprinter_Trueno",
+        "local_img": "images/car_198_JJL87.webp"
       },
       {
         "col": "199",
@@ -5244,7 +5604,8 @@
         "is_new": false,
         "is_recolor": true,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/1/18/2026BlackR34FrontDetail.jpg/revision/latest?cb=20260811175118",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Nissan_Skyline_GT-R_(BNR34)"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Nissan_Skyline_GT-R_(BNR34)",
+        "local_img": "images/car_199_JJL88.webp"
       },
       {
         "col": "199",
@@ -5257,8 +5618,9 @@
         "is_th": false,
         "is_new": false,
         "is_recolor": true,
-        "img": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Nissan_Skyline_GT-R_(BNR34)"
+        "img": "https://static.wikia.nocookie.net/hotwheels/images/0/0f/1999NissanSkylineR34.jpg/revision/latest?cb=20260430101851",
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Nissan_Skyline_GT-R_(BNR34)",
+        "local_img": "images/car_199_JPD52.webp"
       },
       {
         "col": "200",
@@ -5271,8 +5633,9 @@
         "is_th": false,
         "is_new": false,
         "is_recolor": true,
-        "img": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Punk_Rod"
+        "img": "https://static.wikia.nocookie.net/hotwheels/images/7/7a/HWRTRod.jpg/revision/latest?cb=20260430101922",
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Punk_Rod",
+        "local_img": "images/car_200_JJL91.webp"
       },
       {
         "col": "201",
@@ -5286,7 +5649,8 @@
         "is_new": false,
         "is_recolor": true,
         "img": "https://static.wikia.nocookie.net/hotwheels/images/f/f5/2026_Target_Firebird_Loose.jpg/revision/latest?cb=20260919022101",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/1970_Pontiac_Firebird"
+        "wiki_url": "https://hotwheels.fandom.com/wiki/1970_Pontiac_Firebird",
+        "local_img": "images/car_201_JJM65.webp"
       },
       {
         "col": "204",
@@ -5299,8 +5663,9 @@
         "is_th": false,
         "is_new": false,
         "is_recolor": true,
-        "img": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Mod_Mill"
+        "img": "https://static.wikia.nocookie.net/hotwheels/images/f/fb/CoolMill.jpg/revision/latest?cb=20260430102252",
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Mod_Mill",
+        "local_img": "images/car_204_JJL94.webp"
       },
       {
         "col": "205",
@@ -5313,8 +5678,9 @@
         "is_th": false,
         "is_new": false,
         "is_recolor": true,
-        "img": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-        "wiki_url": "https://hotwheels.fandom.com/wiki/Jaguar_XJC_V12_Coupe"
+        "img": "https://static.wikia.nocookie.net/hotwheels/images/1/17/1976JaguarXJC.jpg/revision/latest?cb=20260410125803",
+        "wiki_url": "https://hotwheels.fandom.com/wiki/Jaguar_XJC_V12_Coupe",
+        "local_img": "images/car_205_JJL96.webp"
       }
     ]
   }

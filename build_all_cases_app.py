@@ -1,110 +1,9 @@
 import re
 import json
 
-# 1. Parse raw wiki file to get exact direct links for all cars
-with open("/Users/alessandro.longoni/.gemini/antigravity/brain/d9b1597c-f1ec-4efe-bfb2-0c67ce193e90/.system_generated/steps/34/content.md", "r", encoding="utf-8") as f:
-    text = f.read()
-
-trs = re.findall(r"<tr>(.*?)</tr>", text, re.DOTALL)
-all_cars = []
-for tr in trs[1:]:
-    cells = [re.sub(r"<[^>]+>", "", c).strip() for c in re.findall(r"<t[hd][^>]*>(.*?)</t[hd]>", tr, re.DOTALL)]
-    raw_cells = re.findall(r"<t[hd][^>]*>(.*?)</t[hd]>", tr, re.DOTALL)
-    if len(cells) >= 5:
-        toy, col, name, series, s_num = cells[:5]
-        try:
-            c_int = int(col)
-        except:
-            continue
-        
-        # Extract direct fandom link from name cell (cell 2)
-        name_cell = raw_cells[2]
-        links = re.findall(r'href=\"([^\"]+)\"', name_cell)
-        wiki_url = f"https://hotwheels.fandom.com{links[0]}" if links else "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels"
-
-        dsrc = re.findall(r'data-src=\"([^\"]+)\"', tr)
-        src = re.findall(r'src=\"([^\"]+)\"', tr)
-        raw_img = dsrc[0] if dsrc else (src[0] if src and not src[0].startswith("data:") else "")
-        high_res = re.sub(r"/scale-to-width-down/\d+", "", raw_img)
-        
-        is_sth = "Super Treasure Hunt" in series or "Super Treasure Hunt" in name
-        is_th = ("Treasure Hunt" in series or "Treasure Hunt" in name) and not is_sth
-        is_new = "New for 2026" in series or "New for 2026" in name
-        is_recolor = "(2nd Color)" in name or "(3rd Color)" in name
-        clean_series = series.replace("New for 2026!", "").replace("Super Treasure Hunt", "").replace("Treasure Hunt", "").strip()
-
-        all_cars.append({
-            "col": col,
-            "col_num": c_int,
-            "toy": toy,
-            "name": name,
-            "series": clean_series,
-            "sub_num": s_num,
-            "is_sth": is_sth,
-            "is_th": is_th,
-            "is_new": is_new,
-            "is_recolor": is_recolor,
-            "img": high_res,
-            "wiki_url": wiki_url
-        })
-
-cases_def = [
-    ("A", 1, 26, "Drift-Ender", "'87 Buick Regal GNX"),
-    ("B", 27, 45, "Ford Mustang GTD", "'92 Dodge Viper RT/10"),
-    ("C", 46, 65, "Ferrari F40 Competizione", "Electro Silhouette"),
-    ("D", 66, 82, "'64 Impala", "Hot Wheengs"),
-    ("E", 83, 100, "'87 Ford Sierra Cosworth", "Cone Shaker"),
-    ("F", 101, 116, "Honda Civic Custom", "2016 Ford GT Race"),
-    ("G", 117, 133, "Custom Otto", "2 Jet Z"),
-    ("H", 134, 150, "Lotus Sport Elise", "Total Disposal"),
-    ("J", 151, 166, "Subaru Impreza", "Amaru GTC"),
-    ("K", 167, 183, "'94 Toyota Supra", "Sweet Driver"),
-    ("L", 184, 200, "Nissan Maxima Drift Car", "Mad Manga"),
-    ("M", 201, 216, "Porsche 911 Carrera RS 2.7", "Ford Model A Custom '31"),
-    ("N", 217, 233, "'23 Ram 1500", "Fast Fish"),
-    ("P", 234, 245, "'70 Plymouth AAR Cuda", "Nissan Skyline HT 2000GT-X"),
-    ("Q", 246, 250, "'67 Pontiac Firebird 400", "Gazella GT"),
-]
-
-base_cars = [c for c in all_cars if not c["is_recolor"]]
-recolor_cars = [c for c in all_cars if c["is_recolor"]]
-
-cases_dict = {}
-for i, (code, start_col, end_col, sth_name, th_name) in enumerate(cases_def):
-    c_list = [c for c in base_cars if start_col <= c["col_num"] <= end_col]
-    
-    if code != "A":
-        needed = max(0, 24 - len(c_list))
-        r_slice = [r for r in recolor_cars if r["col_num"] < start_col]
-        start_r = (i - 1) * 11
-        added_recolors = r_slice[start_r : start_r + needed]
-        c_list.extend(added_recolors)
-    
-    for car in c_list:
-        if sth_name.lower() in car["name"].lower():
-            car["is_sth"] = True
-        if th_name.lower() in car["name"].lower() and not car["is_sth"]:
-            car["is_th"] = True
-            
-    sth_count = sum(1 for c in c_list if c["is_sth"])
-    th_count = sum(1 for c in c_list if c["is_th"])
-    new_count = sum(1 for c in c_list if c["is_new"])
-    
-    cases_dict[code] = {
-        "case_letter": code,
-        "title": f"2026 MIX {code}",
-        "full_name": f"Hot Wheels 2026 Mainlines — Case Mix {code}",
-        "sth_name": sth_name,
-        "th_name": th_name,
-        "sth_count": sth_count,
-        "th_count": th_count,
-        "new_count": new_count,
-        "total_count": len(c_list),
-        "cars": c_list
-    }
-
-with open("cases_2026_full.json", "w", encoding="utf-8") as f:
-    json.dump(cases_dict, f, indent=2)
+# 1. Load the comprehensive 2026 cases dataset with localized images
+with open("cases_2026_full.json", "r", encoding="utf-8") as f:
+    cases_dict = json.load(f)
 
 json_str = json.dumps(cases_dict)
 
@@ -112,7 +11,10 @@ html_content = f'''<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
+  <meta name="theme-color" content="#ff5f1f">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <title>Hot Wheels 2026 Mainlines — Master Case Matrix (All Cases)</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -143,7 +45,8 @@ html_content = f'''<!DOCTYPE html>
     html, body {{
       width: 100vw;
       height: 100vh;
-      overflow: hidden; /* STRICT NO-SCROLL REQUIREMENT */
+      min-height: 100dvh;
+      overflow: hidden; /* STRICT NO-SCROLL ON DESKTOP */
       background-color: #f1f2f4;
       background-image: radial-gradient(#d1d5db 1.2px, transparent 1.2px);
       background-size: 16px 16px;
@@ -153,18 +56,75 @@ html_content = f'''<!DOCTYPE html>
       flex-direction: column;
     }}
 
-    /* COMPACT HEADER TOOLBAR */
+    body.modal-open {{
+      overflow: hidden !important;
+    }}
+
+    /* HEADER TOOLBAR */
     .header-bar {{
-      height: 54px;
-      min-height: 54px;
       background: #ffffff;
       border-bottom: var(--border-thick);
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      padding: 0 12px;
-      z-index: 10;
-      gap: 10px;
+      z-index: 50;
+      box-sizing: border-box;
+    }}
+
+    /* DESKTOP HEADER (>= 1025px) */
+    @media (min-width: 1025px) {{
+      .header-bar {{
+        height: 54px;
+        min-height: 54px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 0 12px;
+        gap: 10px;
+      }}
+
+      .header-top-row {{
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        flex-shrink: 0;
+      }}
+
+      .cases-nav-container {{
+        display: flex;
+        align-items: center;
+        flex-shrink: 0;
+      }}
+
+      .cases-nav {{
+        display: flex;
+        align-items: center;
+        gap: 4px;
+        background: #f1f5f9;
+        border: var(--border-thin);
+        padding: 3px;
+        box-shadow: 2px 2px 0px #000000;
+      }}
+
+      .stats-pills-container {{
+        display: flex;
+        align-items: center;
+        flex-shrink: 0;
+      }}
+
+      .stats-pills {{
+        display: flex;
+        gap: 6px;
+        flex-shrink: 0;
+      }}
+
+      .header-actions.desktop-only {{
+        display: flex;
+        gap: 6px;
+        align-items: center;
+        flex-shrink: 0;
+      }}
+
+      .mobile-only {{
+        display: none !important;
+      }}
     }}
 
     .brand-group {{
@@ -183,17 +143,6 @@ html_content = f'''<!DOCTYPE html>
       display: flex;
       align-items: center;
       gap: 6px;
-    }}
-
-    /* 15 CASE SELECTOR PILLS */
-    .cases-nav {{
-      display: flex;
-      align-items: center;
-      gap: 4px;
-      background: #f1f5f9;
-      border: var(--border-thin);
-      padding: 3px;
-      box-shadow: 2px 2px 0px #000000;
     }}
 
     .case-pill {{
@@ -221,12 +170,6 @@ html_content = f'''<!DOCTYPE html>
       transform: translate(-1px, -1px);
     }}
 
-    .stats-pills {{
-      display: flex;
-      gap: 6px;
-      flex-shrink: 0;
-    }}
-
     .pill {{
       display: flex;
       align-items: center;
@@ -245,13 +188,7 @@ html_content = f'''<!DOCTYPE html>
     .pill.sth {{ background: var(--sth-gold); }}
     .pill.th {{ background: #bbf7d0; }}
     .pill.new {{ background: #bae6fd; }}
-
-    .header-actions {{
-      display: flex;
-      gap: 6px;
-      align-items: center;
-      flex-shrink: 0;
-    }}
+    .pill.recolor {{ background: #e2e8f0; }}
 
     .btn-action {{
       background: var(--accent);
@@ -277,22 +214,29 @@ html_content = f'''<!DOCTYPE html>
       box-shadow: 1px 1px 0px #000000;
     }}
 
-    /* 9 x 3 GRID CONTAINER (FITS 27 CARS STRICTLY WITHIN VIEWPORT) */
-    .grid-container {{
-      width: 100%;
-      height: calc(100vh - 54px);
-      padding: 6px 8px;
-      display: grid;
-      grid-template-columns: repeat(9, minmax(0, 1fr));
-      grid-template-rows: repeat(3, minmax(0, 1fr));
-      gap: 6px;
-      box-sizing: border-box;
-      perspective: 1200px;
+    .btn-action:active {{
+      transform: translate(2px, 2px);
+      box-shadow: 0px 0px 0px #000000;
     }}
 
-    .grid-container.layout-7x4 {{
-      grid-template-columns: repeat(7, minmax(0, 1fr));
-      grid-template-rows: repeat(4, minmax(0, 1fr));
+    /* DESKTOP GRID CONTAINER (FITS STRICTLY WITHIN VIEWPORT) */
+    @media (min-width: 1025px) {{
+      .grid-container {{
+        width: 100%;
+        height: calc(100vh - 54px);
+        padding: 6px 8px;
+        display: grid;
+        grid-template-columns: repeat(9, minmax(0, 1fr));
+        grid-template-rows: repeat(3, minmax(0, 1fr));
+        gap: 6px;
+        box-sizing: border-box;
+        perspective: 1200px;
+      }}
+
+      .grid-container.layout-7x4 {{
+        grid-template-columns: repeat(7, minmax(0, 1fr));
+        grid-template-rows: repeat(4, minmax(0, 1fr));
+      }}
     }}
 
     /* INDIVIDUAL CAR CARD */
@@ -953,13 +897,14 @@ html_content = f'''<!DOCTYPE html>
           badgeHtml = '<span class="micro-badge recolor">2ND COLOR</span>';
         }}
 
+        const carImg = car.local_img || car.img;
         card.innerHTML = `
           <div class="card-header">
             <span class="card-col">#${{car.col}}</span>
             <span class="card-toy">${{car.toy}}</span>
           </div>
           <div class="card-img-box">
-            <img src="${{car.img}}" alt="${{car.name}}" loading="lazy" onerror="this.onerror=null; this.src='https://placehold.co/240x140/000/fff?text=${{encodeURIComponent(car.name)}}'">
+            <img src="${{carImg}}" alt="${{car.name}}" loading="lazy" onerror="if(this.src!=='${{car.img}}'){{this.src='${{car.img}}';}}else{{this.onerror=null;this.src='https://placehold.co/240x140/000/fff?text=${{encodeURIComponent(car.name)}}';}}">
             ${{badgeHtml}}
           </div>
           <div class="card-info">
@@ -981,9 +926,10 @@ html_content = f'''<!DOCTYPE html>
     }}
 
     function updateFrontFace(car) {{
+      const carImg = car.local_img || car.img;
       document.getElementById("mf-col").textContent = `#${{car.col}}`;
       document.getElementById("mf-toy").textContent = car.toy;
-      document.getElementById("mf-img").src = car.img;
+      document.getElementById("mf-img").src = carImg;
       document.getElementById("mf-name").textContent = car.name;
       document.getElementById("mf-series").textContent = car.series;
       document.getElementById("mf-subnum").textContent = car.sub_num;
@@ -1003,12 +949,13 @@ html_content = f'''<!DOCTYPE html>
     }}
 
     function updateBackFace(car) {{
+      const carImg = car.local_img || car.img;
       document.getElementById("mb-col").textContent = `#${{car.col}}`;
       document.getElementById("mb-toy").textContent = car.toy;
       document.getElementById("mb-name").textContent = car.name;
       document.getElementById("mb-series").textContent = car.series;
       document.getElementById("mb-subnum").textContent = `${{car.sub_num}} in sub-series`;
-      document.getElementById("mb-img").src = car.img;
+      document.getElementById("mb-img").src = carImg;
 
       // Clickable image link & sidebar button to Hot Wheels Fandom Wiki
       const wikiTarget = car.wiki_url || "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels";
