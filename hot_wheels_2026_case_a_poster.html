@@ -1,0 +1,793 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hot Wheels 2026 Case A — Mainline Collector Sheet</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Anybody:wght@700;800;900&family=Hanken+Grotesk:wght@500;600;700&family=JetBrains+Mono:wght@700;800&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #ffffff;
+      --surface: #f9f9f9;
+      --card-bg: #ffffff;
+      --black: #000000;
+      --accent: #ff5f1f;
+      --accent-hover: #e04f14;
+      --sth-gold: #ffd700;
+      --th-green: #10b981;
+      --new-blue: #2563eb;
+      --border-thick: 4px solid #000000;
+      --border-med: 3px solid #000000;
+      --border-thin: 2px solid #000000;
+      --shadow-hard: 6px 6px 0px #000000;
+      --shadow-sm: 3px 3px 0px #000000;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      background-color: #f0f0f0;
+      background-image: radial-gradient(#d1d5db 1px, transparent 1px);
+      background-size: 20px 20px;
+      font-family: 'Hanken Grotesk', -apple-system, BlinkMacSystemFont, sans-serif;
+      color: #000000;
+      padding: 30px 20px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .toolbar {
+      width: 100%;
+      max-width: 1400px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 24px;
+      background: #ffffff;
+      border: var(--border-thick);
+      box-shadow: var(--shadow-hard);
+      padding: 16px 24px;
+    }
+
+    .toolbar-title {
+      font-family: 'Anybody', sans-serif;
+      font-weight: 900;
+      font-size: 1.25rem;
+      text-transform: uppercase;
+      letter-spacing: -0.02em;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .toolbar-title .badge {
+      background: var(--accent);
+      color: #ffffff;
+      padding: 4px 10px;
+      border: var(--border-thin);
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.85rem;
+      font-weight: 800;
+    }
+
+    .btn-export {
+      background: var(--accent);
+      color: #ffffff;
+      border: var(--border-thick);
+      box-shadow: var(--shadow-sm);
+      font-family: 'Anybody', sans-serif;
+      font-weight: 800;
+      font-size: 1rem;
+      text-transform: uppercase;
+      padding: 12px 24px;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      transition: all 0.1s ease;
+    }
+
+    .btn-export:hover {
+      background: var(--accent-hover);
+      transform: translate(2px, 2px);
+      box-shadow: 2px 2px 0px #000000;
+    }
+
+    .btn-export:active {
+      transform: translate(4px, 4px);
+      box-shadow: 0px 0px 0px #000000;
+    }
+
+    /* THE POSTER CANVAS CONTAINER */
+    #poster-canvas-wrapper {
+      width: 100%;
+      max-width: 1400px;
+      background: #ffffff;
+      border: var(--border-thick);
+      box-shadow: 8px 8px 0px #000000;
+      padding: 36px;
+    }
+
+    .poster-header {
+      border: var(--border-thick);
+      background: #ffffff;
+      padding: 24px 30px;
+      margin-bottom: 30px;
+      box-shadow: var(--shadow-hard);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 20px;
+      position: relative;
+    }
+
+    .poster-header::before {
+      content: "";
+      position: absolute;
+      top: -10px;
+      left: 20px;
+      background: var(--accent);
+      border: var(--border-thin);
+      padding: 2px 14px;
+      font-family: 'JetBrains Mono', monospace;
+      font-weight: 800;
+      font-size: 0.75rem;
+      color: #ffffff;
+      letter-spacing: 0.05em;
+    }
+
+    .header-left h1 {
+      font-family: 'Anybody', sans-serif;
+      font-weight: 900;
+      font-size: 2.6rem;
+      line-height: 1.05;
+      text-transform: uppercase;
+      letter-spacing: -0.03em;
+    }
+
+    .header-left h1 span.orange {
+      color: var(--accent);
+      background: #000000;
+      padding: 0 10px;
+      display: inline-block;
+    }
+
+    .header-left p {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.95rem;
+      font-weight: 700;
+      color: #555555;
+      margin-top: 8px;
+    }
+
+    .header-stats {
+      display: flex;
+      gap: 16px;
+    }
+
+    .stat-box {
+      border: var(--border-med);
+      padding: 10px 18px;
+      text-align: center;
+      background: #ffffff;
+      box-shadow: var(--shadow-sm);
+    }
+
+    .stat-box.highlight-sth {
+      background: var(--sth-gold);
+    }
+
+    .stat-box.highlight-th {
+      background: #a7f3d0;
+    }
+
+    .stat-val {
+      font-family: 'Anybody', sans-serif;
+      font-weight: 900;
+      font-size: 1.8rem;
+      line-height: 1;
+    }
+
+    .stat-lbl {
+      font-family: 'JetBrains Mono', monospace;
+      font-weight: 800;
+      font-size: 0.7rem;
+      text-transform: uppercase;
+      margin-top: 4px;
+    }
+
+    /* GRID LAYOUT */
+    .cars-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+      gap: 20px;
+    }
+
+    .car-card {
+      background: #ffffff;
+      border: var(--border-thick);
+      box-shadow: var(--shadow-sm);
+      display: flex;
+      flex-direction: column;
+      position: relative;
+      transition: transform 0.1s ease;
+    }
+
+    .car-card:hover {
+      transform: translateY(-2px);
+      box-shadow: 5px 5px 0px #000000;
+    }
+
+    .car-card.is-sth {
+      border: 4px solid #000000;
+      background: #fffdf0;
+      box-shadow: 6px 6px 0px var(--sth-gold), 6px 6px 0px 4px #000000;
+    }
+
+    .car-card.is-th {
+      border: 4px solid #000000;
+      background: #f0fdf4;
+      box-shadow: 6px 6px 0px var(--th-green), 6px 6px 0px 4px #000000;
+    }
+
+    .card-topbar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 8px 12px;
+      border-bottom: var(--border-med);
+      background: #eeeeee;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.8rem;
+      font-weight: 800;
+    }
+
+    .col-num {
+      background: #000000;
+      color: #ffffff;
+      padding: 2px 6px;
+      font-weight: 800;
+    }
+
+    .toy-num {
+      color: #333333;
+    }
+
+    .card-image-box {
+      width: 100%;
+      height: 170px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 12px;
+      background: #ffffff;
+      position: relative;
+      overflow: hidden;
+      border-bottom: var(--border-med);
+    }
+
+    .card-image-box img {
+      max-width: 100%;
+      max-height: 100%;
+      object-fit: contain;
+      filter: drop-shadow(0 4px 6px rgba(0,0,0,0.15));
+    }
+
+    .badge-pill {
+      position: absolute;
+      top: 8px;
+      right: 8px;
+      padding: 3px 8px;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.65rem;
+      font-weight: 800;
+      border: var(--border-thin);
+      text-transform: uppercase;
+      box-shadow: 2px 2px 0px #000000;
+    }
+
+    .badge-pill.sth {
+      background: var(--sth-gold);
+      color: #000000;
+    }
+
+    .badge-pill.th {
+      background: var(--th-green);
+      color: #ffffff;
+    }
+
+    .badge-pill.new {
+      background: var(--accent);
+      color: #ffffff;
+    }
+
+    .card-body {
+      padding: 12px;
+      display: flex;
+      flex-direction: column;
+      flex-grow: 1;
+      justify-content: space-between;
+      background: #fafafa;
+    }
+
+    .car-name {
+      font-family: 'Anybody', sans-serif;
+      font-weight: 800;
+      font-size: 1.05rem;
+      line-height: 1.2;
+      text-transform: uppercase;
+      letter-spacing: -0.01em;
+      margin-bottom: 6px;
+    }
+
+    .card-footer {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.72rem;
+      font-weight: 700;
+      color: #555555;
+      margin-top: 6px;
+      padding-top: 6px;
+      border-top: 1px dashed #cccccc;
+    }
+
+    .series-tag {
+      font-weight: 800;
+      color: #000000;
+      text-transform: uppercase;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      max-width: 140px;
+    }
+
+    .sub-num-tag {
+      background: #e2e8f0;
+      padding: 1px 5px;
+      border: 1px solid #000000;
+    }
+
+    .poster-footer {
+      margin-top: 36px;
+      padding-top: 18px;
+      border-top: var(--border-thick);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.8rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      color: #666666;
+    }
+
+    .footer-brand {
+      color: #000000;
+      font-weight: 800;
+    }
+
+    @media print {
+      body {
+        padding: 0;
+        background: #ffffff;
+      }
+      .toolbar {
+        display: none;
+      }
+      #poster-canvas-wrapper {
+        border: none;
+        box-shadow: none;
+        padding: 0;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- CONTROL TOOLBAR -->
+  <div class="toolbar">
+    <div class="toolbar-title">
+      <span>HOT WHEELS AUTOMATION WORKFLOW</span>
+      <span class="badge">CASE 2026 A</span>
+    </div>
+    <div style="display: flex; gap: 12px;">
+      <a href="index.html" class="btn-export" style="text-decoration: none; background: #000000;">⚡ No-Scroll 3D Matrix</a>
+      <button class="btn-export" onclick="window.print()">🖨️ Print / Save PDF</button>
+      <button class="btn-export" onclick="exportToCanvas()">📸 Export PNG Image</button>
+    </div>
+  </div>
+
+  <!-- RENDERABLE COMPOSITE POSTER -->
+  <div id="poster-canvas-wrapper">
+    <header class="poster-header">
+      <div class="header-left">
+        <h1>HOT WHEELS <span class="orange">2026 MIX A</span></h1>
+        <p>CASE ASSORTMENT MANIFEST & COMPOSITE VISUAL CHECKLIST</p>
+      </div>
+      <div class="header-stats">
+        <div class="stat-box">
+          <div class="stat-val" id="total-models">27</div>
+          <div class="stat-lbl">Unique Castings</div>
+        </div>
+        <div class="stat-box highlight-sth">
+          <div class="stat-val">1</div>
+          <div class="stat-lbl">$TH Super Hunt</div>
+        </div>
+        <div class="stat-box highlight-th">
+          <div class="stat-val">1</div>
+          <div class="stat-lbl">TH Reg Hunt</div>
+        </div>
+        <div class="stat-box" style="background: #e0f2fe;">
+          <div class="stat-val">5</div>
+          <div class="stat-lbl">New Toolings</div>
+        </div>
+      </div>
+    </header>
+
+    <!-- CARS TABLE GRID -->
+    <main class="cars-grid" id="cars-grid">
+      <!-- Generated via JS below -->
+    </main>
+
+    <footer class="poster-footer">
+      <div>BATCH SPEC: <span class="footer-brand">2026 A MAINLINE (001–026 MIX)</span> • 72-COUNT MASTER CASE</div>
+      <div>GENERATED BY <span class="footer-brand">ANTIGRAVITY HOT WHEELS ENGINE</span></div>
+    </footer>
+  </div>
+
+  <!-- SCRIPT INJECTING DATA & CANVAS EXPORT -->
+  <script>
+    const caseACars = [
+      {
+        col: "001",
+        toy: "JJJ02",
+        name: "Mazda MX-5 Miata",
+        series: "HW Dream Garage",
+        sub_num: "1/5",
+        is_sth: false,
+        is_th: false,
+        is_new: false,
+        img: "https://static.wikia.nocookie.net/hotwheels/images/2/26/CyberpunkMazda.jpg/revision/latest"
+      },
+      {
+        col: "002",
+        toy: "JJH80",
+        name: "'16 Lamborghini Centenario",
+        series: "Exoticars",
+        sub_num: "1/10",
+        is_sth: false,
+        is_th: false,
+        is_new: false,
+        img: "https://static.wikia.nocookie.net/hotwheels/images/f/fd/LamborghiniCentenario.jpg/revision/latest"
+      },
+      {
+        col: "003",
+        toy: "JJJ62",
+        name: "Gordon Murray T.33",
+        series: "Exoticars",
+        sub_num: "2/10",
+        is_sth: false,
+        is_th: false,
+        is_new: false,
+        img: "https://static.wikia.nocookie.net/hotwheels/images/3/37/2025GMAT.33.jpg/revision/latest"
+      },
+      {
+        col: "004",
+        toy: "JJH83",
+        name: "Classic Batmobile",
+        series: "Batman",
+        sub_num: "1/5",
+        is_sth: false,
+        is_th: false,
+        is_new: false,
+        img: "https://static.wikia.nocookie.net/hotwheels/images/0/0f/GunmetalBatmobile.jpg/revision/latest"
+      },
+      {
+        col: "005",
+        toy: "JJH30",
+        name: "Pass 'n Go (Monopoly)",
+        series: "Drop Tops",
+        sub_num: "1/5",
+        is_sth: false,
+        is_th: false,
+        is_new: true,
+        img: "https://static.wikia.nocookie.net/hotwheels/images/1/19/Pass%27nGo.jpg/revision/latest"
+      },
+      {
+        col: "006",
+        toy: "JJH84",
+        name: "RD-06 (Acceleracers)",
+        series: "X-Raycers",
+        sub_num: "1/5",
+        is_sth: false,
+        is_th: false,
+        is_new: false,
+        img: "https://static.wikia.nocookie.net/hotwheels/images/d/d4/XRD-06.jpg/revision/latest"
+      },
+      {
+        col: "007",
+        toy: "JJH85",
+        name: "Solar Reflex",
+        series: "HW EV",
+        sub_num: "1/10",
+        is_sth: false,
+        is_th: false,
+        is_new: false,
+        img: "https://static.wikia.nocookie.net/hotwheels/images/8/86/SolarReflexEV.jpg/revision/latest"
+      },
+      {
+        col: "008",
+        toy: "JJH86",
+        name: "Ford Mustang Mach-E 1400",
+        series: "HW EV",
+        sub_num: "2/10",
+        is_sth: false,
+        is_th: false,
+        is_new: false,
+        img: "https://static.wikia.nocookie.net/hotwheels/images/3/32/MustangMach-E1400.jpg/revision/latest"
+      },
+      {
+        col: "009",
+        toy: "JJM00",
+        name: "'87 Buick Regal GNX",
+        series: "Nightspeed",
+        sub_num: "1/10",
+        is_sth: false,
+        is_th: true,
+        is_new: false,
+        img: "https://static.wikia.nocookie.net/hotwheels/images/7/7e/BuickRegal.jpg/revision/latest"
+      },
+      {
+        col: "010",
+        toy: "JJH87",
+        name: "2020 Shelby GT500",
+        series: "Nightspeed",
+        sub_num: "2/10",
+        is_sth: false,
+        is_th: false,
+        is_new: false,
+        img: "https://static.wikia.nocookie.net/hotwheels/images/0/00/2020FordShelbyGT500.jpg/revision/latest"
+      },
+      {
+        col: "011",
+        toy: "JJH88",
+        name: "2018 Honda Civic Type R",
+        series: "Nightspeed",
+        sub_num: "3/10",
+        is_sth: false,
+        is_th: false,
+        is_new: false,
+        img: "https://static.wikia.nocookie.net/hotwheels/images/6/6a/2018FK8.jpg/revision/latest"
+      },
+      {
+        col: "012",
+        toy: "JJH89",
+        name: "Carbonator (Happy 2026)",
+        series: "Experimotors",
+        sub_num: "1/5",
+        is_sth: false,
+        is_th: false,
+        is_new: false,
+        img: "https://static.wikia.nocookie.net/hotwheels/images/d/d6/HNY26Carbonator.jpg/revision/latest"
+      },
+      {
+        col: "013",
+        toy: "JJH90",
+        name: "Drift-Ender (Mainline)",
+        series: "Truckin' Along",
+        sub_num: "1/5",
+        is_sth: false,
+        is_th: false,
+        is_new: false,
+        img: "https://static.wikia.nocookie.net/hotwheels/images/3/3d/DriftDefender.jpg/revision/latest"
+      },
+      {
+        col: "013",
+        toy: "JJM15",
+        name: "Drift-Ender (Super $TH)",
+        series: "Truckin' Along",
+        sub_num: "1/5",
+        is_sth: true,
+        is_th: false,
+        is_new: false,
+        img: "https://static.wikia.nocookie.net/hotwheels/images/e/e2/STH_Drift-Ender.jpg/revision/latest"
+      },
+      {
+        col: "014",
+        toy: "JJH91",
+        name: "'20 Jeep Gladiator",
+        series: "Truckin' Along",
+        sub_num: "2/5",
+        is_sth: false,
+        is_th: false,
+        is_new: false,
+        img: "https://static.wikia.nocookie.net/hotwheels/images/1/1b/2020Gladiator.jpg/revision/latest"
+      },
+      {
+        col: "015",
+        toy: "JJH33",
+        name: "Porsche 911 Carrera T",
+        series: "Factory Fresh",
+        sub_num: "1/5",
+        is_sth: false,
+        is_th: false,
+        is_new: true,
+        img: "https://static.wikia.nocookie.net/hotwheels/images/9/94/Porsche911CarreraT.jpg/revision/latest"
+      },
+      {
+        col: "016",
+        toy: "JJH92",
+        name: "Maserati Shamal",
+        series: "Factory Fresh",
+        sub_num: "2/5",
+        is_sth: false,
+        is_th: false,
+        is_new: false,
+        img: "https://static.wikia.nocookie.net/hotwheels/images/f/fa/1992MaseratiShamal.jpg/revision/latest"
+      },
+      {
+        col: "017",
+        toy: "JJH32",
+        name: "Bounce'n Bass",
+        series: "Layin' Low",
+        sub_num: "1/5",
+        is_sth: false,
+        is_th: false,
+        is_new: true,
+        img: "https://static.wikia.nocookie.net/hotwheels/images/3/34/Bounce%27nBass.jpg/revision/latest"
+      },
+      {
+        col: "018",
+        toy: "JJH93",
+        name: "Deora II",
+        series: "HW Fan Driven",
+        sub_num: "1/5",
+        is_sth: false,
+        is_th: false,
+        is_new: false,
+        img: "https://static.wikia.nocookie.net/hotwheels/images/0/0e/Surfin%27Deora.jpg/revision/latest"
+      },
+      {
+        col: "019",
+        toy: "JJH94",
+        name: "Rodger Dodger",
+        series: "HW Fan Driven",
+        sub_num: "2/5",
+        is_sth: false,
+        is_th: false,
+        is_new: false,
+        img: "https://static.wikia.nocookie.net/hotwheels/images/e/e9/FanDrivenDodger.jpg/revision/latest"
+      },
+      {
+        col: "020",
+        toy: "JJH95",
+        name: "McLaren F1 MCL39",
+        series: "Formula 1",
+        sub_num: "1/5",
+        is_sth: false,
+        is_th: false,
+        is_new: false,
+        img: "https://static.wikia.nocookie.net/hotwheels/images/d/dc/McLarenMastercardMCL39.jpg/revision/latest"
+      },
+      {
+        col: "021",
+        toy: "JJH96",
+        name: "Barbie Dream Camper",
+        series: "Mattel",
+        sub_num: "1/5",
+        is_sth: false,
+        is_th: false,
+        is_new: false,
+        img: "https://static.wikia.nocookie.net/hotwheels/images/e/ef/Dreamcamper.jpg/revision/latest"
+      },
+      {
+        col: "022",
+        toy: "JJH31",
+        name: "Instant Boost",
+        series: "HW Starting Grid",
+        sub_num: "1/10",
+        is_sth: false,
+        is_th: false,
+        is_new: true,
+        img: "https://static.wikia.nocookie.net/hotwheels/images/b/b3/InstantBoost.jpg/revision/latest"
+      },
+      {
+        col: "023",
+        toy: "JJH97",
+        name: "'69 Dodge Charger Daytona",
+        series: "HW Starting Grid",
+        sub_num: "2/10",
+        is_sth: false,
+        is_th: false,
+        is_new: false,
+        img: "https://static.wikia.nocookie.net/hotwheels/images/8/8c/1969DodgeDaytona.jpg/revision/latest"
+      },
+      {
+        col: "024",
+        toy: "JJH82",
+        name: "Track Ripper",
+        series: "HW Starting Grid",
+        sub_num: "3/10",
+        is_sth: false,
+        is_th: false,
+        is_new: false,
+        img: "https://static.wikia.nocookie.net/hotwheels/images/0/0d/TrackRipper.jpg/revision/latest"
+      },
+      {
+        col: "025",
+        toy: "JJH81",
+        name: "McMurtry Spéirling",
+        series: "Exoticars",
+        sub_num: "3/10",
+        is_sth: false,
+        is_th: false,
+        is_new: false,
+        img: "https://static.wikia.nocookie.net/hotwheels/images/f/f7/McMurtrySp%C3%A9irlingPure.jpg/revision/latest"
+      },
+      {
+        col: "026",
+        toy: "JJH34",
+        name: "'Tooned Pagani Zonda",
+        series: "Exoticars",
+        sub_num: "4/10",
+        is_sth: false,
+        is_th: false,
+        is_new: true,
+        img: "https://static.wikia.nocookie.net/hotwheels/images/9/99/%27ToonedZonda.jpg/revision/latest"
+      }
+    ];
+
+    const grid = document.getElementById("cars-grid");
+    document.getElementById("total-models").textContent = caseACars.length;
+
+    caseACars.forEach(car => {
+      const card = document.createElement("div");
+      card.className = "car-card" + (car.is_sth ? " is-sth" : (car.is_th ? " is-th" : ""));
+      
+      let badgeHtml = "";
+      if (car.is_sth) {
+        badgeHtml = '<div class="badge-pill sth">★ $TH SUPER</div>';
+      } else if (car.is_th) {
+        badgeHtml = '<div class="badge-pill th">♨ TREASURE HUNT</div>';
+      } else if (car.is_new) {
+        badgeHtml = '<div class="badge-pill new">★ NEW CASTING</div>';
+      }
+
+      card.innerHTML = `
+        <div class="card-topbar">
+          <span class="col-num">#${car.col}</span>
+          <span class="toy-num">${car.toy}</span>
+        </div>
+        <div class="card-image-box">
+          <img src="${car.img}" alt="${car.name}" loading="lazy" onerror="this.onerror=null; this.src='https://placehold.co/300x180/000/fff?text=${encodeURIComponent(car.name)}'">
+          ${badgeHtml}
+        </div>
+        <div class="card-body">
+          <div class="car-name">${car.name}</div>
+          <div class="card-footer">
+            <span class="series-tag">${car.series}</span>
+            <span class="sub-num-tag">${car.sub_num}</span>
+          </div>
+        </div>
+      `;
+      grid.appendChild(card);
+    });
+
+    // Client-side Canvas rendering export
+    function exportToCanvas() {
+      alert("Preparing high-res snapshot... You can also use 'Print / Save PDF' to output at native vector 300 DPI.");
+      window.print();
+    }
+  </script>
+</body>
+</html>
