@@ -1711,17 +1711,17 @@ owned_cars = [
     },
     {
         "id": "loose-046",
-        "name": "BMW M4 GT3 (Black / M-Sport)",
+        "name": "BMW Z4 GT3 (Black / M-Sport)",
         "brand": "Hot Wheels",
         "condition": "Loose",
         "category": "Exotics & Supercars",
-        "series": "HW Starting Grid",
-        "col_num": "#073/250",
+        "series": "HW Race Day",
+        "col_num": "Loose",
         "image": "images/owned/loose_bmw_m4_gt3_black.jpg",
-        "official_image": "images/car_073_JNG69.webp",
+        "official_image": None,
         "color": "Gloss Black / M-Tricolor #2",
-        "description": "Factory GT3 endurance racing machine in gloss black with iconic BMW M-Power tricolor hood and roof striping, #2 roundel, and swan-neck wing.",
-        "tags": ["Hot Wheels", "Loose", "BMW", "GT3", "M-Power", "Race"]
+        "description": "BMW Motorsport GT3 racing machine in gloss black with iconic BMW M tricolor hood and roof striping, #2 roundel, and large GT rear wing.",
+        "tags": ["Hot Wheels", "Loose", "BMW", "Z4 GT3", "M-Power", "Race"]
     },
     {
         "id": "loose-047",
@@ -1767,7 +1767,7 @@ owned_cars = [
     },
     {
         "id": "loose-050",
-        "name": "Forward Force (X-Raycers)",
+        "name": "DAVancenator (X-Raycers)",
         "brand": "Hot Wheels",
         "condition": "Loose",
         "category": "Concept & Track",
@@ -1776,22 +1776,22 @@ owned_cars = [
         "image": "images/owned/loose_forward_force_translucent_orange.jpg",
         "official_image": None,
         "color": "Translucent Orange / Blue Wing",
-        "description": "Futuristic high-speed hypercar molded in translucent amber orange with contrasting electric blue front canards and rear spoiler.",
-        "tags": ["Hot Wheels", "Loose", "X-Raycers", "Concept", "Speed"]
+        "description": "Dwayne Vance designed futuristic aerodynamic hypercar molded in translucent amber orange with contrasting electric blue front canards and rear spoiler.",
+        "tags": ["Hot Wheels", "Loose", "X-Raycers", "DAVancenator", "Concept", "Speed"]
     },
     {
         "id": "loose-051",
-        "name": "Justice League Armored Batmobile",
+        "name": "Custom Painted DAVancenator",
         "brand": "Hot Wheels",
         "condition": "Loose",
         "category": "Concept & Track",
-        "series": "Batman",
+        "series": "Custom Build",
         "col_num": "Loose",
         "image": "images/owned/loose_justice_league_batmobile_grey.jpg",
         "official_image": None,
         "color": "Satin Battle-Grey",
-        "description": "Armored combat-modified Batmobile from Justice League featuring hood-mounted heavy artillery cannon turret and angular armor panels.",
-        "tags": ["Hot Wheels", "Loose", "Batman", "Batmobile", "Movie"]
+        "description": "User-custom painted DAVancenator casting finished in custom matte battle-grey tactical combat livery.",
+        "tags": ["Hot Wheels", "Loose", "DAVancenator", "Custom", "Modded", "Paint"]
     },
     {
         "id": "loose-052",
@@ -1809,17 +1809,17 @@ owned_cars = [
     },
     {
         "id": "loose-053",
-        "name": "Aero GT Rally Coupe",
+        "name": "Fast 4WD",
         "brand": "Hot Wheels",
         "condition": "Loose",
         "category": "Concept & Track",
-        "series": "HW Track Stars",
+        "series": "HW Track Stars / Rally",
         "col_num": "Loose",
         "image": "images/owned/loose_black_white_wing_gt_coupe.jpg",
         "official_image": None,
         "color": "Matte Black / White Wing",
-        "description": "Tarmac rally sports coupe with roof ventilation scoop, contrasting grey lower side cladding, and high-downforce white competition rear wing.",
-        "tags": ["Hot Wheels", "Loose", "Concept", "Track", "Rally"]
+        "description": "Miguel López designed high-performance rally hatchback (featured in Rocket League) in matte black with roof scoop and high-downforce white rear wing.",
+        "tags": ["Hot Wheels", "Loose", "Fast 4WD", "Rocket League", "Rally", "4WD"]
     }
 ]
 

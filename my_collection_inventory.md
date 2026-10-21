@@ -238,13 +238,13 @@
 |---|---|---|---|---|---|---|
 | 122 | Hot Wheels | **Mailed It! (White Edition)** | Team Wheels | In Packaging | White body with golden Hot Wheels flame roof graphics & red rear rims | #168/250 |
 | 123 | Custom / HW | **Custom Modded Crawler Truck** | Custom Build | Loose | Bright yellow truck body custom-mounted onto heavy-duty rubber caterpillar / snow crawler tracks | Custom Mod |
-| 124 | Hot Wheels | **BMW M4 GT3 (Black / M-Sport)** | HW Starting Grid | Loose | Gloss black GT3 endurance racer with M-Sport tricolor hood/roof stripes & #2 roundel | #073/250 |
+| 124 | Hot Wheels | **BMW Z4 GT3 (Black / M-Sport)** | HW Race Day | Loose | Gloss black GT3 endurance racer with M tricolor hood/roof stripes, #2 roundel & large rear wing | GT3 Racer |
 | 125 | Hot Wheels | **'98 Subaru Impreza 22B STi-Version** | HW J-Imports | Loose | Gloss black widebody turbo rally icon with bold white '#22' roof racing tampo & white aerodisc wheels | JDM Classic |
 | 126 | Hot Wheels | **Mitsubishi Lancer Evolution VI** | Car Culture / Rally | Loose | Classic white Tommi Mäkinen WRC livery with red/black Ralliart side graphics & #1 roundels | WRC Legend |
 | 127 | Hot Wheels | **24/Seven (Lime Green)** | HW Nightspeed | Loose | Metallic lime green street tuner inspired by FD RX-7 with extended chin splitter & GT wing | JDM Tuner |
-| 128 | Hot Wheels | **Forward Force (X-Raycers)** | X-Raycers | Loose | Translucent amber-orange futuristic hypercar with contrasting electric blue front canards & rear spoiler | X-Raycers |
-| 129 | Hot Wheels | **Justice League Armored Batmobile** | Batman / Screen Time | Loose | Satin battle-grey armored DCEU Batmobile with hood-mounted twin artillery cannon turret | Movie Vehicle |
+| 128 | Hot Wheels | **DAVancenator (X-Raycers)** | X-Raycers | Loose | Dwayne Vance designed translucent amber-orange hypercar with electric blue canards & spoiler | X-Raycers |
+| 129 | Hot Wheels | **Custom Painted DAVancenator** | Custom Build | Loose | User-custom painted DAVancenator casting finished in custom matte battle-grey tactical combat livery | Custom Paint |
 | 130 | Hot Wheels | **Custom Delivery / Box Hauler Truck** | HW Delivery | Loose | Red cab, dual blue vertical exhaust stacks, and silver cargo van body with retro mascot graphics | Vintage Hauler |
-| 131 | Hot Wheels | **Aero GT Rally Coupe** | HW Track Stars | Loose | Matte black tarmac rally coupe with roof ventilation scoop, grey lower cladding & high white rear wing | Track Stars |
+| 131 | Hot Wheels | **Fast 4WD** | HW Track Stars / Rally | Loose | Miguel López designed rally hatchback (Rocket League) in matte black with roof scoop & white rear wing | Rally / 4WD |
 
 
