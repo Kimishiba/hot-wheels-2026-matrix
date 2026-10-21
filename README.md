@@ -13,7 +13,8 @@ An interactive visual checklist and composite poster generator for the complete 
 - **Shared-Element 3D Flip & Morph:** Clicking any car physically lifts it off the grid slot and flips it in 3D into an enlarged inspector card.
 - **Direct Hot Wheels Fandom Wiki Integration:** Click the image or the dedicated button in the expanded view to jump straight to that model's official Fandom Wiki article.
 - **Chase Vehicle Tracking:** Standout indicators for **$TH (Super Treasure Hunts)**, **TH (Regular Treasure Hunts)**, and brand-new tooling debuts.
-- **Exportable Manifests:** Individual JSON files for every case (`2026_case_a_manifest.json` to `2026_case_q_manifest.json`) plus master dataset `cases_2026_full.json`.
+- **Personal Owned Collection Garage (`collection.html`):** An interactive visual inventory of 112 owned Hot Wheels and Matchbox cars featuring cropped vehicle photography, distinct condition badges (In Packaging vs. Loose), multi-category filtering, and real-time search.
+- **Exportable Manifests:** Individual JSON files for every case (`2026_case_a_manifest.json` to `2026_case_q_manifest.json`) plus master dataset `cases_2026_full.json` and owned collection dataset `owned_cars.json`.
 
 ---
 
